@@ -27,17 +27,24 @@ jobs:
           test -n "$WEEKLY_PUBLISH_URL"
           test -n "$WEEKLY_API_KEY"
 
-      - name: Generate weekly payload
+            - name: Generate weekly payload
         run: |
           chmod +x ./gradlew
-          ./gradlew runWeeklyChallengeExport > weekly-export.log
+          ./gradlew -q runWeeklyChallengeExport > weekly-export.log
           python - <<'PY'
           import json
           from pathlib import Path
 
-          lines = [line.strip() for line in Path("weekly-export.log").read_text(encoding="utf-8").splitlines() if line.strip()]
-          payload = json.loads(lines[-1])
-          Path("weekly-payload.json").write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+          lines = Path("weekly-export.log").read_text(encoding="utf-8").splitlines()
+          json_line = next((line.strip() for line in reversed(lines) if line.strip().startswith("{")), None)
+          if not json_line:
+              raise SystemExit("No JSON payload found in weekly-export.log")
+
+          payload = json.loads(json_line)
+          Path("weekly-payload.json").write_text(
+              json.dumps(payload, ensure_ascii=False),
+              encoding="utf-8"
+          )
           print(f"challengeId={payload['challengeId']}")
           print(f"baseSeed={payload['baseSeed']}")
           PY
