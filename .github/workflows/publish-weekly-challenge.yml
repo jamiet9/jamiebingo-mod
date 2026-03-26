@@ -9,6 +9,7 @@ jobs:
   publish-weekly:
     runs-on: ubuntu-latest
     env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
       WEEKLY_PUBLISH_URL: ${{ secrets.JAMIEBINGO_WEEKLY_PUBLISH_URL }}
       WEEKLY_API_KEY: ${{ secrets.JAMIEBINGO_WEEKLY_API_KEY }}
     steps:
@@ -28,6 +29,7 @@ jobs:
 
       - name: Generate weekly payload
         run: |
+          chmod +x ./gradlew
           ./gradlew runWeeklyChallengeExport > weekly-export.log
           python - <<'PY'
           import json
