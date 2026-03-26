@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "jamiebingo resources",
+    "min_format": [94, 1],
+    "max_format": 94
+  },
+  "forge:resource_pack_format": 94,
+  "forge:data_pack_format": 94
+}

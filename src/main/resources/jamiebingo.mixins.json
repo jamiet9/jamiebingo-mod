@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.jamie.jamiebingo.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "RuinedPortalPieceMixin",
+    "StrongholdPortalRoomMixin",
+    "ToastManagerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

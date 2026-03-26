@@ -1,0 +1,18 @@
+{
+  "complete_slot": {
+    "sounds": [
+      {
+        "name": "jamiebingo:complete_slot",
+        "volume": 30
+      }
+    ]
+  },
+  "complete_line": {
+    "sounds": [
+      {
+        "name": "jamiebingo:complete_line",
+        "volume": 30
+      }
+    ]
+  }
+}

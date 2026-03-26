@@ -1,0 +1,33 @@
+modLoader="javafml"  
+loaderVersion="[61,)"  
+license="All rights reserved"
+
+[[mods]]
+modId="jamiebingo"
+version="1.0.0"
+displayName="JamieBingo"
+logoFile="jamiebingo.png"
+credits="Created by Jamie"
+authors="Jamie"
+description='''
+Global competitive multiplayer Minecraft Bingo with rarity weighting, multiple modes, and stable networking.
+'''
+
+# Forge Dependency
+[[dependencies.jamiebingo]]
+modId="forge"
+mandatory=true
+versionRange="[61,)"
+ordering="NONE"
+side="BOTH"
+
+# Minecraft Dependency
+[[dependencies.jamiebingo]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.11,1.21.12)"
+ordering="NONE"
+side="BOTH"
+
+[[mixins]]
+config="jamiebingo.mixins.json"

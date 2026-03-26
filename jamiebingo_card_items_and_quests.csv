@@ -1,0 +1,1967 @@
+﻿type,id,name,category,rarity,conditions,Adventure mode rarity
+item,minecraft:cooked_chicken,Cooked Chicken,Animal,common,,uncommon
+item,minecraft:cooked_mutton,Cooked Mutton,Animal,common,,uncommon
+item,minecraft:cooked_porkchop,Cooked Porkchop,Animal,common,,uncommon
+item,minecraft:cooked_salmon,Cooked Salmon,Animal,common,,uncommon
+item,minecraft:feather,Feather,Animal,common,,common
+item,minecraft:ink_sac,Ink Sac,Animal,common,,common
+item,minecraft:item_frame,Item Frame,Animal,common,,common
+item,minecraft:leather,Leather,Animal,common,,common
+item,minecraft:leather_boots,Leather Boots,Animal,common,,uncommon
+item,minecraft:leather_helmet,Leather Cap,Animal,common,,uncommon
+item,minecraft:leather_leggings,Leather Pants,Animal,common,,uncommon
+item,minecraft:leather_chestplate,Leather Tunic,Animal,common,,uncommon
+item,minecraft:beef,Raw Beef,Animal,common,,common
+item,minecraft:chicken,Raw Chicken,Animal,common,,common
+item,minecraft:mutton,Raw Mutton,Animal,common,,common
+item,minecraft:porkchop,Raw Porkchop,Animal,common,,common
+item,minecraft:salmon,Raw Salmon,Animal,common,,common
+item,minecraft:cooked_beef,Steak,Animal,common,,uncommon
+item,minecraft:goat_horn,Goat Horn,Animal,epic,,rare
+item,minecraft:turtle_scute,Turtle Scute,Animal,epic,,rare
+item,minecraft:armadillo_scute,Armadillo Scute,Animal,rare,,epic
+item,minecraft:blue_egg,Blue Egg,Animal,rare,,uncommon
+item,minecraft:brown_egg,Brown Egg,Animal,rare,,uncommon
+item,minecraft:egg,Egg,Animal,rare,,uncommon
+item,minecraft:pufferfish,Pufferfish,Animal,rare,,rare
+item,minecraft:tropical_fish,Tropical Fish,Animal,rare,,rare
+item,minecraft:cooked_cod,Cooked Cod,Animal,uncommon,,uncommon
+item,minecraft:glow_ink_sac,Glow Ink Sac,Animal,uncommon,,uncommon
+item,minecraft:glow_item_frame,Glow Item Frame,Animal,uncommon,,uncommon
+item,minecraft:leather_horse_armor,Leather Horse Armor,Animal,uncommon,,uncommon
+item,minecraft:cod,Raw Cod,Animal,uncommon,,common
+item,minecraft:black_bed,Black Bed,Bed,common,,uncommon
+item,minecraft:blue_bed,Blue Bed,Bed,common,,uncommon
+item,minecraft:gray_bed,Gray Bed,Bed,common,,uncommon
+item,minecraft:light_blue_bed,Light Blue Bed,Bed,common,,uncommon
+item,minecraft:light_gray_bed,Light Gray Bed,Bed,common,,uncommon
+item,minecraft:magenta_bed,Magenta Bed,Bed,common,,uncommon
+item,minecraft:orange_bed,Orange Bed,Bed,common,,uncommon
+item,minecraft:pink_bed,Pink Bed,Bed,common,,uncommon
+item,minecraft:purple_bed,Purple Bed,Bed,common,,uncommon
+item,minecraft:red_bed,Red Bed,Bed,common,,uncommon
+item,minecraft:white_bed,White Bed,Bed,common,,uncommon
+item,minecraft:yellow_bed,Yellow Bed,Bed,common,,uncommon
+item,minecraft:cyan_bed,Cyan Bed,Bed,rare,,rare
+item,minecraft:green_bed,Green Bed,Bed,rare,,rare
+item,minecraft:lime_bed,Lime Bed,Bed,rare,,rare
+item,minecraft:brown_bed,Brown Bed,Bed,uncommon,,rare
+item,minecraft:tadpole_bucket,Bucket of Tadpole,Bucket,epic,,
+item,minecraft:axolotl_bucket,Bucket of Axolotl,Bucket,rare,,
+item,minecraft:pufferfish_bucket,Bucket of Pufferfish,Bucket,rare,,legendary
+item,minecraft:tropical_fish_bucket,Bucket of Tropical Fish,Bucket,rare,,legendary
+item,minecraft:powder_snow_bucket,Powder Snow Bucket,Bucket,rare,,epic
+item,minecraft:bucket,Bucket,Bucket,uncommon,,uncommon
+item,minecraft:cod_bucket,Bucket of Cod,Bucket,uncommon,,rare
+item,minecraft:salmon_bucket,Bucket of Salmon,Bucket,uncommon,,
+item,minecraft:lava_bucket,Lava Bucket,Bucket,uncommon,,legendary
+item,minecraft:milk_bucket,Milk Bucket,Bucket,uncommon,,uncommon
+item,minecraft:water_bucket,Water Bucket,Bucket,uncommon,,rare
+item,minecraft:green_bundle,Green Bundle,Bundle,rare,,rare
+item,minecraft:lime_bundle,Lime Bundle,Bundle,rare,,rare
+item,minecraft:black_bundle,Black Bundle,Bundle,uncommon,,uncommon
+item,minecraft:blue_bundle,Blue Bundle,Bundle,uncommon,,common
+item,minecraft:brown_bundle,Brown Bundle,Bundle,uncommon,,rare
+item,minecraft:bundle,Bundle,Bundle,uncommon,,common
+item,minecraft:cyan_bundle,Cyan Bundle,Bundle,uncommon,,rare
+item,minecraft:gray_bundle,Gray Bundle,Bundle,uncommon,,uncommon
+item,minecraft:light_blue_bundle,Light Blue Bundle,Bundle,uncommon,,common
+item,minecraft:light_gray_bundle,Light Gray Bundle,Bundle,uncommon,,common
+item,minecraft:magenta_bundle,Magenta Bundle,Bundle,uncommon,,uncommon
+item,minecraft:orange_bundle,Orange Bundle,Bundle,uncommon,,common
+item,minecraft:pink_bundle,Pink Bundle,Bundle,uncommon,,uncommon
+item,minecraft:purple_bundle,Purple Bundle,Bundle,uncommon,,common
+item,minecraft:red_bundle,Red Bundle,Bundle,uncommon,,common
+item,minecraft:white_bundle,White Bundle,Bundle,uncommon,,common
+item,minecraft:yellow_bundle,Yellow Bundle,Bundle,uncommon,,common
+item,minecraft:brown_candle,Brown Candle,Candle,epic,,epic
+item,minecraft:cyan_candle,Cyan Candle,Candle,epic,,epic
+item,minecraft:green_candle,Green Candle,Candle,epic,,epic
+item,minecraft:lime_candle,Lime Candle,Candle,epic,,epic
+item,minecraft:black_candle,Black Candle,Candle,rare,,rare
+item,minecraft:blue_candle,Blue Candle,Candle,rare,,rare
+item,minecraft:candle,Candle,Candle,rare,,rare
+item,minecraft:gray_candle,Gray Candle,Candle,rare,,rare
+item,minecraft:light_blue_candle,Light Blue Candle,Candle,rare,,rare
+item,minecraft:light_gray_candle,Light Gray Candle,Candle,rare,,rare
+item,minecraft:magenta_candle,Magenta Candle,Candle,rare,,rare
+item,minecraft:orange_candle,Orange Candle,Candle,rare,,rare
+item,minecraft:pink_candle,Pink Candle,Candle,rare,,rare
+item,minecraft:purple_candle,Purple Candle,Candle,rare,,rare
+item,minecraft:red_candle,Red Candle,Candle,rare,,rare
+item,minecraft:white_candle,White Candle,Candle,rare,,rare
+item,minecraft:yellow_candle,Yellow Candle,Candle,rare,,rare
+item,minecraft:brown_concrete,Brown Concrete,Concrete,rare,,epic
+item,minecraft:brown_concrete_powder,Brown Concrete Powder,Concrete,rare,,
+item,minecraft:cyan_concrete,Cyan Concrete,Concrete,rare,,
+item,minecraft:cyan_concrete_powder,Cyan Concrete Powder,Concrete,rare,,
+item,minecraft:green_concrete,Green Concrete,Concrete,rare,,
+item,minecraft:green_concrete_powder,Green Concrete Powder,Concrete,rare,,
+item,minecraft:lime_concrete,Lime Concrete,Concrete,rare,,
+item,minecraft:lime_concrete_powder,Lime Concrete Powder,Concrete,rare,,
+item,minecraft:black_concrete,Black Concrete,Concrete,uncommon,,
+item,minecraft:black_concrete_powder,Black Concrete Powder,Concrete,uncommon,,
+item,minecraft:blue_concrete,Blue Concrete,Concrete,uncommon,,
+item,minecraft:blue_concrete_powder,Blue Concrete Powder,Concrete,uncommon,,
+item,minecraft:gray_concrete,Gray Concrete,Concrete,uncommon,,
+item,minecraft:gray_concrete_powder,Gray Concrete Powder,Concrete,uncommon,,
+item,minecraft:light_blue_concrete,Light Blue Concrete,Concrete,uncommon,,
+item,minecraft:light_blue_concrete_powder,Light Blue Concrete Powder,Concrete,uncommon,,
+item,minecraft:light_gray_concrete,Light Gray Concrete,Concrete,uncommon,,
+item,minecraft:light_gray_concrete_powder,Light Gray Concrete Powder,Concrete,uncommon,,
+item,minecraft:magenta_concrete,Magenta Concrete,Concrete,uncommon,,
+item,minecraft:magenta_concrete_powder,Magenta Concrete Powder,Concrete,uncommon,,
+item,minecraft:orange_concrete,Orange Concrete,Concrete,uncommon,,
+item,minecraft:orange_concrete_powder,Orange Concrete Powder,Concrete,uncommon,,
+item,minecraft:pink_concrete,Pink Concrete,Concrete,uncommon,,
+item,minecraft:pink_concrete_powder,Pink Concrete Powder,Concrete,uncommon,,
+item,minecraft:purple_concrete,Purple Concrete,Concrete,uncommon,,
+item,minecraft:purple_concrete_powder,Purple Concrete Powder,Concrete,uncommon,,
+item,minecraft:red_concrete,Red Concrete,Concrete,uncommon,,epic
+item,minecraft:red_concrete_powder,Red Concrete Powder,Concrete,uncommon,,
+item,minecraft:white_concrete,White Concrete,Concrete,uncommon,,epic
+item,minecraft:white_concrete_powder,White Concrete Powder,Concrete,uncommon,,
+item,minecraft:yellow_concrete,Yellow Concrete,Concrete,uncommon,,
+item,minecraft:yellow_concrete_powder,Yellow Concrete Powder,Concrete,uncommon,,
+item,minecraft:copper_nugget,Copper Nugget,Copper,common,,uncommon
+item,minecraft:copper_torch,Copper Torch,Copper,common,,uncommon
+item,minecraft:copper_bulb,Copper Bulb,Copper,epic,,epic
+item,minecraft:exposed_copper_bulb,Exposed Copper Bulb,Copper,epic,,epic
+item,minecraft:oxidized_chiseled_copper,Oxidized Chiseled Copper,Copper,epic,,mythic
+item,minecraft:oxidized_copper_bars,Oxidized Copper Bars,Copper,epic,,
+item,minecraft:oxidized_copper_chain,Oxidized Copper Chain,Copper,epic,,
+item,minecraft:oxidized_copper_chest,Oxidized Copper Chest,Copper,epic,,mythic
+item,minecraft:oxidized_copper_door,Oxidized Copper Door,Copper,epic,,mythic
+item,minecraft:oxidized_copper_grate,Oxidized Copper Grate,Copper,epic,,mythic
+item,minecraft:oxidized_copper_lantern,Oxidized Copper Lantern,Copper,epic,,
+item,minecraft:oxidized_copper_trapdoor,Oxidized Copper Trapdoor,Copper,epic,,mythic
+item,minecraft:waxed_copper_bulb,Waxed Copper Bulb,Copper,epic,,epic
+item,minecraft:waxed_exposed_chiseled_copper,Waxed Exposed Chiseled Copper,Copper,epic,,epic
+item,minecraft:waxed_exposed_copper,Waxed Exposed Copper,Copper,epic,,epic
+item,minecraft:waxed_exposed_copper_bars,Waxed Exposed Copper Bars,Copper,epic,,
+item,minecraft:waxed_exposed_copper_chain,Waxed Exposed Copper Chain,Copper,epic,,
+item,minecraft:waxed_exposed_copper_chest,Waxed Exposed Copper Chest,Copper,epic,,mythic
+item,minecraft:waxed_exposed_copper_door,Waxed Exposed Copper Door,Copper,epic,,epic
+item,minecraft:waxed_exposed_copper_grate,Waxed Exposed Copper Grate,Copper,epic,,epic
+item,minecraft:waxed_exposed_copper_lantern,Waxed Exposed Copper Lantern,Copper,epic,,
+item,minecraft:waxed_exposed_copper_trapdoor,Waxed Exposed Copper Trapdoor,Copper,epic,,epic
+item,minecraft:waxed_exposed_cut_copper,Waxed Exposed Cut Copper,Copper,epic,,epic
+item,minecraft:waxed_exposed_cut_copper_slab,Waxed Exposed Cut Copper Slab,Copper,epic,,epic
+item,minecraft:waxed_exposed_cut_copper_stairs,Waxed Exposed Cut Copper Stairs,Copper,epic,,epic
+item,minecraft:waxed_exposed_lightning_rod,Waxed Exposed Lightning Rod,Copper,epic,,epic
+item,minecraft:waxed_weathered_chiseled_copper,Waxed Weathered Chiseled Copper,Copper,epic,,legendary
+item,minecraft:waxed_weathered_copper_bars,Waxed Weathered Copper Bars,Copper,epic,,
+item,minecraft:waxed_weathered_copper_chain,Waxed Weathered Copper Chain,Copper,epic,,
+item,minecraft:waxed_weathered_copper_chest,Waxed Weathered Copper Chest,Copper,epic,,mythic
+item,minecraft:waxed_weathered_copper_door,Waxed Weathered Copper Door,Copper,epic,,legendary
+item,minecraft:waxed_weathered_copper_grate,Waxed Weathered Copper Grate,Copper,epic,,legendary
+item,minecraft:waxed_weathered_copper_lantern,Waxed Weathered Copper Lantern,Copper,epic,,
+item,minecraft:waxed_weathered_copper_trapdoor,Waxed Weathered Copper Trapdoor,Copper,epic,,legendary
+item,minecraft:waxed_weathered_lightning_rod,Waxed Weathered Lightning Rod,Copper,epic,,legendary
+item,minecraft:weathered_chiseled_copper,Weathered Chiseled Copper,Copper,epic,,legendary
+item,minecraft:weathered_copper,Weathered Copper,Copper,epic,,legendary
+item,minecraft:weathered_copper_bars,Weathered Copper Bars,Copper,epic,,
+item,minecraft:weathered_copper_chain,Weathered Copper Chain,Copper,epic,,
+item,minecraft:weathered_copper_chest,Weathered Copper Chest,Copper,epic,,mythic
+item,minecraft:weathered_copper_door,Weathered Copper Door,Copper,epic,,legendary
+item,minecraft:weathered_copper_grate,Weathered Copper Grate,Copper,epic,,legendary
+item,minecraft:weathered_copper_lantern,Weathered Copper Lantern,Copper,epic,,
+item,minecraft:weathered_copper_trapdoor,Weathered Copper Trapdoor,Copper,epic,,legendary
+item,minecraft:weathered_cut_copper,Weathered Cut Copper,Copper,epic,,legendary
+item,minecraft:weathered_cut_copper_slab,Weathered Cut Copper Slab,Copper,epic,,legendary
+item,minecraft:weathered_cut_copper_stairs,Weathered Cut Copper Stairs,Copper,epic,,legendary
+item,minecraft:weathered_lightning_rod,Weathered Lightning Rod,Copper,epic,,legendary
+item,minecraft:copper_golem_statue,Copper Golem Statue,Copper,legendary,,mythic
+item,minecraft:exposed_copper_golem_statue,Exposed Copper Golem Statue,Copper,legendary,,mythic
+item,minecraft:oxidized_copper,Oxidized Copper,Copper,legendary,,mythic
+item,minecraft:oxidized_copper_bulb,Oxidized Copper Bulb,Copper,legendary,,mythic
+item,minecraft:oxidized_copper_golem_statue,Oxidized Copper Golem Statue,Copper,legendary,,mythic
+item,minecraft:oxidized_cut_copper,Oxidized Cut Copper,Copper,legendary,,mythic
+item,minecraft:oxidized_cut_copper_slab,Oxidized Cut Copper Slab,Copper,legendary,,mythic
+item,minecraft:oxidized_cut_copper_stairs,Oxidized Cut Copper Stairs,Copper,legendary,,mythic
+item,minecraft:oxidized_lightning_rod,Oxidized Lightning Rod,Copper,legendary,,mythic
+item,minecraft:waxed_copper_golem_statue,Waxed Copper Golem Statue,Copper,legendary,,mythic
+item,minecraft:waxed_exposed_copper_bulb,Waxed Exposed Copper Bulb,Copper,legendary,,epic
+item,minecraft:waxed_exposed_copper_golem_statue,Waxed Exposed Copper Golem Statue,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_chiseled_copper,Waxed Oxidized Chiseled Copper,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_copper_bars,Waxed Oxidized Copper Bars,Copper,legendary,,
+item,minecraft:waxed_oxidized_copper_chain,Waxed Oxidized Copper Chain,Copper,legendary,,
+item,minecraft:waxed_oxidized_copper_chest,Waxed Oxidized Copper Chest,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_copper_door,Waxed Oxidized Copper Door,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_copper_grate,Waxed Oxidized Copper Grate,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_copper_lantern,Waxed Oxidized Copper Lantern,Copper,legendary,,
+item,minecraft:waxed_oxidized_copper_trapdoor,Waxed Oxidized Copper Trapdoor,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_lightning_rod,Waxed Oxidized Lightning Rod,Copper,legendary,,mythic
+item,minecraft:waxed_weathered_copper,Waxed Weathered Copper,Copper,legendary,,legendary
+item,minecraft:waxed_weathered_copper_bulb,Waxed Weathered Copper Bulb,Copper,legendary,,legendary
+item,minecraft:waxed_weathered_cut_copper,Waxed Weathered Cut Copper,Copper,legendary,,legendary
+item,minecraft:waxed_weathered_cut_copper_slab,Waxed Weathered Cut Copper Slab,Copper,legendary,,legendary
+item,minecraft:waxed_weathered_cut_copper_stairs,Waxed Weathered Cut Copper Stairs,Copper,legendary,,legendary
+item,minecraft:weathered_copper_bulb,Weathered Copper Bulb,Copper,legendary,,legendary
+item,minecraft:weathered_copper_golem_statue,Weathered Copper Golem Statue,Copper,legendary,,mythic
+item,minecraft:waxed_oxidized_copper,Waxed Oxidized Copper,Copper,mythic,,mythic
+item,minecraft:waxed_oxidized_copper_bulb,Waxed Oxidized Copper Bulb,Copper,mythic,,mythic
+item,minecraft:waxed_oxidized_copper_golem_statue,Waxed Oxidized Copper Golem Statue,Copper,mythic,,mythic
+item,minecraft:waxed_oxidized_cut_copper,Waxed Oxidized Cut Copper,Copper,mythic,,mythic
+item,minecraft:waxed_oxidized_cut_copper_slab,Waxed Oxidized Cut Copper Slab,Copper,mythic,,mythic
+item,minecraft:waxed_oxidized_cut_copper_stairs,Waxed Oxidized Cut Copper Stairs,Copper,mythic,,mythic
+item,minecraft:waxed_weathered_copper_golem_statue,Waxed Weathered Copper Golem Statue,Copper,mythic,,mythic
+item,minecraft:exposed_copper,Exposed Copper,Copper,rare,,epic
+item,minecraft:exposed_copper_bars,Exposed Copper Bars,Copper,rare,,
+item,minecraft:exposed_copper_chain,Exposed Copper Chain,Copper,rare,,
+item,minecraft:exposed_copper_chest,Exposed Copper Chest,Copper,rare,,mythic
+item,minecraft:exposed_copper_door,Exposed Copper Door,Copper,rare,,epic
+item,minecraft:exposed_copper_grate,Exposed Copper Grate,Copper,rare,,epic
+item,minecraft:exposed_copper_lantern,Exposed Copper Lantern,Copper,rare,,
+item,minecraft:exposed_copper_trapdoor,Exposed Copper Trapdoor,Copper,rare,,epic
+item,minecraft:exposed_cut_copper,Exposed Cut Copper,Copper,rare,,epic
+item,minecraft:exposed_cut_copper_slab,Exposed Cut Copper Slab,Copper,rare,,epic
+item,minecraft:exposed_cut_copper_stairs,Exposed Cut Copper Stairs,Copper,rare,,epic
+item,minecraft:exposed_lightning_rod,Exposed Lightning Rod,Copper,rare,,epic
+item,minecraft:waxed_copper_block,Waxed Block of Copper,Copper,rare,,rare
+item,minecraft:waxed_chiseled_copper,Waxed Chiseled Copper,Copper,rare,,rare
+item,minecraft:waxed_copper_bars,Waxed Copper Bars,Copper,rare,,rare
+item,minecraft:waxed_copper_chain,Waxed Copper Chain,Copper,rare,,rare
+item,minecraft:waxed_copper_chest,Waxed Copper Chest,Copper,rare,,rare
+item,minecraft:waxed_copper_door,Waxed Copper Door,Copper,rare,,rare
+item,minecraft:waxed_copper_grate,Waxed Copper Grate,Copper,rare,,rare
+item,minecraft:waxed_copper_lantern,Waxed Copper Lantern,Copper,rare,,rare
+item,minecraft:waxed_copper_trapdoor,Waxed Copper Trapdoor,Copper,rare,,rare
+item,minecraft:waxed_cut_copper,Waxed Cut Copper,Copper,rare,,rare
+item,minecraft:waxed_cut_copper_slab,Waxed Cut Copper Slab,Copper,rare,,rare
+item,minecraft:waxed_cut_copper_stairs,Waxed Cut Copper Stairs,Copper,rare,,rare
+item,minecraft:chiseled_copper,Chiseled Copper,Copper,uncommon,,rare
+item,minecraft:copper_bars,Copper Bars,Copper,uncommon,,uncommon
+item,minecraft:copper_boots,Copper Boots,Copper,uncommon,,uncommon
+item,minecraft:copper_chain,Copper Chain,Copper,uncommon,,uncommon
+item,minecraft:copper_chest,Copper Chest,Copper,uncommon,,uncommon
+item,minecraft:copper_chestplate,Copper Chestplate,Copper,uncommon,,uncommon
+item,minecraft:copper_door,Copper Door,Copper,uncommon,,rare
+item,minecraft:copper_grate,Copper Grate,Copper,uncommon,,rare
+item,minecraft:copper_helmet,Copper Helmet,Copper,uncommon,,uncommon
+item,minecraft:copper_lantern,Copper Lantern,Copper,uncommon,,uncommon
+item,minecraft:copper_leggings,Copper Leggings,Copper,uncommon,,uncommon
+item,minecraft:copper_trapdoor,Copper Trapdoor,Copper,uncommon,,rare
+item,minecraft:cut_copper,Cut Copper,Copper,uncommon,,rare
+item,minecraft:cut_copper_slab,Cut Copper Slab,Copper,uncommon,,rare
+item,minecraft:cut_copper_stairs,Cut Copper Stairs,Copper,uncommon,,rare
+item,minecraft:exposed_chiseled_copper,Exposed Chiseled Copper,Copper,uncommon,,epic
+item,minecraft:lightning_rod,Lightning Rod,Copper,uncommon,,uncommon
+item,minecraft:brain_coral,Brain Coral,Coral,epic,,
+item,minecraft:brain_coral_block,Brain Coral Block,Coral,epic,,mythic
+item,minecraft:brain_coral_fan,Brain Coral Fan,Coral,epic,,
+item,minecraft:bubble_coral,Bubble Coral,Coral,epic,,
+item,minecraft:bubble_coral_block,Bubble Coral Block,Coral,epic,,mythic
+item,minecraft:bubble_coral_fan,Bubble Coral Fan,Coral,epic,,
+item,minecraft:dead_brain_coral,Dead Brain Coral,Coral,epic,,
+item,minecraft:dead_brain_coral_block,Dead Brain Coral Block,Coral,epic,,
+item,minecraft:dead_brain_coral_fan,Dead Brain Coral Fan,Coral,epic,,
+item,minecraft:dead_bubble_coral,Dead Bubble Coral,Coral,epic,,
+item,minecraft:dead_bubble_coral_block,Dead Bubble Coral Block,Coral,epic,,
+item,minecraft:dead_bubble_coral_fan,Dead Bubble Coral Fan,Coral,epic,,
+item,minecraft:dead_fire_coral,Dead Fire Coral,Coral,epic,,
+item,minecraft:dead_fire_coral_block,Dead Fire Coral Block,Coral,epic,,
+item,minecraft:dead_fire_coral_fan,Dead Fire Coral Fan,Coral,epic,,
+item,minecraft:dead_horn_coral,Dead Horn Coral,Coral,epic,,
+item,minecraft:dead_horn_coral_block,Dead Horn Coral Block,Coral,epic,,
+item,minecraft:dead_horn_coral_fan,Dead Horn Coral Fan,Coral,epic,,
+item,minecraft:dead_tube_coral,Dead Tube Coral,Coral,epic,,
+item,minecraft:dead_tube_coral_block,Dead Tube Coral Block,Coral,epic,,
+item,minecraft:dead_tube_coral_fan,Dead Tube Coral Fan,Coral,epic,,
+item,minecraft:fire_coral,Fire Coral,Coral,epic,,
+item,minecraft:fire_coral_block,Fire Coral Block,Coral,epic,,mythic
+item,minecraft:fire_coral_fan,Fire Coral Fan,Coral,epic,,
+item,minecraft:horn_coral,Horn Coral,Coral,epic,,
+item,minecraft:horn_coral_block,Horn Coral Block,Coral,epic,,mythic
+item,minecraft:horn_coral_fan,Horn Coral Fan,Coral,epic,,
+item,minecraft:tube_coral,Tube Coral,Coral,epic,,
+item,minecraft:tube_coral_block,Tube Coral Block,Coral,epic,,mythic
+item,minecraft:tube_coral_fan,Tube Coral Fan,Coral,epic,,
+item,minecraft:black_dye,Black Dye,Dye,common,,uncommon
+item,minecraft:blue_dye,Blue Dye,Dye,common,,common
+item,minecraft:gray_dye,Gray Dye,Dye,common,,uncommon
+item,minecraft:light_blue_dye,Light Blue Dye,Dye,common,,uncommon
+item,minecraft:light_gray_dye,Light Gray Dye,Dye,common,,common
+item,minecraft:magenta_dye,Magenta Dye,Dye,common,,uncommon
+item,minecraft:orange_dye,Orange Dye,Dye,common,,common
+item,minecraft:pink_dye,Pink Dye,Dye,common,,uncommon
+item,minecraft:purple_dye,Purple Dye,Dye,common,,common
+item,minecraft:red_dye,Red Dye,Dye,common,,common
+item,minecraft:white_dye,White Dye,Dye,common,,uncommon
+item,minecraft:yellow_dye,Yellow Dye,Dye,common,,common
+item,minecraft:cyan_dye,Cyan Dye,Dye,rare,,uncommon
+item,minecraft:green_dye,Green Dye,Dye,rare,,uncommon
+item,minecraft:lime_dye,Lime Dye,Dye,rare,,uncommon
+item,minecraft:brown_dye,Brown Dye,Dye,uncommon,,uncommon
+item,minecraft:chorus_flower,Chorus Flower,End,mythic,,mythic
+item,minecraft:chorus_fruit,Chorus Fruit,End,mythic,,mythic
+item,minecraft:dragon_egg,Dragon Egg,End,mythic,,mythic
+item,minecraft:dragon_breath,Dragon's Breath,End,mythic,,mythic
+item,minecraft:elytra,Elytra,End,mythic,,mythic
+item,minecraft:end_rod,End Rod,End,mythic,,mythic
+item,minecraft:end_stone,End Stone,End,mythic,,mythic
+item,minecraft:end_stone_brick_slab,End Stone Brick Slab,End,mythic,,mythic
+item,minecraft:end_stone_brick_stairs,End Stone Brick Stairs,End,mythic,,mythic
+item,minecraft:end_stone_brick_wall,End Stone Brick Wall,End,mythic,,mythic
+item,minecraft:end_stone_bricks,End Stone Bricks,End,mythic,,mythic
+item,minecraft:lingering_potion,Lingering Potion,End,mythic,,mythic
+item,minecraft:popped_chorus_fruit,Popped Chorus Fruit,End,mythic,,mythic
+item,minecraft:purpur_block,Purpur Block,End,mythic,,mythic
+item,minecraft:purpur_pillar,Purpur Pillar,End,mythic,,mythic
+item,minecraft:purpur_slab,Purpur Slab,End,mythic,,mythic
+item,minecraft:purpur_stairs,Purpur Stairs,End,mythic,,mythic
+item,minecraft:shulker_shell,Shulker Shell,End,mythic,,mythic
+item,minecraft:apple,Apple,Farm,common,,uncommon
+item,minecraft:azure_bluet,Azure Bluet,Farm,common,,common
+item,minecraft:bone_meal,Bone Meal,Farm,common,,common
+item,minecraft:bread,Bread,Farm,common,,uncommon
+item,minecraft:cartography_table,Cartography Table,Farm,common,,uncommon
+item,minecraft:cornflower,Cornflower,Farm,common,,common
+item,minecraft:dandelion,Dandelion,Farm,common,,common
+item,minecraft:firefly_bush,Firefly Bush,Farm,common,,common
+item,minecraft:leaf_litter,Leaf Litter,Farm,common,,common
+item,minecraft:oxeye_daisy,Oxeye Daisy,Farm,common,,common
+item,minecraft:paper,Paper,Farm,common,,uncommon
+item,minecraft:poppy,Poppy,Farm,common,,common
+item,minecraft:sugar,Sugar,Farm,common,,common
+item,minecraft:sugar_cane,Sugar Cane,Farm,common,,common
+item,minecraft:wheat,Wheat,Farm,common,,uncommon
+item,minecraft:wheat_seeds,Wheat Seeds,Farm,common,,common
+item,minecraft:wildflowers,Wildflowers,Farm,common,,common
+item,minecraft:bee_nest,Bee Nest,Farm,epic,,
+item,minecraft:beehive,Beehive,Farm,epic,,rare
+item,minecraft:brown_mushroom_block,Brown Mushroom Block,Farm,epic,,
+item,minecraft:honey_block,Honey Block,Farm,epic,,rare
+item,minecraft:mushroom_stem,Mushroom Stem,Farm,epic,,
+item,minecraft:open_eyeblossom,Open Eyeblossom,Farm,epic,,epic
+item,minecraft:pale_hanging_moss,Pale Hanging Moss,Farm,epic,,mythic
+item,minecraft:pale_moss_block,Pale Moss Block,Farm,epic,,epic
+item,minecraft:pale_moss_carpet,Pale Moss Carpet,Farm,epic,,epic
+item,minecraft:red_mushroom_block,Red Mushroom Block,Farm,epic,,
+item,minecraft:chorus_plant,Chorus Plant,Farm,mythic,,
+item,minecraft:pitcher_plant,Pitcher Plant,Farm,mythic,,
+item,minecraft:pitcher_pod,Pitcher Pod,Farm,mythic,,
+item,minecraft:torchflower,Torchflower,Farm,mythic,,
+item,minecraft:torchflower_seeds,Torchflower Seeds,Farm,mythic,,
+item,minecraft:allium,Allium,Farm,rare,,uncommon
+item,minecraft:beetroot,Beetroot,Farm,rare,,uncommon
+item,minecraft:beetroot_seeds,Beetroot Seeds,Farm,rare,,uncommon
+item,minecraft:beetroot_soup,Beetroot Soup,Farm,rare,,uncommon
+item,minecraft:blue_orchid,Blue Orchid,Farm,rare,,uncommon
+item,minecraft:cactus,Cactus,Farm,rare,,uncommon
+item,minecraft:cactus_flower,Cactus Flower,Farm,rare,,uncommon
+item,minecraft:cake,Cake,Farm,rare,,rare
+item,minecraft:closed_eyeblossom,Closed Eyeblossom,Farm,rare,requires daylight cycle enabled,rare
+item,minecraft:dead_bush,Dead Bush,Farm,rare,,rare
+item,minecraft:glow_berries,Glow Berries,Farm,rare,,rare
+item,minecraft:honey_bottle,Honey Bottle,Farm,rare,,rare
+item,minecraft:honeycomb,Honeycomb,Farm,rare,,rare
+item,minecraft:honeycomb_block,Honeycomb Block,Farm,rare,,rare
+item,minecraft:large_fern,Large Fern,Farm,rare,,rare
+item,minecraft:lily_of_the_valley,Lily of the Valley,Farm,rare,,uncommon
+item,minecraft:lily_pad,Lily Pad,Farm,rare,,uncommon
+item,minecraft:orange_tulip,Orange Tulip,Farm,rare,,uncommon
+item,minecraft:pink_petals,Pink Petals,Farm,rare,,uncommon
+item,minecraft:pink_tulip,Pink Tulip,Farm,rare,,uncommon
+item,minecraft:poisonous_potato,Poisonous Potato,Farm,rare,,rare
+item,minecraft:pumpkin_pie,Pumpkin Pie,Farm,rare,,rare
+item,minecraft:rabbit_stew,Rabbit Stew,Farm,rare,,rare
+item,minecraft:rabbit_foot,Rabbit's Foot,Farm,rare,,rare
+item,minecraft:red_tulip,Red Tulip,Farm,rare,,uncommon
+item,minecraft:short_dry_grass,Short Dry Grass,Farm,rare,,mythic
+item,minecraft:sunflower,Sunflower,Farm,rare,,uncommon
+item,minecraft:tall_dry_grass,Tall Dry Grass,Farm,rare,,rare
+item,minecraft:tall_grass,Tall Grass,Farm,rare,,rare
+item,minecraft:white_tulip,White Tulip,Farm,rare,,uncommon
+item,minecraft:baked_potato,Baked Potato,Farm,uncommon,,uncommon
+item,minecraft:brown_mushroom,Brown Mushroom,Farm,uncommon,,uncommon
+item,minecraft:carrot,Carrot,Farm,uncommon,,uncommon
+item,minecraft:carrot_on_a_stick,Carrot on a Stick,Farm,uncommon,,uncommon
+item,minecraft:carved_pumpkin,Carved Pumpkin,Farm,uncommon,,uncommon
+item,minecraft:cocoa_beans,Cocoa Beans,Farm,uncommon,,uncommon
+item,minecraft:cooked_rabbit,Cooked Rabbit,Farm,uncommon,,uncommon
+item,minecraft:cookie,Cookie,Farm,uncommon,,uncommon
+item,minecraft:fern,Fern,Farm,uncommon,,uncommon
+item,minecraft:glistering_melon_slice,Glistering Melon Slice,Farm,uncommon,,uncommon
+item,minecraft:golden_apple,Golden Apple,Farm,uncommon,,rare
+item,minecraft:golden_carrot,Golden Carrot,Farm,uncommon,,uncommon
+item,minecraft:hay_block,Hay Bale,Farm,uncommon,,uncommon
+item,minecraft:jack_o_lantern,Jack o'Lantern,Farm,uncommon,,uncommon
+item,minecraft:lilac,Lilac,Farm,uncommon,,uncommon
+item,minecraft:melon,Melon,Farm,uncommon,,uncommon
+item,minecraft:melon_seeds,Melon Seeds,Farm,uncommon,,uncommon
+item,minecraft:melon_slice,Melon Slice,Farm,uncommon,,uncommon
+item,minecraft:mushroom_stew,Mushroom Stew,Farm,uncommon,,uncommon
+item,minecraft:peony,Peony,Farm,uncommon,,uncommon
+item,minecraft:potato,Potato,Farm,uncommon,,uncommon
+item,minecraft:pumpkin,Pumpkin,Farm,uncommon,,uncommon
+item,minecraft:pumpkin_seeds,Pumpkin Seeds,Farm,uncommon,,uncommon
+item,minecraft:rabbit_hide,Rabbit Hide,Farm,uncommon,,uncommon
+item,minecraft:rabbit,Raw Rabbit,Farm,uncommon,,uncommon
+item,minecraft:red_mushroom,Red Mushroom,Farm,uncommon,,uncommon
+item,minecraft:rose_bush,Rose Bush,Farm,uncommon,,uncommon
+item,minecraft:suspicious_stew,Suspicious Stew,Farm,uncommon,,uncommon
+item,minecraft:sweet_berries,Sweet Berries,Farm,uncommon,,uncommon
+item,minecraft:vine,Vines,Farm,uncommon,,mythic
+item,minecraft:glass,Glass,Glass,common,,uncommon
+item,minecraft:glass_bottle,Glass Bottle,Glass,common,,uncommon
+item,minecraft:glass_pane,Glass Pane,Glass,common,,uncommon
+item,minecraft:brown_stained_glass,Brown Stained Glass,Glass,rare,,rare
+item,minecraft:brown_stained_glass_pane,Brown Stained Glass Pane,Glass,rare,,rare
+item,minecraft:cyan_stained_glass,Cyan Stained Glass,Glass,rare,,rare
+item,minecraft:cyan_stained_glass_pane,Cyan Stained Glass Pane,Glass,rare,,rare
+item,minecraft:green_stained_glass,Green Stained Glass,Glass,rare,,rare
+item,minecraft:green_stained_glass_pane,Green Stained Glass Pane,Glass,rare,,rare
+item,minecraft:lime_stained_glass,Lime Stained Glass,Glass,rare,,rare
+item,minecraft:lime_stained_glass_pane,Lime Stained Glass Pane,Glass,rare,,rare
+item,minecraft:tinted_glass,Tinted Glass,Glass,rare,,epic
+item,minecraft:black_stained_glass,Black Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:black_stained_glass_pane,Black Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:blue_stained_glass,Blue Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:blue_stained_glass_pane,Blue Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:gray_stained_glass,Gray Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:gray_stained_glass_pane,Gray Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:light_blue_stained_glass,Light Blue Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:light_blue_stained_glass_pane,Light Blue Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:light_gray_stained_glass,Light Gray Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:light_gray_stained_glass_pane,Light Gray Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:magenta_stained_glass,Magenta Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:magenta_stained_glass_pane,Magenta Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:orange_stained_glass,Orange Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:orange_stained_glass_pane,Orange Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:pink_stained_glass,Pink Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:pink_stained_glass_pane,Pink Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:purple_stained_glass,Purple Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:purple_stained_glass_pane,Purple Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:red_stained_glass,Red Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:red_stained_glass_pane,Red Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:white_stained_glass,White Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:white_stained_glass_pane,White Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:yellow_stained_glass,Yellow Stained Glass,Glass,uncommon,,uncommon
+item,minecraft:yellow_stained_glass_pane,Yellow Stained Glass Pane,Glass,uncommon,,uncommon
+item,minecraft:green_harness,Green Harness,Harness,rare,,rare
+item,minecraft:lime_harness,Lime Harness,Harness,rare,,rare
+item,minecraft:black_harness,Black Harness,Harness,uncommon,,uncommon
+item,minecraft:blue_harness,Blue Harness,Harness,uncommon,,uncommon
+item,minecraft:brown_harness,Brown Harness,Harness,uncommon,,rare
+item,minecraft:cyan_harness,Cyan Harness,Harness,uncommon,,rare
+item,minecraft:gray_harness,Gray Harness,Harness,uncommon,,uncommon
+item,minecraft:light_blue_harness,Light Blue Harness,Harness,uncommon,,uncommon
+item,minecraft:light_gray_harness,Light Gray Harness,Harness,uncommon,,uncommon
+item,minecraft:magenta_harness,Magenta Harness,Harness,uncommon,,uncommon
+item,minecraft:orange_harness,Orange Harness,Harness,uncommon,,uncommon
+item,minecraft:pink_harness,Pink Harness,Harness,uncommon,,uncommon
+item,minecraft:purple_harness,Purple Harness,Harness,uncommon,,uncommon
+item,minecraft:red_harness,Red Harness,Harness,uncommon,,uncommon
+item,minecraft:white_harness,White Harness,Harness,uncommon,,uncommon
+item,minecraft:yellow_harness,Yellow Harness,Harness,uncommon,,uncommon
+item,minecraft:brush,Brush,Mine,common,,uncommon
+item,minecraft:coal,Coal,Mine,common,,common
+item,minecraft:copper_ingot,Copper Ingot,Mine,common,,uncommon
+item,minecraft:raw_copper,Raw Copper,Mine,common,,common
+item,minecraft:amethyst_cluster,Amethyst Cluster,Mine,epic,,mythic
+item,minecraft:chipped_anvil,Chipped Anvil,Mine,epic,,mythic
+item,minecraft:coal_ore,Coal Ore,Mine,epic,,
+item,minecraft:cobweb,Cobweb,Mine,epic,,
+item,minecraft:copper_ore,Copper Ore,Mine,epic,,
+item,minecraft:deepslate_coal_ore,Deepslate Coal Ore,Mine,epic,,
+item,minecraft:deepslate_copper_ore,Deepslate Copper Ore,Mine,epic,,
+item,minecraft:deepslate_diamond_ore,Deepslate Diamond Ore,Mine,epic,,
+item,minecraft:deepslate_gold_ore,Deepslate Gold Ore,Mine,epic,,
+item,minecraft:deepslate_iron_ore,Deepslate Iron Ore,Mine,epic,,
+item,minecraft:deepslate_lapis_ore,Deepslate Lapis Lazuli Ore,Mine,epic,,
+item,minecraft:deepslate_redstone_ore,Deepslate Redstone Ore,Mine,epic,,
+item,minecraft:diamond_ore,Diamond Ore,Mine,epic,,
+item,minecraft:emerald_ore,Emerald Ore,Mine,epic,,
+item,minecraft:gold_ore,Gold Ore,Mine,epic,,
+item,minecraft:iron_ore,Iron Ore,Mine,epic,,
+item,minecraft:lapis_ore,Lapis Lazuli Ore,Mine,epic,,
+item,minecraft:large_amethyst_bud,Large Amethyst Bud,Mine,epic,,
+item,minecraft:medium_amethyst_bud,Medium Amethyst Bud,Mine,epic,,
+item,minecraft:nether_gold_ore,Nether Gold Ore,Mine,epic,,
+item,minecraft:nether_quartz_ore,Nether Quartz Ore,Mine,epic,,
+item,minecraft:pointed_dripstone,Pointed Dripstone,Mine,epic,,rare
+item,minecraft:redstone_ore,Redstone Ore,Mine,epic,,
+item,minecraft:small_amethyst_bud,Small Amethyst Bud,Mine,epic,,
+item,minecraft:trial_key,Trial Key,Mine,epic,requires daylight cycle enabled,legendary
+item,minecraft:calibrated_sculk_sensor,Calibrated Sculk Sensor,Mine,legendary,,mythic
+item,minecraft:damaged_anvil,Damaged Anvil,Mine,legendary,,mythic
+item,minecraft:deepslate_emerald_ore,Deepslate Emerald Ore,Mine,legendary,,
+item,minecraft:echo_shard,Echo Shard,Mine,legendary,,mythic
+item,minecraft:ominous_trial_key,Ominous Trial Key,Mine,legendary,requires daylight cycle enabled,mythic
+item,minecraft:sculk,Sculk,Mine,legendary,,mythic
+item,minecraft:sculk_catalyst,Sculk Catalyst,Mine,legendary,,mythic
+item,minecraft:sculk_shrieker,Sculk Shrieker,Mine,legendary,,
+item,minecraft:sculk_vein,Sculk Vein,Mine,legendary,,
+item,minecraft:heavy_core,Heavy Core,Mine,mythic,requires daylight cycle enabled,mythic
+item,minecraft:mace,Mace,Mine,mythic,requires daylight cycle enabled,mythic
+item,minecraft:recovery_compass,Recovery Compass,Mine,mythic,,mythic
+item,minecraft:amethyst_shard,Amethyst Shard,Mine,rare,,epic
+item,minecraft:anvil,Anvil,Mine,rare,,epic
+item,minecraft:big_dripleaf,Big Dripleaf,Mine,rare,,rare
+item,minecraft:amethyst_block,Block of Amethyst,Mine,rare,,epic
+item,minecraft:emerald_block,Block of Emerald,Mine,rare,,rare
+item,minecraft:crafter,Crafter,Mine,rare,,rare
+item,minecraft:diamond,Diamond,Mine,rare,,uncommon
+item,minecraft:diamond_axe,Diamond Axe,Mine,rare,,rare
+item,minecraft:diamond_boots,Diamond Boots,Mine,rare,,rare
+item,minecraft:diamond_chestplate,Diamond Chestplate,Mine,rare,,rare
+item,minecraft:diamond_helmet,Diamond Helmet,Mine,rare,,rare
+item,minecraft:diamond_hoe,Diamond Hoe,Mine,rare,,rare
+item,minecraft:diamond_leggings,Diamond Leggings,Mine,rare,,rare
+item,minecraft:diamond_pickaxe,Diamond Pickaxe,Mine,rare,,rare
+item,minecraft:diamond_shovel,Diamond Shovel,Mine,rare,,rare
+item,minecraft:diamond_spear,Diamond Spear,Mine,rare,,rare
+item,minecraft:diamond_sword,Diamond Sword,Mine,rare,,rare
+item,minecraft:emerald,Emerald,Mine,rare,,uncommon
+item,minecraft:hanging_roots,Hanging Roots,Mine,rare,,
+item,minecraft:lodestone_compass,Lodestone Compass,Mine,rare,,
+item,minecraft:moss_block,Moss Block,Mine,rare,,rare
+item,minecraft:moss_carpet,Moss Carpet,Mine,rare,,rare
+item,minecraft:obsidian,Obsidian,Mine,rare,,uncommon
+item,minecraft:small_dripleaf,Small Dripleaf,Mine,rare,,mythic
+item,minecraft:spore_blossom,Spore Blossom,Mine,rare,,rare
+item,minecraft:spyglass,Spyglass,Mine,rare,,epic
+item,minecraft:blast_furnace,Blast Furnace,Mine,uncommon,,uncommon
+item,minecraft:coal_block,Block of Coal,Mine,uncommon,,uncommon
+item,minecraft:copper_block,Block of Copper,Mine,uncommon,,uncommon
+item,minecraft:diamond_block,Block of Diamond,Mine,uncommon,,rare
+item,minecraft:gold_block,Block of Gold,Mine,uncommon,,uncommon
+item,minecraft:iron_block,Block of Iron,Mine,uncommon,,uncommon
+item,minecraft:lapis_block,Block of Lapis Lazuli,Mine,uncommon,,rare
+item,minecraft:raw_copper_block,Block of Raw Copper,Mine,uncommon,,common
+item,minecraft:raw_gold_block,Block of Raw Gold,Mine,uncommon,,rare
+item,minecraft:raw_iron_block,Block of Raw Iron,Mine,uncommon,,uncommon
+item,minecraft:redstone_block,Block of Redstone,Mine,uncommon,,uncommon
+item,minecraft:cauldron,Cauldron,Mine,uncommon,,uncommon
+item,minecraft:clock,Clock,Mine,uncommon,,rare
+item,minecraft:copper_axe,Copper Axe,Mine,uncommon,,uncommon
+item,minecraft:copper_hoe,Copper Hoe,Mine,uncommon,,uncommon
+item,minecraft:copper_pickaxe,Copper Pickaxe,Mine,uncommon,,uncommon
+item,minecraft:copper_shovel,Copper Shovel,Mine,uncommon,,uncommon
+item,minecraft:copper_spear,Copper Spear,Mine,uncommon,,uncommon
+item,minecraft:copper_sword,Copper Sword,Mine,uncommon,,uncommon
+item,minecraft:flint_and_steel,Flint and Steel,Mine,uncommon,,uncommon
+item,minecraft:glow_lichen,Glow Lichen,Mine,uncommon,,
+item,minecraft:gold_ingot,Gold Ingot,Mine,uncommon,,uncommon
+item,minecraft:gold_nugget,Gold Nugget,Mine,uncommon,,uncommon
+item,minecraft:golden_spear,Gold Spear,Mine,uncommon,,uncommon
+item,minecraft:golden_axe,Golden Axe,Mine,uncommon,,uncommon
+item,minecraft:golden_boots,Golden Boots,Mine,uncommon,,uncommon
+item,minecraft:golden_chestplate,Golden Chestplate,Mine,uncommon,,uncommon
+item,minecraft:golden_helmet,Golden Helmet,Mine,uncommon,,uncommon
+item,minecraft:golden_hoe,Golden Hoe,Mine,uncommon,,uncommon
+item,minecraft:golden_leggings,Golden Leggings,Mine,uncommon,,uncommon
+item,minecraft:golden_pickaxe,Golden Pickaxe,Mine,uncommon,,uncommon
+item,minecraft:golden_shovel,Golden Shovel,Mine,uncommon,,uncommon
+item,minecraft:golden_sword,Golden Sword,Mine,uncommon,,uncommon
+item,minecraft:iron_axe,Iron Axe,Mine,uncommon,,uncommon
+item,minecraft:iron_bars,Iron Bars,Mine,uncommon,,uncommon
+item,minecraft:iron_boots,Iron Boots,Mine,uncommon,,uncommon
+item,minecraft:iron_chestplate,Iron Chestplate,Mine,uncommon,,uncommon
+item,minecraft:iron_door,Iron Door,Mine,uncommon,,uncommon
+item,minecraft:iron_helmet,Iron Helmet,Mine,uncommon,,uncommon
+item,minecraft:iron_hoe,Iron Hoe,Mine,uncommon,,uncommon
+item,minecraft:iron_ingot,Iron Ingot,Mine,uncommon,,uncommon
+item,minecraft:iron_leggings,Iron Leggings,Mine,uncommon,,uncommon
+item,minecraft:iron_nugget,Iron Nugget,Mine,uncommon,,uncommon
+item,minecraft:iron_pickaxe,Iron Pickaxe,Mine,uncommon,,uncommon
+item,minecraft:iron_shovel,Iron Shovel,Mine,uncommon,,uncommon
+item,minecraft:iron_spear,Iron Spear,Mine,uncommon,,uncommon
+item,minecraft:iron_sword,Iron Sword,Mine,uncommon,,uncommon
+item,minecraft:iron_trapdoor,Iron Trapdoor,Mine,uncommon,,uncommon
+item,minecraft:lantern,Lantern,Mine,uncommon,,uncommon
+item,minecraft:lapis_lazuli,Lapis Lazuli,Mine,uncommon,,uncommon
+item,minecraft:minecart,Minecart,Mine,uncommon,,uncommon
+item,minecraft:chest_minecart,Minecart with Chest,Mine,uncommon,,uncommon
+item,minecraft:furnace_minecart,Minecart with Furnace,Mine,uncommon,,uncommon
+item,minecraft:raw_gold,Raw Gold,Mine,uncommon,,rare
+item,minecraft:raw_iron,Raw Iron,Mine,uncommon,,uncommon
+item,minecraft:shears,Shears,Mine,uncommon,,uncommon
+item,minecraft:shield,Shield,Mine,uncommon,,uncommon
+item,minecraft:smithing_table,Smithing Table,Mine,uncommon,,uncommon
+item,minecraft:flower_banner_pattern,Banner Pattern (Flower Charge),Misc,common,,uncommon
+item,minecraft:book,Book,Misc,common,,uncommon
+item,minecraft:chest,Chest,Misc,common,,uncommon
+item,minecraft:crafting_table,Crafting Table,Misc,common,,common
+item,minecraft:field_masoned_banner_pattern,Field Masoned Banner Pattern,Misc,common,,uncommon
+item,minecraft:furnace,Furnace,Misc,common,,uncommon
+item,minecraft:ladder,Ladder,Misc,common,,uncommon
+item,minecraft:torch,Torch,Misc,common,,common
+item,minecraft:blue_ice,Blue Ice,Misc,epic,,rare
+item,minecraft:chainmail_boots,Chainmail Boots,Misc,epic,,rare
+item,minecraft:chainmail_chestplate,Chainmail Chestplate,Misc,epic,,rare
+item,minecraft:chainmail_helmet,Chainmail Helmet,Misc,epic,,rare
+item,minecraft:chainmail_leggings,Chainmail Leggings,Misc,epic,,rare
+item,minecraft:enchanted_golden_apple,Enchanted Golden Apple,Misc,epic,,legendary
+item,minecraft:ender_chest,Ender Chest,Misc,epic,,legendary
+item,minecraft:golden_nautilus_armor,Golden Nautilus Armor,Misc,epic,,epic
+item,minecraft:ice,Ice,Misc,epic,,
+item,minecraft:iron_nautilus_armor,Iron Nautilus Armor,Misc,epic,,epic
+item,minecraft:ominous_bottle,Ominous Bottle,Misc,epic,requires hostile mobs enabled,epic
+item,minecraft:packed_ice,Packed Ice,Misc,epic,,mythic
+item,minecraft:snow,Snow,Misc,epic,,uncommon
+item,minecraft:mojang_banner_pattern,Thing Banner Pattern,Misc,epic,,legendary
+item,minecraft:globe_banner_pattern,Banner Pattern (Globe),Misc,legendary,,epic
+item,minecraft:skull_banner_pattern,Banner Pattern (Skull Charge),Misc,legendary,requires hostile mobs enabled,legendary
+item,minecraft:conduit,Conduit,Misc,legendary,,legendary
+item,minecraft:diamond_nautilus_armor,Diamond Nautilus Armor,Misc,legendary,,legendary
+item,minecraft:guster_banner_pattern,Guster Banner Pattern,Misc,legendary,requires daylight cycle disabled,legendary
+item,minecraft:sniffer_egg,Sniffer Egg,Misc,legendary,,
+item,minecraft:tipped_arrow,Tipped Arrow,Misc,legendary,,legendary
+item,minecraft:totem_of_undying,Totem of Undying,Misc,legendary,,legendary
+item,minecraft:turtle_helmet,Turtle Shell,Misc,legendary,,epic
+item,minecraft:creeper_banner_pattern,Banner Pattern (Creeper Charge),Misc,mythic,requires hostile mobs enabled,mythic
+item,minecraft:piglin_banner_pattern,Banner Pattern (Snout),Misc,mythic,,mythic
+item,minecraft:beacon,Beacon,misc,mythic,,
+item,minecraft:flow_banner_pattern,Flow Banner Pattern,Misc,mythic,requires daylight cycle disabled,uncommon
+item,minecraft:armor_trim,Armour trim (any),Misc,rare,,rare
+item,minecraft:bell,Bell,Misc,rare,,uncommon
+item,minecraft:bordure_indented_banner_pattern,Bordure Indented Banner Pattern,Misc,rare,,mythic
+item,minecraft:experience_bottle,Bottle o' Enchanting,Misc,rare,,rare
+item,minecraft:copper_horse_armor,Copper Horse Armor,Misc,rare,,rare
+item,minecraft:copper_nautilus_armor,Copper Nautilus Armor,Misc,rare,,rare
+item,minecraft:diamond_horse_armor,Diamond Horse Armor,Misc,rare,,rare
+item,minecraft:enchanted_book,Enchanted Book,Misc,rare,,rare
+item,minecraft:enchanting_table,Enchanting Table,Misc,rare,,rare
+item,minecraft:golden_horse_armor,Golden Horse Armor,Misc,rare,,rare
+item,minecraft:heart_of_the_sea,Heart of the Sea,Misc,rare,,epic
+item,minecraft:iron_horse_armor,Iron Horse Armor,Misc,rare,,rare
+item,minecraft:jukebox,Jukebox,Misc,rare,,uncommon
+item,minecraft:lead,Lead,Misc,rare,,uncommon
+item,minecraft:name_tag,Name Tag,Misc,rare,,rare
+item,minecraft:saddle,Saddle,Misc,rare,,rare
+item,minecraft:trial_explorer_map,Trial Explorer Map,Misc,rare,,rare
+item,minecraft:turtle_egg,Turtle Egg,Misc,rare,,
+item,minecraft:wolf_armor,Wolf Armor,Misc,rare,,rare
+item,minecraft:writable_book,Book and Quill,Misc,uncommon,,uncommon
+item,minecraft:bookshelf,Bookshelf,Misc,uncommon,,uncommon
+item,minecraft:iron_chain,Chain,Misc,uncommon,,uncommon
+item,minecraft:map,Empty Map,Misc,uncommon,,uncommon
+item,minecraft:firework_rocket,Firework Rocket,Misc,uncommon,,uncommon
+item,minecraft:firework_star,Firework Star,Misc,uncommon,,uncommon
+item,minecraft:lectern,Lectern,Misc,uncommon,,uncommon
+item,minecraft:loom,Loom,Misc,uncommon,,common
+item,minecraft:filled_map,Map,Misc,uncommon,,uncommon
+item,minecraft:redstone_torch,Redstone Torch,Misc,uncommon,,uncommon
+item,minecraft:written_book,Written Book,Misc,uncommon,,uncommon
+item,minecraft:arrow,Arrow,Monster,common,,common
+item,minecraft:bone,Bone,monster,common,,common
+item,minecraft:bow,Bow,Monster,common,,uncommon
+item,minecraft:fishing_rod,Fishing Rod,monster,common,,uncommon
+item,minecraft:gunpowder,Gunpowder,Monster,common,,common
+item,minecraft:rotten_flesh,Rotten Flesh,Monster,common,,common
+item,minecraft:string,String,Monster,common,,common
+item,minecraft:breeze_rod,Breeze Rod,Monster,epic,requires hostile mobs enabled,epic
+item,minecraft:phantom_membrane,Phantom Membrane,Monster,epic,,epic
+item,minecraft:slime_block,Slime Block,Monster,epic,,epic
+item,minecraft:wind_charge,Wind Charge,Monster,epic,requires daylight cycle disabled,epic
+item,minecraft:trident,Trident,Monster,legendary,,legendary
+item,minecraft:creeper_head,Creeper Head,Monster,mythic,,mythic
+item,minecraft:dragon_head,Dragon Head,Monster,mythic,,mythic
+item,minecraft:piglin_head,Piglin Head,Monster,mythic,,mythic
+item,minecraft:skeleton_skull,Skeleton Skull,Monster,mythic,,mythic
+item,minecraft:wither_skeleton_skull,Wither Skeleton Skull,Monster,mythic,,legendary
+item,minecraft:zombie_head,Zombie Head,Monster,mythic,,mythic
+item,minecraft:blaze_powder,Blaze Powder,Monster,rare,,epic
+item,minecraft:blaze_rod,Blaze Rod,Monster,rare,,epic
+item,minecraft:fermented_spider_eye,Fermented Spider Eye,Monster,rare,,rare
+item,minecraft:ghast_tear,Ghast Tear,Monster,rare,,epic
+item,minecraft:magma_cream,Magma Cream,Monster,rare,,epic
+item,minecraft:nautilus_shell,Nautilus Shell,Monster,rare,,rare
+item,minecraft:slime_ball,Slimeball,Monster,rare,,rare
+item,minecraft:crossbow,Crossbow,Monster,uncommon,,uncommon
+item,minecraft:ender_pearl,Ender Pearl,Monster,uncommon,,uncommon
+item,minecraft:spider_eye,Spider Eye,Monster,uncommon,,common
+item,minecraft:disc_fragment_5,Disc Fragment,Music,legendary,,legendary
+item,minecraft:music_disc_13,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_strad,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_mellohi,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_stal,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_ward,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_otherside,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_pigstep,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_11,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_wait,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_cat,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_far,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_blocks,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_chirp,Music Disc,Music,legendary,,legendary
+item,minecraft:music_disc_5,Music Disc (5),Music,legendary,,legendary
+item,minecraft:music_disc_creator_music_box,Music Disc (Creator Music Box),Music,legendary,,legendary
+item,minecraft:music_disc_creator,Music Disc (Creator),Music,legendary,,legendary
+item,minecraft:music_disc_lava_chicken,Music Disc (Lava Chicken),Music,legendary,,legendary
+item,minecraft:music_disc_mall,Music Disc (Mall),Music,legendary,,legendary
+item,minecraft:music_disc_relic,Music Disc (Relic),Music,legendary,,legendary
+item,minecraft:music_disc_tears,Music Disc (Tears),Music,legendary,,legendary
+item,minecraft:crimson_nylium,Crimson Nylium,Nether,epic,,legendary
+item,minecraft:end_crystal,End Crystal,Nether,epic,,legendary
+item,minecraft:lodestone,Lodestone,Nether,epic,,uncommon
+item,minecraft:nether_wart_block,Nether Wart Block,Nether,epic,,epic
+item,minecraft:netherite_horse_armor,Netherite Horse Armor,Nether,epic,,mythic
+item,minecraft:netherite_scrap,Netherite Scrap,Nether,epic,,legendary
+item,minecraft:red_nether_brick_slab,Red Nether Brick Slab,Nether,epic,,epic
+item,minecraft:red_nether_brick_stairs,Red Nether Brick Stairs,Nether,epic,,epic
+item,minecraft:red_nether_brick_wall,Red Nether Brick Wall,Nether,epic,,epic
+item,minecraft:red_nether_bricks,Red Nether Bricks,Nether,epic,,epic
+item,minecraft:respawn_anchor,Respawn Anchor,Nether,epic,,epic
+item,minecraft:warped_nylium,Warped Nylium,Nether,epic,,
+item,minecraft:netherite_block,Block of Netherite,Nether,legendary,,mythic
+item,minecraft:netherite_axe,Netherite Axe,Nether,legendary,,legendary
+item,minecraft:netherite_boots,Netherite Boots,Nether,legendary,,legendary
+item,minecraft:netherite_chestplate,Netherite Chestplate,Nether,legendary,,legendary
+item,minecraft:netherite_helmet,Netherite Helmet,Nether,legendary,,legendary
+item,minecraft:netherite_hoe,Netherite Hoe,Nether,legendary,,legendary
+item,minecraft:netherite_ingot,Netherite Ingot,Nether,legendary,,legendary
+item,minecraft:netherite_leggings,Netherite Leggings,Nether,legendary,,legendary
+item,minecraft:netherite_pickaxe,Netherite Pickaxe,Nether,legendary,,legendary
+item,minecraft:netherite_shovel,Netherite Shovel,Nether,legendary,,legendary
+item,minecraft:netherite_spear,Netherite Spear,Nether,legendary,,legendary
+item,minecraft:netherite_sword,Netherite Sword,Nether,legendary,,legendary
+item,minecraft:ochre_froglight,Ochre Froglight,Nether,legendary,,mythic
+item,minecraft:pearlescent_froglight,Pearlescent Froglight,Nether,legendary,,mythic
+item,minecraft:verdant_froglight,Verdant Froglight,Nether,legendary,,mythic
+item,minecraft:nether_star,Nether Star,Nether,mythic,,
+item,minecraft:netherite_nautilus_armor,Netherite Nautilus Armor,Nether,mythic,,mythic
+item,minecraft:wither_rose,Wither Rose,Nether,mythic,,
+item,minecraft:ancient_debris,Ancient Debris,Nether,rare,,legendary
+item,minecraft:basalt,Basalt,Nether,rare,,epic
+item,minecraft:blackstone,Blackstone,Nether,rare,,epic
+item,minecraft:blackstone_slab,Blackstone Slab,Nether,rare,,epic
+item,minecraft:blackstone_stairs,Blackstone Stairs,Nether,rare,,epic
+item,minecraft:blackstone_wall,Blackstone Wall,Nether,rare,,epic
+item,minecraft:quartz_block,Block of Quartz,Nether,rare,,epic
+item,minecraft:bone_block,Bone Block,Nether,rare,,uncommon
+item,minecraft:brewing_stand,Brewing Stand,Nether,rare,,rare
+item,minecraft:chiseled_nether_bricks,Chiseled Nether Bricks,Nether,rare,,rare
+item,minecraft:chiseled_polished_blackstone,Chiseled Polished Blackstone,Nether,rare,,epic
+item,minecraft:chiseled_quartz_block,Chiseled Quartz Block,Nether,rare,,epic
+item,minecraft:cracked_nether_bricks,Cracked Nether Bricks,Nether,rare,,rare
+item,minecraft:cracked_polished_blackstone_bricks,Cracked Polished Blackstone Bricks,Nether,rare,,epic
+item,minecraft:crimson_button,Crimson Button,Nether,rare,,epic
+item,minecraft:crimson_door,Crimson Door,Nether,rare,,epic
+item,minecraft:crimson_fence,Crimson Fence,Nether,rare,,epic
+item,minecraft:crimson_fence_gate,Crimson Fence Gate,Nether,rare,,epic
+item,minecraft:crimson_fungus,Crimson Fungus,Nether,rare,,epic
+item,minecraft:crimson_hanging_sign,Crimson Hanging Sign,Nether,rare,,epic
+item,minecraft:crimson_hyphae,Crimson Hyphae,Nether,rare,,epic
+item,minecraft:crimson_planks,Crimson Planks,Nether,rare,,epic
+item,minecraft:crimson_pressure_plate,Crimson Pressure Plate,Nether,rare,,epic
+item,minecraft:crimson_roots,Crimson Roots,Nether,rare,,epic
+item,minecraft:crimson_shelf,Crimson Shelf,Nether,rare,,epic
+item,minecraft:crimson_sign,Crimson Sign,Nether,rare,,epic
+item,minecraft:crimson_slab,Crimson Slab,Nether,rare,,epic
+item,minecraft:crimson_stairs,Crimson Stairs,Nether,rare,,epic
+item,minecraft:crimson_stem,Crimson Stem,Nether,rare,,epic
+item,minecraft:crimson_trapdoor,Crimson Trapdoor,Nether,rare,,epic
+item,minecraft:crying_obsidian,Crying Obsidian,Nether,rare,,uncommon
+item,minecraft:daylight_detector,Daylight Detector,Nether,rare,,epic
+item,minecraft:dried_ghast,Dried Ghast,Nether,rare,,legendary
+item,minecraft:ender_eye,Eye of Ender,Nether,rare,,epic
+item,minecraft:fire_charge,Fire Charge,Nether,rare,,uncommon
+item,minecraft:gilded_blackstone,Gilded Blackstone,Nether,rare,,legendary
+item,minecraft:glowstone,Glowstone,Nether,rare,,rare
+item,minecraft:glowstone_dust,Glowstone Dust,Nether,rare,,rare
+item,minecraft:nether_brick,Nether Brick,Nether,rare,,rare
+item,minecraft:nether_brick_fence,Nether Brick Fence,Nether,rare,,rare
+item,minecraft:nether_brick_slab,Nether Brick Slab,Nether,rare,,rare
+item,minecraft:nether_brick_stairs,Nether Brick Stairs,Nether,rare,,rare
+item,minecraft:nether_brick_wall,Nether Brick Wall,Nether,rare,,rare
+item,minecraft:nether_bricks,Nether Bricks,Nether,rare,,rare
+item,minecraft:quartz,Nether Quartz,Nether,rare,,epic
+item,minecraft:nether_sprouts,Nether Sprouts,Nether,rare,,rare
+item,minecraft:nether_wart,Nether Wart,Nether,rare,,epic
+item,minecraft:polished_basalt,Polished Basalt,Nether,rare,,epic
+item,minecraft:polished_blackstone,Polished Blackstone,Nether,rare,,epic
+item,minecraft:polished_blackstone_brick_slab,Polished Blackstone Brick Slab,Nether,rare,,epic
+item,minecraft:polished_blackstone_brick_stairs,Polished Blackstone Brick Stairs,Nether,rare,,epic
+item,minecraft:polished_blackstone_brick_wall,Polished Blackstone Brick Wall,Nether,rare,,epic
+item,minecraft:polished_blackstone_bricks,Polished Blackstone Bricks,Nether,rare,,epic
+item,minecraft:polished_blackstone_button,Polished Blackstone Button,Nether,rare,,epic
+item,minecraft:polished_blackstone_pressure_plate,Polished Blackstone Pressure Plate,Nether,rare,,epic
+item,minecraft:polished_blackstone_slab,Polished Blackstone Slab,Nether,rare,,epic
+item,minecraft:polished_blackstone_stairs,Polished Blackstone Stairs,Nether,rare,,epic
+item,minecraft:polished_blackstone_wall,Polished Blackstone Wall,Nether,rare,,epic
+item,minecraft:potion,Potion,Nether,rare,,rare
+item,minecraft:quartz_bricks,Quartz Bricks,Nether,rare,,epic
+item,minecraft:quartz_pillar,Quartz Pillar,Nether,rare,,epic
+item,minecraft:quartz_slab,Quartz Slab,Nether,rare,,epic
+item,minecraft:quartz_stairs,Quartz Stairs,Nether,rare,,epic
+item,minecraft:shroomlight,Shroomlight,Nether,rare,,epic
+item,minecraft:smooth_basalt,Smooth Basalt,Nether,rare,,epic
+item,minecraft:smooth_quartz,Smooth Quartz Block,Nether,rare,,epic
+item,minecraft:smooth_quartz_slab,Smooth Quartz Slab,Nether,rare,,epic
+item,minecraft:smooth_quartz_stairs,Smooth Quartz Stairs,Nether,rare,,epic
+item,minecraft:soul_campfire,Soul Campfire,Nether,rare,,epic
+item,minecraft:soul_lantern,Soul Lantern,Nether,rare,,epic
+item,minecraft:soul_sand,Soul Sand,Nether,rare,,epic
+item,minecraft:soul_soil,Soul Soil,Nether,rare,,epic
+item,minecraft:soul_torch,Soul Torch,Nether,rare,,epic
+item,minecraft:spectral_arrow,Spectral Arrow,Nether,rare,,rare
+item,minecraft:splash_potion,Splash Potion,Nether,rare,,rare
+item,minecraft:stripped_crimson_hyphae,Stripped Crimson Hyphae,Nether,rare,,epic
+item,minecraft:stripped_crimson_stem,Stripped Crimson Stem,Nether,rare,,epic
+item,minecraft:stripped_warped_hyphae,Stripped Warped Hyphae,Nether,rare,,epic
+item,minecraft:stripped_warped_stem,Stripped Warped Stem,Nether,rare,,epic
+item,minecraft:twisting_vines,Twisting Vines,Nether,rare,,epic
+item,minecraft:warped_button,Warped Button,Nether,rare,,epic
+item,minecraft:warped_door,Warped Door,Nether,rare,,epic
+item,minecraft:warped_fence,Warped Fence,Nether,rare,,epic
+item,minecraft:warped_fence_gate,Warped Fence Gate,Nether,rare,,epic
+item,minecraft:warped_fungus,Warped Fungus,Nether,rare,,epic
+item,minecraft:warped_fungus_on_a_stick,Warped Fungus on a Stick,Nether,rare,,epic
+item,minecraft:warped_hanging_sign,Warped Hanging Sign,Nether,rare,,epic
+item,minecraft:warped_hyphae,Warped Hyphae,Nether,rare,,epic
+item,minecraft:warped_planks,Warped Planks,Nether,rare,,epic
+item,minecraft:warped_pressure_plate,Warped Pressure Plate,Nether,rare,,epic
+item,minecraft:warped_roots,Warped Roots,Nether,rare,,epic
+item,minecraft:warped_shelf,Warped Shelf,Nether,rare,,epic
+item,minecraft:warped_sign,Warped Sign,Nether,rare,,epic
+item,minecraft:warped_slab,Warped Slab,Nether,rare,,epic
+item,minecraft:warped_stairs,Warped Stairs,Nether,rare,,epic
+item,minecraft:warped_stem,Warped Stem,Nether,rare,,epic
+item,minecraft:warped_trapdoor,Warped Trapdoor,Nether,rare,,epic
+item,minecraft:warped_wart_block,Warped Wart Block,Nether,rare,,epic
+item,minecraft:weeping_vines,Weeping Vines,Nether,rare,,epic
+item,minecraft:magma_block,Magma Block,Nether,uncommon,,epic
+item,minecraft:netherrack,Netherrack,Nether,uncommon,,rare
+item,minecraft:dark_prismarine_slab,Dark Prismarine Slab,Ocean,epic,,rare
+item,minecraft:prismarine_brick_slab,Prismarine Brick Slab,Ocean,epic,,rare
+item,minecraft:prismarine_slab,Prismarine Slab,Ocean,epic,,rare
+item,minecraft:sponge,Sponge,Ocean,epic,,legendary
+item,minecraft:wet_sponge,Wet Sponge,Ocean,epic,,legendary
+item,minecraft:dark_prismarine,Dark Prismarine,Ocean,rare,,rare
+item,minecraft:dark_prismarine_stairs,Dark Prismarine Stairs,Ocean,rare,,rare
+item,minecraft:prismarine,Prismarine,Ocean,rare,,rare
+item,minecraft:prismarine_brick_stairs,Prismarine Brick Stairs,Ocean,rare,,rare
+item,minecraft:prismarine_bricks,Prismarine Bricks,Ocean,rare,,rare
+item,minecraft:prismarine_crystals,Prismarine Crystals,Ocean,rare,,rare
+item,minecraft:prismarine_shard,Prismarine Shard,Ocean,rare,,rare
+item,minecraft:prismarine_stairs,Prismarine Stairs,Ocean,rare,,rare
+item,minecraft:prismarine_wall,Prismarine Wall,Ocean,rare,,rare
+item,minecraft:sea_lantern,Sea Lantern,Ocean,rare,,epic
+item,minecraft:sea_pickle,Sea Pickle,Ocean,rare,,rare
+item,minecraft:dried_kelp,Dried Kelp,Ocean,uncommon,,uncommon
+item,minecraft:dried_kelp_block,Dried Kelp Block,Ocean,uncommon,,uncommon
+item,minecraft:kelp,Kelp,Ocean,uncommon,,common
+item,minecraft:seagrass,Seagrass,Ocean,uncommon,,common
+item,minecraft:birch_button,Birch Button,Redstone,common,,common
+item,minecraft:birch_pressure_plate,Birch Pressure Plate,Redstone,common,,common
+item,minecraft:lever,Lever,Redstone,common,,common
+item,minecraft:oak_button,Oak Button,Redstone,common,,common
+item,minecraft:oak_pressure_plate,Oak Pressure Plate,Redstone,common,,common
+item,minecraft:stone_button,Stone Button,Redstone,common,,uncommon
+item,minecraft:stone_pressure_plate,Stone Pressure Plate,Redstone,common,,uncommon
+item,minecraft:sculk_sensor,Sculk Sensor,Redstone,legendary,,mythic
+item,minecraft:mangrove_button,Mangrove Button,Redstone,rare,,uncommon
+item,minecraft:mangrove_pressure_plate,Mangrove Pressure Plate,Redstone,rare,,uncommon
+item,minecraft:tnt_minecart,Minecart with TNT,Redstone,rare,,rare
+item,minecraft:note_block,Note Block,Redstone,rare,,uncommon
+item,minecraft:observer,Observer,redstone,rare,,epic
+item,minecraft:sticky_piston,Sticky Piston,Redstone,rare,,rare
+item,minecraft:acacia_button,Acacia Button,Redstone,uncommon,,uncommon
+item,minecraft:acacia_pressure_plate,Acacia Pressure Plate,Redstone,uncommon,,uncommon
+item,minecraft:activator_rail,Activator Rail,Redstone,uncommon,,rare
+item,minecraft:compass,Compass,Redstone,uncommon,,uncommon
+item,minecraft:dark_oak_button,Dark Oak Button,Redstone,uncommon,,uncommon
+item,minecraft:dark_oak_pressure_plate,Dark Oak Pressure Plate,Redstone,uncommon,,uncommon
+item,minecraft:detector_rail,Detector Rail,Redstone,uncommon,,rare
+item,minecraft:dispenser,Dispenser,Redstone,uncommon,,uncommon
+item,minecraft:dropper,Dropper,Redstone,uncommon,,ucommon
+item,minecraft:heavy_weighted_pressure_plate,Heavy Weighted Pressure Plate,Redstone,uncommon,,ucommon
+item,minecraft:hopper,Hopper,Redstone,uncommon,,ucommon
+item,minecraft:jungle_button,Jungle Button,Redstone,uncommon,,ucommon
+item,minecraft:jungle_pressure_plate,Jungle Pressure Plate,Redstone,uncommon,,ucommon
+item,minecraft:light_weighted_pressure_plate,Light Weighted Pressure Plate,Redstone,uncommon,,ucommon
+item,minecraft:hopper_minecart,Minecart with Hopper,Redstone,uncommon,,uncommon
+item,minecraft:piston,Piston,Redstone,uncommon,,uncommon
+item,minecraft:powered_rail,Powered Rail,Redstone,uncommon,,rare
+item,minecraft:rail,Rail,Redstone,uncommon,,uncommon
+item,minecraft:comparator,Redstone Comparator,Redstone,uncommon,,epic
+item,minecraft:redstone,Redstone Dust,Redstone,uncommon,,uncommon
+item,minecraft:redstone_lamp,Redstone Lamp,Redstone,uncommon,,uncommon
+item,minecraft:repeater,Redstone Repeater,Redstone,uncommon,,uncommon
+item,minecraft:spruce_button,Spruce Button,Redstone,uncommon,,common
+item,minecraft:spruce_pressure_plate,Spruce Pressure Plate,Redstone,uncommon,,common
+item,minecraft:target,Target,Redstone,uncommon,,uncommon
+item,minecraft:tnt,TNT,Redstone,uncommon,,uncommon
+item,minecraft:trapped_chest,Trapped Chest,Redstone,uncommon,,uncommon
+item,minecraft:tripwire_hook,Tripwire Hook,redstone,uncommon,,uncommon
+item,minecraft:angler_pottery_sherd,Angler Pottery Sherd,Sherd,epic,,
+item,minecraft:archer_pottery_sherd,Archer Pottery Sherd,Sherd,epic,,
+item,minecraft:arms_up_pottery_sherd,Arms Up Pottery Sherd,Sherd,epic,,
+item,minecraft:blade_pottery_sherd,Blade Pottery Sherd,Sherd,epic,,
+item,minecraft:brewer_pottery_sherd,Brewer Pottery Sherd,Sherd,epic,,
+item,minecraft:explorer_pottery_sherd,Explorer Pottery Sherd,Sherd,epic,,
+item,minecraft:miner_pottery_sherd,Miner Pottery Sherd,Sherd,epic,,
+item,minecraft:mourner_pottery_sherd,Mourner Pottery Sherd,Sherd,epic,,
+item,minecraft:plenty_pottery_sherd,Plenty Pottery Sherd,Sherd,epic,,
+item,minecraft:prize_pottery_sherd,Prize Pottery Sherd,Sherd,epic,,
+item,minecraft:shelter_pottery_sherd,Shelter Pottery Sherd,Sherd,epic,,
+item,minecraft:skull_pottery_sherd,Skull Pottery Sherd,Sherd,epic,,
+item,minecraft:snort_pottery_sherd,Snort Pottery Sherd,Sherd,epic,,
+item,minecraft:burn_pottery_sherd,Burn Pottery Sherd,Sherd,mythic,,
+item,minecraft:danger_pottery_sherd,Danger Pottery Sherd,Sherd,mythic,,
+item,minecraft:flow_pottery_sherd,Flow Pottery Sherd,Sherd,mythic,,
+item,minecraft:friend_pottery_sherd,Friend Pottery Sherd,Sherd,mythic,,
+item,minecraft:guster_pottery_sherd,Guster Pottery Sherd,Sherd,mythic,,
+item,minecraft:heart_pottery_sherd,Heart Pottery Sherd,Sherd,mythic,,
+item,minecraft:heartbreak_pottery_sherd,Heartbreak Pottery Sherd,Sherd,mythic,,
+item,minecraft:howl_pottery_sherd,Howl Pottery Sherd,Sherd,mythic,,
+item,minecraft:scrape_pottery_sherd,Scrape Pottery Sherd,Sherd,mythic,,
+item,minecraft:sheaf_pottery_sherd,Sheaf Pottery Sherd,Sherd,mythic,,
+item,minecraft:brick,Brick,Shovel,common,,uncommon
+item,minecraft:chiseled_sandstone,Chiseled Sandstone,Shovel,common,,uncommon
+item,minecraft:clay,Clay,Shovel,common,,common
+item,minecraft:clay_ball,Clay Ball,Shovel,common,,common
+item,minecraft:cut_sandstone,Cut Sandstone,Shovel,common,,common
+item,minecraft:cut_sandstone_slab,Cut Sandstone Slab,Shovel,common,,uncommon
+item,minecraft:decorated_pot,Decorated Pot,Shovel,common,,uncommon
+item,minecraft:dirt,Dirt,Shovel,common,,common
+item,minecraft:fletching_table,Fletching Table,Shovel,common,,uncommon
+item,minecraft:flint,Flint,Shovel,common,,common
+item,minecraft:flower_pot,Flower Pot,Shovel,common,,uncommon
+item,minecraft:short_grass,Grass,Shovel,common,,
+item,minecraft:gravel,Gravel,Shovel,common,,common
+item,minecraft:sand,Sand,Shovel,common,,common
+item,minecraft:sandstone,Sandstone,Shovel,common,,common
+item,minecraft:sandstone_slab,Sandstone Slab,Shovel,common,,uncommon
+item,minecraft:sandstone_stairs,Sandstone Stairs,Shovel,common,,uncommon
+item,minecraft:sandstone_wall,Sandstone Wall,Shovel,common,,uncommon
+item,minecraft:smooth_sandstone,Smooth Sandstone,Shovel,common,,uncommon
+item,minecraft:smooth_sandstone_slab,Smooth Sandstone Slab,Shovel,common,,uncommon
+item,minecraft:smooth_sandstone_stairs,Smooth Sandstone Stairs,Shovel,common,,uncommon
+item,minecraft:grass_block,Grass Block,Shovel,epic,,epic
+item,minecraft:mycelium,Mycelium,Shovel,epic,,mythic
+item,minecraft:podzol,Podzol,Shovel,epic,,mythic
+item,minecraft:chiseled_red_sandstone,Chiseled Red Sandstone,Shovel,rare,,rare
+item,minecraft:coarse_dirt,Coarse Dirt,Shovel,rare,,uncommon
+item,minecraft:cut_red_sandstone,Cut Red Sandstone,Shovel,rare,,rare
+item,minecraft:cut_red_sandstone_slab,Cut Red Sandstone Slab,Shovel,rare,,rare
+item,minecraft:red_sand,Red Sand,Shovel,rare,,uncommon
+item,minecraft:red_sandstone,Red Sandstone,Shovel,rare,,uncommon
+item,minecraft:red_sandstone_slab,Red Sandstone Slab,Shovel,rare,,rare
+item,minecraft:red_sandstone_stairs,Red Sandstone Stairs,Shovel,rare,,rare
+item,minecraft:red_sandstone_wall,Red Sandstone Wall,Shovel,rare,,rare
+item,minecraft:rooted_dirt,Rooted Dirt,Shovel,rare,,rare
+item,minecraft:smooth_red_sandstone,Smooth Red Sandstone,Shovel,rare,,rare
+item,minecraft:smooth_red_sandstone_slab,Smooth Red Sandstone Slab,Shovel,rare,,rare
+item,minecraft:smooth_red_sandstone_stairs,Smooth Red Sandstone Stairs,Shovel,rare,,rare
+item,minecraft:brick_slab,Brick Slab,Shovel,uncommon,,uncommon
+item,minecraft:brick_stairs,Brick Stairs,Shovel,uncommon,,uncommon
+item,minecraft:brick_wall,Brick Wall,Shovel,uncommon,,uncommon
+item,minecraft:bricks,Bricks,Shovel,uncommon,,uncommon
+item,minecraft:mud,Mud,Shovel,uncommon,,uncommon
+item,minecraft:mud_brick_slab,Mud Brick Slab,Shovel,uncommon,,uncommon
+item,minecraft:mud_brick_stairs,Mud Brick Stairs,shovel,uncommon,,uncommon
+item,minecraft:mud_brick_wall,Mud Brick Wall,Shovel,uncommon,,uncommon
+item,minecraft:mud_bricks,Mud Bricks,Shovel,uncommon,,uncommon
+item,minecraft:packed_mud,Packed Mud,Shovel,uncommon,,uncommon
+item,minecraft:snow_block,Snow Block,Shovel,uncommon,,uncommon
+item,minecraft:snowball,Snowball,Shovel,uncommon,,uncommon
+item,minecraft:black_shulker_box,Black Shulker Box,Shulker,mythic,,mythic
+item,minecraft:blue_shulker_box,Blue Shulker Box,Shulker,mythic,,mythic
+item,minecraft:brown_shulker_box,Brown Shulker Box,Shulker,mythic,,mythic
+item,minecraft:cyan_shulker_box,Cyan Shulker Box,Shulker,mythic,,mythic
+item,minecraft:gray_shulker_box,Gray Shulker Box,Shulker,mythic,,mythic
+item,minecraft:green_shulker_box,Green Shulker Box,Shulker,mythic,,mythic
+item,minecraft:light_blue_shulker_box,Light Blue Shulker Box,Shulker,mythic,,mythic
+item,minecraft:light_gray_shulker_box,Light Gray Shulker Box,Shulker,mythic,,mythic
+item,minecraft:lime_shulker_box,Lime Shulker Box,Shulker,mythic,,mythic
+item,minecraft:magenta_shulker_box,Magenta Shulker Box,Shulker,mythic,,mythic
+item,minecraft:orange_shulker_box,Orange Shulker Box,Shulker,mythic,,mythic
+item,minecraft:pink_shulker_box,Pink Shulker Box,Shulker,mythic,,mythic
+item,minecraft:purple_shulker_box,Purple Shulker Box,Shulker,mythic,,mythic
+item,minecraft:red_shulker_box,Red Shulker Box,Shulker,mythic,,mythic
+item,minecraft:shulker_box,Shulker Box,Shulker,mythic,,mythic
+item,minecraft:white_shulker_box,White Shulker Box,Shulker,mythic,,mythic
+item,minecraft:yellow_shulker_box,Yellow Shulker Box,Shulker,mythic,,mythic
+item,minecraft:andesite,Andesite,Stone,common,,common
+item,minecraft:andesite_slab,Andesite Slab,Stone,common,,uncommon
+item,minecraft:andesite_stairs,Andesite Stairs,Stone,common,,uncommon
+item,minecraft:andesite_wall,Andesite Wall,Stone,common,,uncommon
+item,minecraft:chiseled_deepslate,Chiseled Deepslate,Stone,common,,rare
+item,minecraft:chiseled_stone_bricks,Chiseled Stone Bricks,Stone,common,,rare
+item,minecraft:cobbled_deepslate,Cobbled Deepslate,Stone,common,,rare
+item,minecraft:cobbled_deepslate_slab,Cobbled Deepslate Slab,Stone,common,,rare
+item,minecraft:cobbled_deepslate_stairs,Cobbled Deepslate Stairs,Stone,common,,rare
+item,minecraft:cobbled_deepslate_wall,Cobbled Deepslate Wall,Stone,common,,rare
+item,minecraft:cobblestone,Cobblestone,Stone,common,,common
+item,minecraft:cobblestone_slab,Cobblestone Slab,Stone,common,,uncommon
+item,minecraft:cobblestone_stairs,Cobblestone Stairs,Stone,common,,uncommon
+item,minecraft:cobblestone_wall,Cobblestone Wall,Stone,common,,uncommon
+item,minecraft:cracked_deepslate_bricks,Cracked Deepslate Bricks,Stone,common,,rare
+item,minecraft:cracked_deepslate_tiles,Cracked Deepslate Tiles,Stone,common,,rare
+item,minecraft:cracked_stone_bricks,Cracked Stone Bricks,Stone,common,,uncommon
+item,minecraft:deepslate,Deepslate,Stone,common,,rare
+item,minecraft:deepslate_brick_slab,Deepslate Brick Slab,Stone,common,,rare
+item,minecraft:deepslate_brick_stairs,Deepslate Brick Stairs,Stone,common,,rare
+item,minecraft:deepslate_brick_wall,Deepslate Brick Wall,Stone,common,,rare
+item,minecraft:deepslate_bricks,Deepslate Bricks,Stone,common,,rare
+item,minecraft:deepslate_tile_slab,Deepslate Tile Slab,Stone,common,,rare
+item,minecraft:deepslate_tile_stairs,Deepslate Tile Stairs,Stone,common,,rare
+item,minecraft:deepslate_tile_wall,Deepslate Tile Wall,Stone,common,,rare
+item,minecraft:deepslate_tiles,Deepslate Tiles,Stone,common,,rare
+item,minecraft:diorite,Diorite,Stone,common,,common
+item,minecraft:diorite_slab,Diorite Slab,Stone,common,,uncommon
+item,minecraft:diorite_stairs,Diorite Stairs,Stone,common,,uncommon
+item,minecraft:diorite_wall,Diorite Wall,Stone,common,,uncommon
+item,minecraft:granite,Granite,Stone,common,,common
+item,minecraft:granite_slab,Granite Slab,Stone,common,,uncommon
+item,minecraft:granite_stairs,Granite Stairs,Stone,common,,uncommon
+item,minecraft:granite_wall,Granite Wall,Stone,common,,uncommon
+item,minecraft:grindstone,Grindstone,Stone,common,,uncommon
+item,minecraft:polished_andesite,Polished Andesite,Stone,common,,uncommon
+item,minecraft:polished_andesite_slab,Polished Andesite Slab,Stone,common,,uncommon
+item,minecraft:polished_andesite_stairs,Polished Andesite Stairs,Stone,common,,uncommon
+item,minecraft:polished_deepslate,Polished Deepslate,Stone,common,,uncommon
+item,minecraft:polished_deepslate_slab,Polished Deepslate Slab,Stone,common,,uncommon
+item,minecraft:polished_deepslate_stairs,Polished Deepslate Stairs,Stone,common,,uncommon
+item,minecraft:polished_deepslate_wall,Polished Deepslate Wall,Stone,common,,uncommon
+item,minecraft:polished_diorite,Polished Diorite,Stone,common,,uncommon
+item,minecraft:polished_diorite_slab,Polished Diorite Slab,Stone,common,,uncommon
+item,minecraft:polished_diorite_stairs,Polished Diorite Stairs,Stone,common,,uncommon
+item,minecraft:polished_granite,Polished Granite,Stone,common,,uncommon
+item,minecraft:polished_granite_slab,Polished Granite Slab,Stone,common,,uncommon
+item,minecraft:polished_granite_stairs,Polished Granite Stairs,Stone,common,,uncommon
+item,minecraft:smoker,Smoker,Stone,common,,uncommon
+item,minecraft:smooth_stone,Smooth Stone,Stone,common,,uncommon
+item,minecraft:smooth_stone_slab,Smooth Stone Slab,Stone,common,,uncommon
+item,minecraft:stone,Stone,Stone,common,,uncommon
+item,minecraft:stone_axe,Stone Axe,Stone,common,,uncommon
+item,minecraft:stone_brick_slab,Stone Brick Slab,Stone,common,,uncommon
+item,minecraft:stone_brick_stairs,Stone Brick Stairs,Stone,common,,uncommon
+item,minecraft:stone_brick_wall,Stone Brick Wall,Stone,common,,uncommon
+item,minecraft:stone_bricks,Stone Bricks,Stone,common,,uncommon
+item,minecraft:stone_hoe,Stone Hoe,Stone,common,,uncommon
+item,minecraft:stone_pickaxe,Stone Pickaxe,Stone,common,,uncommon
+item,minecraft:stone_shovel,Stone Shovel,Stone,common,,uncommon
+item,minecraft:stone_slab,Stone Slab,Stone,common,,uncommon
+item,minecraft:stone_spear,Stone Spear,Stone,common,,uncommon
+item,minecraft:stone_stairs,Stone Stairs,Stone,common,,uncommon
+item,minecraft:stone_sword,Stone Sword,Stone,common,,uncommon
+item,minecraft:stonecutter,Stonecutter,Stone,common,,uncommon
+item,minecraft:tuff,Tuff,Stone,common,,rare
+item,minecraft:dripstone_block,Dripstone Block,Stone,rare,,rare
+item,minecraft:armor_stand,Armor Stand,Stone,uncommon,,uncommon
+item,minecraft:calcite,Calcite,Stone,uncommon,,rare
+item,minecraft:chiseled_tuff,Chiseled Tuff,Stone,uncommon,,rare
+item,minecraft:chiseled_tuff_bricks,Chiseled Tuff Bricks,Stone,uncommon,,rare
+item,minecraft:mossy_cobblestone,Mossy Cobblestone,Stone,uncommon,,uncommon
+item,minecraft:mossy_cobblestone_slab,Mossy Cobblestone Slab,Stone,uncommon,,rare
+item,minecraft:mossy_cobblestone_stairs,Mossy Cobblestone Stairs,Stone,uncommon,,rare
+item,minecraft:mossy_cobblestone_wall,Mossy Cobblestone Wall,Stone,uncommon,,rare
+item,minecraft:mossy_stone_brick_slab,Mossy Stone Brick Slab,Stone,uncommon,,uncommon
+item,minecraft:mossy_stone_brick_stairs,Mossy Stone Brick Stairs,Stone,uncommon,,uncommon
+item,minecraft:mossy_stone_brick_wall,Mossy Stone Brick Wall,Stone,uncommon,,uncommon
+item,minecraft:mossy_stone_bricks,Mossy Stone Bricks,Stone,uncommon,,uncommon
+item,minecraft:polished_tuff,Polished Tuff,Stone,uncommon,,rare
+item,minecraft:polished_tuff_slab,Polished Tuff Slab,Stone,uncommon,,rare
+item,minecraft:polished_tuff_stairs,Polished Tuff Stairs,Stone,uncommon,,rare
+item,minecraft:polished_tuff_wall,Polished Tuff Wall,Stone,uncommon,,rare
+item,minecraft:tuff_brick_slab,Tuff Brick Slab,Stone,uncommon,,rare
+item,minecraft:tuff_brick_stairs,Tuff Brick Stairs,Stone,uncommon,,rare
+item,minecraft:tuff_brick_wall,Tuff Brick Wall,Stone,uncommon,,rare
+item,minecraft:tuff_bricks,Tuff Bricks,Stone,uncommon,,rare
+item,minecraft:tuff_slab,Tuff Slab,Stone,uncommon,,rare
+item,minecraft:tuff_stairs,Tuff Stairs,Stone,uncommon,,rare
+item,minecraft:tuff_wall,Tuff Wall,Stone,uncommon,,rare
+item,minecraft:dune_armor_trim_smithing_template,Dune Armor Trim Smithing Template,Template,epic,,epic
+item,minecraft:netherite_upgrade_smithing_template,Netherite Upgrade Smithing Template,Template,epic,,legendary
+item,minecraft:rib_armor_trim_smithing_template,Rib Armor Trim Smithing Template,Template,epic,,epic
+item,minecraft:sentry_armor_trim_smithing_template,Sentry Armor Trim Smithing Template,Template,epic,,epic
+item,minecraft:snout_armor_trim_smithing_template,Snout Armor Trim Smithing Template,Template,epic,,legendary
+item,minecraft:wild_armor_trim_smithing_template,Wild Armor Trim Smithing Template,Template,epic,,epic
+item,minecraft:bolt_armor_trim_smithing_template,Bolt Armor Trim Smithing Template,Template,legendary,,legendary
+item,minecraft:flow_armor_trim_smithing_template,Flow Armor Trim Smithing Template,Template,legendary,,legendary
+item,minecraft:silence_armor_trim_smithing_template,Silence Armor Trim Smithing Template,Template,legendary,,mythic
+item,minecraft:tide_armor_trim_smithing_template,Tide Armor Trim Smithing Template,Template,legendary,,legendary
+item,minecraft:vex_armor_trim_smithing_template,Vex Armor Trim Smithing Template,Template,legendary,,legendary
+item,minecraft:ward_armor_trim_smithing_template,Ward Armor Trim Smithing Template,Template,legendary,,mythic
+item,minecraft:eye_armor_trim_smithing_template,Eye Armor Trim Smithing Template,Template,mythic,,mythic
+item,minecraft:host_armor_trim_smithing_template,Host Armor Trim Smithing Template,Template,mythic,,
+item,minecraft:raiser_armor_trim_smithing_template,Raiser Armor Trim Smithing Template,Template,mythic,,
+item,minecraft:shaper_armor_trim_smithing_template,Shaper Armor Trim Smithing Template,Template,mythic,,
+item,minecraft:spire_armor_trim_smithing_template,Spire Armor Trim Smithing Template,Template,mythic,,mythic
+item,minecraft:wayfinder_armor_trim_smithing_template,Wayfinder Armor Trim Smithing Template,Template,mythic,,
+item,minecraft:coast_armor_trim_smithing_template,Coast Armor Trim Smithing Template,Template,rare,,rare
+item,minecraft:brown_glazed_terracotta,Brown Glazed Terracotta,Terracotta,rare,,rare
+item,minecraft:brown_terracotta,Brown Terracotta,Terracotta,rare,,rare
+item,minecraft:cyan_glazed_terracotta,Cyan Glazed Terracotta,Terracotta,rare,,rare
+item,minecraft:cyan_terracotta,Cyan Terracotta,Terracotta,rare,,rare
+item,minecraft:green_glazed_terracotta,Green Glazed Terracotta,Terracotta,rare,,rare
+item,minecraft:green_terracotta,Green Terracotta,Terracotta,rare,,rare
+item,minecraft:lime_glazed_terracotta,Lime Glazed Terracotta,Terracotta,rare,,rare
+item,minecraft:lime_terracotta,Lime Terracotta,Terracotta,rare,,rare
+item,minecraft:black_glazed_terracotta,Black Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:black_terracotta,Black Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:blue_glazed_terracotta,Blue Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:blue_terracotta,Blue Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:gray_glazed_terracotta,Gray Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:gray_terracotta,Gray Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:light_blue_glazed_terracotta,Light Blue Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:light_blue_terracotta,Light Blue Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:light_gray_glazed_terracotta,Light Gray Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:light_gray_terracotta,Light Gray Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:magenta_glazed_terracotta,Magenta Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:magenta_terracotta,Magenta Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:orange_glazed_terracotta,Orange Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:orange_terracotta,Orange Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:pink_glazed_terracotta,Pink Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:pink_terracotta,Pink Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:purple_glazed_terracotta,Purple Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:purple_terracotta,Purple Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:red_glazed_terracotta,Red Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:red_terracotta,Red Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:terracotta,Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:white_glazed_terracotta,White Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:white_terracotta,White Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:yellow_glazed_terracotta,Yellow Glazed Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:yellow_terracotta,Yellow Terracotta,Terracotta,uncommon,,uncommon
+item,minecraft:barrel,Barrel,Wood,common,,uncommon
+item,minecraft:birch_boat,Birch Boat,Wood,common,,uncommon
+item,minecraft:birch_chest_boat,Birch Boat with Chest,Wood,common,,uncommon
+item,minecraft:birch_door,Birch Door,Wood,common,,uncommon
+item,minecraft:birch_fence,Birch Fence,Wood,common,,uncommon
+item,minecraft:birch_fence_gate,Birch Fence Gate,Wood,common,,uncommon
+item,minecraft:birch_leaves,Birch Leaves,Wood,common,,
+item,minecraft:birch_log,Birch Log,Wood,common,,common
+item,minecraft:birch_planks,Birch Planks,Wood,common,,common
+item,minecraft:birch_sapling,Birch Sapling,Wood,common,,common
+item,minecraft:birch_shelf,Birch Shelf,Wood,common,,uncommon
+item,minecraft:birch_sign,Birch Sign,Wood,common,,uncommon
+item,minecraft:birch_slab,Birch Slab,Wood,common,,uncommon
+item,minecraft:birch_stairs,Birch Stairs,Wood,common,,uncommon
+item,minecraft:birch_trapdoor,Birch Trapdoor,Wood,common,,uncommon
+item,minecraft:birch_wood,Birch Wood,Wood,common,,common
+item,minecraft:bowl,Bowl,Wood,common,,uncommon
+item,minecraft:campfire,Campfire,Wood,common,,uncommon
+item,minecraft:charcoal,Charcoal,Wood,common,,uncommon
+item,minecraft:chiseled_bookshelf,Chiseled Bookshelf,Wood,common,,uncommon
+item,minecraft:composter,Composter,Wood,common,,uncommon
+item,minecraft:oak_boat,Oak Boat,Wood,common,,uncommon
+item,minecraft:oak_chest_boat,Oak Boat with Chest,Wood,common,,uncommon
+item,minecraft:oak_door,Oak Door,Wood,common,,uncommon
+item,minecraft:oak_fence,Oak Fence,Wood,common,,uncommon
+item,minecraft:oak_fence_gate,Oak Fence Gate,Wood,common,,uncommon
+item,minecraft:oak_hanging_sign,Oak Hanging Sign,Wood,common,,uncommon
+item,minecraft:oak_leaves,Oak Leaves,Wood,common,,
+item,minecraft:oak_log,Oak Log,Wood,common,,common
+item,minecraft:oak_planks,Oak Planks,Wood,common,,common
+item,minecraft:oak_sapling,Oak Sapling,Wood,common,,common
+item,minecraft:oak_shelf,Oak Shelf,Wood,common,,uncommon
+item,minecraft:oak_sign,Oak Sign,Wood,common,,uncommon
+item,minecraft:oak_slab,Oak Slab,Wood,common,,uncommon
+item,minecraft:oak_stairs,Oak Stairs,Wood,common,,uncommon
+item,minecraft:oak_trapdoor,Oak Trapdoor,Wood,common,,uncommon
+item,minecraft:oak_wood,Oak Wood,Wood,common,,common
+item,minecraft:stick,Stick,Wood,common,,common
+item,minecraft:stripped_birch_log,Stripped Birch Log,Wood,common,,common
+item,minecraft:stripped_birch_wood,Stripped Birch Wood,Wood,common,,common
+item,minecraft:stripped_oak_log,Stripped Oak Log,Wood,common,,common
+item,minecraft:stripped_oak_wood,Stripped Oak Wood,Wood,common,,common
+item,minecraft:wooden_axe,Wooden Axe,Wood,common,,uncommon
+item,minecraft:wooden_hoe,Wooden Hoe,Wood,common,,uncommon
+item,minecraft:wooden_pickaxe,Wooden Pickaxe,Wood,common,,uncommon
+item,minecraft:wooden_shovel,Wooden Shovel,Wood,common,,uncommon
+item,minecraft:wooden_spear,Wooden Spear,Wood,common,,uncommon
+item,minecraft:wooden_sword,Wooden Sword,Wood,common,,uncommon
+item,minecraft:resin_block,Block of Resin,Wood,epic,requires hostile mobs enabled,epic
+item,minecraft:chiseled_resin_bricks,Chiseled Resin Bricks,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:creaking_heart,Creaking Heart,Wood,epic,,epic
+item,minecraft:pale_oak_boat,Pale Oak Boat,Wood,epic,,epic
+item,minecraft:pale_oak_chest_boat,Pale Oak Boat with Chest,Wood,epic,,epic
+item,minecraft:pale_oak_button,Pale Oak Button,Wood,epic,,rare
+item,minecraft:pale_oak_door,Pale Oak Door,Wood,epic,,epic
+item,minecraft:pale_oak_fence,Pale Oak Fence,Wood,epic,,epic
+item,minecraft:pale_oak_fence_gate,Pale Oak Fence Gate,Wood,epic,,epic
+item,minecraft:pale_oak_hanging_sign,Pale Oak Hanging Sign,Wood,epic,,epic
+item,minecraft:pale_oak_leaves,Pale Oak Leaves,Wood,epic,,
+item,minecraft:pale_oak_log,Pale Oak Log,Wood,epic,,rare
+item,minecraft:pale_oak_planks,Pale Oak Planks,Wood,epic,,rare
+item,minecraft:pale_oak_pressure_plate,Pale Oak Pressure Plate,Wood,epic,,rare
+item,minecraft:pale_oak_sapling,Pale Oak Sapling,Wood,epic,,rare
+item,minecraft:pale_oak_shelf,Pale Oak Shelf,Wood,epic,,epic
+item,minecraft:pale_oak_sign,Pale Oak Sign,Wood,epic,,epic
+item,minecraft:pale_oak_slab,Pale Oak Slab,Wood,epic,,epic
+item,minecraft:pale_oak_stairs,Pale Oak Stairs,Wood,epic,,epic
+item,minecraft:pale_oak_trapdoor,Pale Oak Trapdoor,Wood,epic,,epic
+item,minecraft:pale_oak_wood,Pale Oak Wood,Wood,epic,,rare
+item,minecraft:resin_brick,Resin Brick,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:resin_brick_slab,Resin Brick Slab,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:resin_brick_stairs,Resin Brick Stairs,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:resin_brick_wall,Resin Brick Wall,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:resin_bricks,Resin Bricks,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:resin_clump,Resin Clump,Wood,epic,requires hostile mobs enabled; requires daylight cycle enabled,epic
+item,minecraft:stripped_pale_oak_log,Stripped Pale Oak Log,Wood,epic,,rare
+item,minecraft:stripped_pale_oak_wood,Stripped Pale Oak Wood,Wood,epic,,rare
+item,minecraft:acacia_hanging_sign,Acacia Hanging Sign,Wood,rare,,uncommon
+item,minecraft:azalea,Azalea,Wood,rare,,rare
+item,minecraft:azalea_leaves,Azalea Leaves,Wood,rare,,
+item,minecraft:bamboo_block,Bamboo Block,Wood,rare,,rare
+item,minecraft:bamboo_button,Bamboo Button,Wood,rare,,rare
+item,minecraft:bamboo_chest_raft,Bamboo Chest Raft,Wood,rare,,rare
+item,minecraft:bamboo_door,Bamboo Door,Wood,rare,,rare
+item,minecraft:bamboo_fence,Bamboo Fence,Wood,rare,,rare
+item,minecraft:bamboo_fence_gate,Bamboo Fence Gate,Wood,rare,,rare
+item,minecraft:bamboo_hanging_sign,Bamboo Hanging Sign,Wood,rare,,rare
+item,minecraft:bamboo_mosaic,Bamboo Mosaic,Wood,rare,,rare
+item,minecraft:bamboo_mosaic_slab,Bamboo Mosaic Slab,Wood,rare,,rare
+item,minecraft:bamboo_mosaic_stairs,Bamboo Mosaic Stairs,Wood,rare,,rare
+item,minecraft:bamboo_planks,Bamboo Planks,Wood,rare,,rare
+item,minecraft:bamboo_pressure_plate,Bamboo Pressure Plate,Wood,rare,,rare
+item,minecraft:bamboo_raft,Bamboo Raft,Wood,rare,,rare
+item,minecraft:bamboo_shelf,Bamboo Shelf,Wood,rare,,rare
+item,minecraft:bamboo_sign,Bamboo Sign,Wood,rare,,rare
+item,minecraft:bamboo_slab,Bamboo Slab,Wood,rare,,rare
+item,minecraft:bamboo_stairs,Bamboo Stairs,Wood,rare,,rare
+item,minecraft:bamboo_trapdoor,Bamboo Trapdoor,Wood,rare,,rare
+item,minecraft:cherry_boat,Cherry Boat,Wood,rare,,rare
+item,minecraft:cherry_chest_boat,Cherry Boat with Chest,Wood,rare,,rare
+item,minecraft:cherry_button,Cherry Button,Wood,rare,,uncommon
+item,minecraft:cherry_door,Cherry Door,Wood,rare,,rare
+item,minecraft:cherry_fence,Cherry Fence,Wood,rare,,rare
+item,minecraft:cherry_fence_gate,Cherry Fence Gate,Wood,rare,,rare
+item,minecraft:cherry_hanging_sign,Cherry Hanging Sign,Wood,rare,,rare
+item,minecraft:cherry_leaves,Cherry Leaves,Wood,rare,,
+item,minecraft:cherry_log,Cherry Log,Wood,rare,,uncommon
+item,minecraft:cherry_planks,Cherry Planks,Wood,rare,,uncommon
+item,minecraft:cherry_pressure_plate,Cherry Pressure Plate,Wood,rare,,uncommon
+item,minecraft:cherry_sapling,Cherry Sapling,Wood,rare,,uncommon
+item,minecraft:cherry_shelf,Cherry Shelf,Wood,rare,,rare
+item,minecraft:cherry_sign,Cherry Sign,Wood,rare,,rare
+item,minecraft:cherry_slab,Cherry Slab,Wood,rare,,rare
+item,minecraft:cherry_stairs,Cherry Stairs,Wood,rare,,rare
+item,minecraft:cherry_trapdoor,Cherry Trapdoor,Wood,rare,,rare
+item,minecraft:cherry_wood,Cherry Wood,Wood,rare,,uncommon
+item,minecraft:flowering_azalea,Flowering Azalea,Wood,rare,,rare
+item,minecraft:flowering_azalea_leaves,Flowering Azalea Leaves,Wood,rare,,
+item,minecraft:mangrove_boat,Mangrove Boat,Wood,rare,,rare
+item,minecraft:mangrove_chest_boat,Mangrove Boat with Chest,Wood,rare,,rare
+item,minecraft:mangrove_door,Mangrove Door,Wood,rare,,rare
+item,minecraft:mangrove_fence,Mangrove Fence,Wood,rare,,rare
+item,minecraft:mangrove_fence_gate,Mangrove Fence Gate,Wood,rare,,rare
+item,minecraft:mangrove_hanging_sign,Mangrove Hanging Sign,Wood,rare,,rare
+item,minecraft:mangrove_leaves,Mangrove Leaves,Wood,rare,,rare
+item,minecraft:mangrove_log,Mangrove Log,Wood,rare,,uncommon
+item,minecraft:mangrove_planks,Mangrove Planks,Wood,rare,,uncommon
+item,minecraft:mangrove_propagule,Mangrove Propagule,Wood,rare,,uncommon
+item,minecraft:mangrove_roots,Mangrove Roots,Wood,rare,,uncommon
+item,minecraft:mangrove_shelf,Mangrove Shelf,Wood,rare,,rare
+item,minecraft:mangrove_sign,Mangrove Sign,Wood,rare,,rare
+item,minecraft:mangrove_slab,Mangrove Slab,Wood,rare,,rare
+item,minecraft:mangrove_stairs,Mangrove Stairs,Wood,rare,,rare
+item,minecraft:mangrove_trapdoor,Mangrove Trapdoor,Wood,rare,,rare
+item,minecraft:mangrove_wood,Mangrove Wood,Wood,rare,,uncommon
+item,minecraft:muddy_mangrove_roots,Muddy Mangrove Roots,Wood,rare,,uncommon
+item,minecraft:scaffolding,Scaffolding,Wood,rare,,rare
+item,minecraft:stripped_bamboo_block,Stripped Bamboo Block,Wood,rare,,rare
+item,minecraft:stripped_cherry_log,Stripped Cherry Log,Wood,rare,,uncommon
+item,minecraft:stripped_mangrove_log,Stripped Mangrove Log,Wood,rare,,uncommon
+item,minecraft:stripped_mangrove_wood,Stripped Mangrove Wood,Wood,rare,,uncommon
+item,minecraft:acacia_boat,Acacia Boat,Wood,uncommon,,uncommon
+item,minecraft:acacia_chest_boat,Acacia Boat with Chest,Wood,uncommon,,uncommon
+item,minecraft:acacia_door,Acacia Door,Wood,uncommon,,uncommon
+item,minecraft:acacia_fence,Acacia Fence,Wood,uncommon,,uncommon
+item,minecraft:acacia_fence_gate,Acacia Fence Gate,Wood,uncommon,,uncommon
+item,minecraft:acacia_leaves,Acacia Leaves,Wood,uncommon,,
+item,minecraft:acacia_log,Acacia Log,Wood,uncommon,,common
+item,minecraft:acacia_planks,Acacia Planks,Wood,uncommon,,common
+item,minecraft:acacia_sapling,Acacia Sapling,Wood,uncommon,,common
+item,minecraft:acacia_shelf,Acacia Shelf,Wood,uncommon,,uncommon
+item,minecraft:acacia_sign,Acacia Sign,Wood,uncommon,,uncommon
+item,minecraft:acacia_slab,Acacia Slab,Wood,uncommon,,uncommon
+item,minecraft:acacia_stairs,Acacia Stairs,Wood,uncommon,,uncommon
+item,minecraft:acacia_trapdoor,Acacia Trapdoor,Wood,uncommon,,uncommon
+item,minecraft:acacia_wood,Acacia Wood,Wood,uncommon,,common
+item,minecraft:bamboo,Bamboo,Wood,uncommon,,common
+item,minecraft:birch_hanging_sign,Birch Hanging Sign,Wood,uncommon,,uncommon
+item,minecraft:bush,Bush,Wood,uncommon,,common
+item,minecraft:dark_oak_boat,Dark Oak Boat,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_chest_boat,Dark Oak Boat with Chest,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_door,Dark Oak Door,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_fence,Dark Oak Fence,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_fence_gate,Dark Oak Fence Gate,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_hanging_sign,Dark Oak Hanging Sign,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_leaves,Dark Oak Leaves,Wood,uncommon,,
+item,minecraft:dark_oak_log,Dark Oak Log,Wood,uncommon,,common
+item,minecraft:dark_oak_planks,Dark Oak Planks,Wood,uncommon,,common
+item,minecraft:dark_oak_sapling,Dark Oak Sapling,Wood,uncommon,,common
+item,minecraft:dark_oak_shelf,Dark Oak Shelf,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_sign,Dark Oak Sign,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_slab,Dark Oak Slab,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_stairs,Dark Oak Stairs,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_trapdoor,Dark Oak Trapdoor,Wood,uncommon,,uncommon
+item,minecraft:dark_oak_wood,Dark Oak Wood,Wood,uncommon,,common
+item,minecraft:jungle_boat,Jungle Boat,Wood,uncommon,,uncommon
+item,minecraft:jungle_chest_boat,Jungle Boat with Chest,Wood,uncommon,,uncommon
+item,minecraft:jungle_door,Jungle Door,Wood,uncommon,,uncommon
+item,minecraft:jungle_fence,Jungle Fence,Wood,uncommon,,uncommon
+item,minecraft:jungle_fence_gate,Jungle Fence Gate,Wood,uncommon,,uncommon
+item,minecraft:jungle_hanging_sign,Jungle Hanging Sign,Wood,uncommon,,uncommon
+item,minecraft:jungle_leaves,Jungle Leaves,Wood,uncommon,,
+item,minecraft:jungle_log,Jungle Log,Wood,uncommon,,common
+item,minecraft:jungle_planks,Jungle Planks,Wood,uncommon,,common
+item,minecraft:jungle_sapling,Jungle Sapling,Wood,uncommon,,common
+item,minecraft:jungle_shelf,Jungle Shelf,Wood,uncommon,,uncommon
+item,minecraft:jungle_sign,Jungle Sign,Wood,uncommon,,uncommon
+item,minecraft:jungle_slab,Jungle Slab,Wood,uncommon,,uncommon
+item,minecraft:jungle_stairs,Jungle Stairs,Wood,uncommon,,uncommon
+item,minecraft:jungle_trapdoor,Jungle Trapdoor,Wood,uncommon,,uncommon
+item,minecraft:jungle_wood,Jungle Wood,Wood,uncommon,,common
+item,minecraft:spruce_boat,Spruce Boat,Wood,uncommon,,uncommon
+item,minecraft:spruce_chest_boat,Spruce Boat with Chest,Wood,uncommon,,uncommon
+item,minecraft:spruce_door,Spruce Door,Wood,uncommon,,uncommon
+item,minecraft:spruce_fence,Spruce Fence,Wood,uncommon,,uncommon
+item,minecraft:spruce_fence_gate,Spruce Fence Gate,Wood,uncommon,,uncommon
+item,minecraft:spruce_hanging_sign,Spruce Hanging Sign,Wood,uncommon,,uncommon
+item,minecraft:spruce_leaves,Spruce Leaves,Wood,uncommon,,
+item,minecraft:spruce_log,Spruce Log,Wood,uncommon,,common
+item,minecraft:spruce_planks,Spruce Planks,Wood,uncommon,,common
+item,minecraft:spruce_sapling,Spruce Sapling,Wood,uncommon,,common
+item,minecraft:spruce_shelf,Spruce Shelf,Wood,uncommon,,uncommon
+item,minecraft:spruce_sign,Spruce Sign,Wood,uncommon,,uncommon
+item,minecraft:spruce_slab,Spruce Slab,Wood,uncommon,,uncommon
+item,minecraft:spruce_stairs,Spruce Stairs,Wood,uncommon,,uncommon
+item,minecraft:spruce_trapdoor,Spruce Trapdoor,Wood,uncommon,,uncommon
+item,minecraft:spruce_wood,Spruce Wood,Wood,uncommon,,common
+item,minecraft:stripped_acacia_log,Stripped Acacia Log,Wood,uncommon,,common
+item,minecraft:stripped_acacia_wood,Stripped Acacia Wood,Wood,uncommon,,common
+item,minecraft:stripped_dark_oak_log,Stripped Dark Oak Log,Wood,uncommon,,common
+item,minecraft:stripped_dark_oak_wood,Stripped Dark Oak Wood,Wood,uncommon,,common
+item,minecraft:stripped_jungle_log,Stripped Jungle Log,Wood,uncommon,,common
+item,minecraft:stripped_jungle_wood,Stripped Jungle Wood,Wood,uncommon,,common
+item,minecraft:stripped_spruce_log,Stripped Spruce Log,Wood,uncommon,,common
+item,minecraft:stripped_spruce_wood,Stripped Spruce Wood,Wood,uncommon,,common
+item,minecraft:black_carpet,Black Carpet,Wool,common,,common
+item,minecraft:black_wool,Black Wool,Wool,common,,common
+item,minecraft:blue_carpet,Blue Carpet,Wool,common,,common
+item,minecraft:blue_wool,Blue Wool,Wool,common,,common
+item,minecraft:gray_carpet,Gray Carpet,Wool,common,,common
+item,minecraft:gray_wool,Gray Wool,Wool,common,,common
+item,minecraft:light_blue_carpet,Light Blue Carpet,Wool,common,,common
+item,minecraft:light_blue_wool,Light Blue Wool,Wool,common,,common
+item,minecraft:light_gray_carpet,Light Gray Carpet,Wool,common,,common
+item,minecraft:light_gray_wool,Light Gray Wool,Wool,common,,common
+item,minecraft:magenta_carpet,Magenta Carpet,Wool,common,,common
+item,minecraft:magenta_wool,Magenta Wool,Wool,common,,common
+item,minecraft:orange_carpet,Orange Carpet,Wool,common,,common
+item,minecraft:orange_wool,Orange Wool,Wool,common,,common
+item,minecraft:painting,Painting,Wool,common,,uncommon
+item,minecraft:pink_carpet,Pink Carpet,Wool,common,,common
+item,minecraft:pink_wool,Pink Wool,Wool,common,,common
+item,minecraft:purple_carpet,Purple Carpet,Wool,common,,common
+item,minecraft:purple_wool,Purple Wool,Wool,common,,common
+item,minecraft:red_carpet,Red Carpet,Wool,common,,common
+item,minecraft:red_wool,Red Wool,Wool,common,,common
+item,minecraft:white_carpet,White Carpet,Wool,common,,common
+item,minecraft:white_wool,White Wool,Wool,common,,common
+item,minecraft:yellow_carpet,Yellow Carpet,Wool,common,,common
+item,minecraft:yellow_wool,Yellow Wool,Wool,common,,common
+item,minecraft:brown_banner,Brown Banner,Wool,rare,,uncommon
+item,minecraft:cyan_banner,Cyan Banner,Wool,rare,,uncommon
+item,minecraft:cyan_carpet,Cyan Carpet,Wool,rare,,uncommon
+item,minecraft:cyan_wool,Cyan Wool,Wool,rare,,uncommon
+item,minecraft:green_banner,Green Banner,Wool,rare,,rare
+item,minecraft:green_carpet,Green Carpet,Wool,rare,,uncommon
+item,minecraft:green_wool,Green Wool,Wool,rare,,uncommon
+item,minecraft:lime_banner,Lime Banner,Wool,rare,,rare
+item,minecraft:lime_carpet,Lime Carpet,Wool,rare,,uncommon
+item,minecraft:lime_wool,Lime Wool,Wool,rare,,uncommon
+item,minecraft:black_banner,Black Banner,Wool,uncommon,,uncommon
+item,minecraft:blue_banner,Blue Banner,Wool,uncommon,,uncommon
+item,minecraft:brown_carpet,Brown Carpet,Wool,uncommon,,uncommon
+item,minecraft:brown_wool,Brown Wool,Wool,uncommon,,uncommon
+item,minecraft:gray_banner,Gray Banner,Wool,uncommon,,uncommon
+item,minecraft:light_blue_banner,Light Blue Banner,Wool,uncommon,,uncommon
+item,minecraft:light_gray_banner,Light Gray Banner,Wool,uncommon,,uncommon
+item,minecraft:magenta_banner,Magenta Banner,Wool,uncommon,,uncommon
+item,minecraft:orange_banner,Orange Banner,Wool,uncommon,,uncommon
+item,minecraft:pink_banner,Pink Banner,Wool,uncommon,,uncommon
+item,minecraft:purple_banner,Purple Banner,Wool,uncommon,,uncommon
+item,minecraft:red_banner,Red Banner,Wool,uncommon,,uncommon
+item,minecraft:white_banner,White Banner,Wool,uncommon,,uncommon
+item,minecraft:yellow_banner,Yellow Banner,Wool,uncommon,,uncommon
+quest,quest.obtain_64_cyan_concrete,Obtain 64 Cyan Concrete,64,epic,,rare
+quest,quest.obtain_64_cyan_wool,Obtain 64 Cyan Wool,64,epic,,rare
+quest,quest.obtain_64_green_concrete,Obtain 64 Green Concrete,64,epic,,rare
+quest,quest.obtain_64_green_wool,Obtain 64 Green Wool,64,epic,,rare
+quest,quest.obtain_64_brown_concrete,Obtain 64 Brown Concrete,64,rare,,rare
+quest,quest.obtain_64_brown_wool,Obtain 64 Brown Wool,64,rare,,rare
+quest,quest.obtain_64_black_concrete,Obtain 64 Black Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_black_wool,Obtain 64 Black Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_blue_concrete,Obtain 64 Blue Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_blue_wool,Obtain 64 Blue Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_gray_concrete,Obtain 64 Gray Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_gray_wool,Obtain 64 Gray Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_light_blue_concrete,Obtain 64 Light Blue Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_light_blue_wool,Obtain 64 Light Blue Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_light_gray_concrete,Obtain 64 Light Gray Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_light_gray_wool,Obtain 64 Light Gray Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_lime_concrete,Obtain 64 Lime Concrete,64,uncommon,,rare
+quest,quest.obtain_64_lime_wool,Obtain 64 Lime Wool,64,uncommon,,rare
+quest,quest.obtain_64_magenta_concrete,Obtain 64 Magenta Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_magenta_wool,Obtain 64 Magenta Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_orange_concrete,Obtain 64 Orange Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_orange_wool,Obtain 64 Orange Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_pink_concrete,Obtain 64 Pink Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_pink_wool,Obtain 64 Pink Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_purple_concrete,Obtain 64 Purple Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_purple_wool,Obtain 64 Purple Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_red_concrete,Obtain 64 Red Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_red_wool,Obtain 64 Red Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_white_concrete,Obtain 64 White Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_white_wool,Obtain 64 White Wool,64,uncommon,,uncommon
+quest,quest.obtain_64_yellow_concrete,Obtain 64 Yellow Concrete,64,uncommon,,uncommon
+quest,quest.obtain_64_yellow_wool,Obtain 64 Yellow Wool,64,uncommon,,uncommon
+quest,quest.breed_cow,Breed Cow,animal,common,,uncommon
+quest,quest.breed_sheep,Breed Sheep,animal,common,,uncommon
+quest,quest.kill_a_baby_mob,Kill a baby mob,animal,common,,common
+quest,quest.breed_8_unique_animals,Breed 8 Unique Animals,animal,epic,,uncommon
+quest,quest.breed_mooshroom,Breed Mooshroom,animal,epic,,epic
+quest,quest.collect_all_chicken_egg_types,Collect all chicken egg types,animal,epic,,epic
+quest,quest.equip_wolf_armor_on_a_wolf,Equip wolf armor on a wolf,animal,epic,,epic
+quest,quest.give_a_diamond_sword_to_an_allay,Give a diamond sword to an allay,animal,epic,,epic
+quest,quest.give_a_name_to_a_tamed_cat,Give a name to a tamed cat,animal,epic,,epic
+quest,quest.give_a_name_to_a_tamed_wolf,Give a name to a tamed wolf,animal,epic,,epic
+quest,quest.have_an_allay_give_you_an_item,Have an allay give you an item,animal,epic,,epic
+quest,quest.obtain_all_wool_blocks,Obtain All Wool Blocks,animal,epic,,epic
+quest,quest.ride_a_pig_whilst_being_on_top_of_a_happy_ghast,Ride a pig whilst being on top of a happy ghast,animal,epic,,
+quest,quest.tame_a_nautilus,Tame a nautilus,animal,epic,,epic
+quest,quest.tame_mule,Tame Mule,animal,epic,,epic
+quest,quest.tame_all_wolf_types,Tame all wolf types,animal,legendary,,legendary
+quest,quest.tame_every_cat_variant,Tame Every Cat Variant,animal,legendary,,legendary
+quest,quest.collect_all_egg_types,Collect all egg types,animal,mythic,,
+quest,quest.breed_6_unique_animals,Breed 6 Unique Animals,animal,rare,,rare
+quest,quest.breed_all_chicken_variants,Breed all chicken variants,animal,rare,,rare
+quest,quest.breed_all_cow_variants,Breed all cow variants,animal,rare,,rare
+quest,quest.breed_all_pig_variants,Breed all pig variants,animal,rare,,rare
+quest,quest.breed_armadillo,Breed Armadillo,animal,rare,,rare
+quest,quest.breed_camels,Breed camels,animal,rare,,rare
+quest,quest.breed_chicken,Breed Chicken,animal,rare,,common
+quest,quest.breed_fox,Breed Fox,animal,rare,,rare
+quest,quest.breed_frogs,Breed frogs,animal,rare,Can only appear if daylight cycle setting is not set to day only Can only appear if daylight cycle is enabled,rare
+quest,quest.breed_goat,Breed Goat,animal,rare,,rare
+quest,quest.breed_hoglin,Breed Hoglin,animal,rare,,epic
+quest,quest.breed_horse,Breed Horse,animal,rare,,rare
+quest,quest.breed_nautilus,Breed nautilus,animal,rare,,rare
+quest,quest.breed_ocelot,Breed Ocelot,animal,rare,,rare
+quest,quest.breed_panda,Breed Panda,animal,rare,,rare
+quest,quest.breed_pig,Breed Pig,animal,rare,,uncommon
+quest,quest.breed_rabbit,Breed Rabbit,animal,rare,,rare
+quest,quest.breed_strider,Breed Strider,animal,rare,,epic
+quest,quest.have_10_live_tamed_mobs,Have 10 live tamed mobs,animal,rare,,uncommon
+quest,quest.have_a_tamed_wolf_kill_8_unique_mobs,Have a tamed wolf kill 8 unique mobs,animal,rare,,uncommon
+quest,quest.kill_20_baby_mobs,Kill 20 baby mobs,animal,rare,,uncommon
+quest,quest.kill_a_mob_using_a_spear_whilst_riding_an_armored_horse,Kill a mob using a spear whilst riding an armored horse,animal,rare,,rare
+quest,quest.mine_turtle_egg,Mine Turtle Egg,animal,rare,,uncommon
+quest,quest.repair_wolf_armor,Repair Wolf Armor,animal,rare,,rare
+quest,quest.ride_horse_with_a_saddle,Ride Horse with a Saddle,animal,rare,,rare
+quest,quest.ride_pig_with_a_carrot_on_a_stick,Ride Pig with a Carrot on a Stick,animal,rare,,rare
+quest,quest.spawn_a_chicken_with_an_egg,Spawn a Chicken with an Egg,animal,rare,,uncommon
+quest,quest.tame_a_parrot,Tame a Parrot,animal,rare,,rare
+quest,quest.tame_llama,Tame Llama,animal,rare,,rare
+quest,quest.throw_a_bucket_of_axolotl_into_lava,Throw a bucket of axolotl into lava,animal,rare,,
+quest,quest.breed_4_unique_animals,Breed 4 Unique Animals,animal,uncommon,,uncommon
+quest,quest.breed_turtle,Breed Turtle,animal,uncommon,,uncommon
+quest,quest.breed_wolf,Breed Wolf,animal,uncommon,,uncommon
+quest,quest.dye_the_collar_of_a_tamed_wolf,Dye the collar of a tamed wolf,animal,uncommon,,uncommon
+quest,quest.have_a_tamed_wolf_kill_3_unique_mobs,Have a tamed wolf kill 3 unique mobs,animal,uncommon,,uncommon
+quest,quest.have_a_tamed_wolf_kill_5_unique_mobs,Have a tamed wolf kill 5 unique mobs,animal,uncommon,,uncommon
+quest,quest.kill_5_baby_mobs,Kill 5 baby mobs,animal,uncommon,,common
+quest,quest.tame_a_cat,Tame a Cat,animal,uncommon,,rare
+quest,quest.tame_a_horse,Tame a Horse,animal,uncommon,,common
+quest,quest.tame_a_wolf,Tame a Wolf,animal,uncommon,,uncommon
+quest,quest.tame_donkey,Tame Donkey,animal,uncommon,,uncommon
+quest,quest.an_opponent_dies,An Opponent Dies,compete,common,"if an opposing team member dies then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who died gets this goal! Can only appear if more than 1 team is in play",common
+quest,quest.an_opponent_jumps,An Opponent Jumps,compete,common,"if an opposing team member jumps then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who jumps gets this goal! Can only appear if more than 1 team is in play",common
+quest,quest.an_opponent_obtains_a_crafting_table,An Opponent Obtains a Crafting Table,compete,common,"if an opposing team member obtains a crafting table then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who obtains a crafting table gets this goal! Can only appear if more than 1 team is in play",uncommon
+quest,quest.an_opponent_obtains_wheat_seeds,An Opponent Obtains wheat Seeds,compete,common,"if an opposing team member obtains wheat seeds then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who obtains wheat seeds gets this goal! Can only appear if more than 1 team is in play",common
+quest,quest.an_opponent_takes_100_total_damage,An Opponent Takes 100 Total Damage,compete,common,"if an opposing team member takes 100 total damage then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who takes 100 total damage gets this goal! Can only appear if more than 1 team is in play",common
+quest,quest.an_opponent_takes_fall_damage,An Opponent Takes Fall Damage,compete,common,"if an opposing team member takes fall damage then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who takes fall damage gets this goal! Can only appear if more than 1 team is in play",common
+quest,quest.an_opponent_touches_water,An Opponent Touches Water,compete,common,"if an opposing team member touches water then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who touches water gets this goal! Can only appear if more than 1 team is in play. Being in a boat should not count as touching water.",common
+quest,quest.opponent_obtains_advancement,Opponent Obtains Advancement,compete,common,Can only appear in lockout or rarity modes.,common
+quest,quest.opponent_stands_on_stone,Opponent Stands on Stone,compete,common,Can only appear in lockout or rarity modes.,common
+quest,quest.opponent_wears_armor,Opponent Wears Armor,compete,common,Can only appear in lockout or rarity modes.,uncommon
+quest,quest.opponent_is_hit_by_a_windcharge,Opponent is hit by a windcharge,compete,epic,Can only appear in lockout or rarity modes.,legendary
+quest,quest.an_opponent_catches_on_fire,An Opponent Catches on Fire,compete,rare,"if an opposing team member catches fire then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who caught fire gets this goal! Can only appear if more than 1 team is in play",rare
+quest,quest.an_opponent_obtains_obsidian,An Opponent Obtains Obsidian,compete,rare,"if an opposing team member obtains a obsidian then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who obtains obsidian gets this goal! Can only appear if more than 1 team is in play",rare
+quest,quest.obtain_more_hoppers_than_the_opponent,Obtain More Hoppers than the opponent,compete,rare,"can only appear if more than one team is in play. In all modes, this quest is always given to the current leader and can be stolen at anytime should another team take the lead in this goal",uncommon
+quest,quest.an_opponent_dies_3_times,An Opponent Dies 3 Times,compete,uncommon,"if a single team dies 3 times then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who died 3 times gets this goal! Can only appear if more than 1 team is in play",uncommon
+quest,quest.deal_400_damage,Deal 400 Damage,compete,uncommon,,uncommon
+quest,quest.have_more_unique_crafts_than_the_opponents,Have more unique crafts than the opponents,compete,uncommon,"Can only appear in lockout or rarity modes. Always achievable, goal completion gets stolen and given to leading team with most unique crafts",uncommon
+quest,quest.hit_an_opponent_with_a_snowball,Hit an opponent with a snowball,compete,uncommon,,uncommon
+quest,quest.kill_an_opponent,Kill an opponent,compete,uncommon,Can only appear if rtp is disabled Can only appear if pvp is enabled can only appear when both rtp is disabled and pvp is enabled,uncommon
+quest,quest.obtain_more_dried_kelp_blocks_than_the_opponent,Obtain More Dried Kelp Blocks than the Opponent,compete,uncommon,"can only appear if more than one team is in play. In all modes, this quest is always given to the current leader and can be stolen at anytime should another team take the lead in this goal",uncommon
+quest,quest.opponent_stands_on_netherrack,Opponent Stands on Netherrack,compete,uncommon,Can only appear in lockout or rarity modes.,uncommon
+quest,quest.die_by_drowning,Die by drowning,death,common,,common
+quest,quest.die_by_llama,Die by Llama,death,epic,,epic
+quest,quest.die_to_creaking,Die to Creaking,death,epic,Can only appear if hostile mobs are enabled Can only appear if daylight cycle setting is not set to day only Can only appear if both daylight cycle and hostile mobs are enabled.,epic
+quest,quest.die_to_warden,Die to warden,death,epic,,legendary
+quest,quest.die_by_anvil,Die by Anvil,death,rare,,mythic
+quest,quest.die_by_berry_bush,Die by Berry Bush,death,rare,,rare
+quest,quest.die_by_cactus,Die by Cactus,death,rare,,rare
+quest,quest.die_by_falling_off_vines,Die by Falling Off Vines,death,rare,,rare
+quest,quest.die_by_freezing,Die by freezing,death,rare,,rare
+quest,quest.die_to_intentional_game_design,Die to [Intentional Game Design],death,rare,,epic
+quest,quest.die_to_falling_stalactite,Die to Falling Stalactite,death,rare,,rare
+quest,quest.die_to_iron_golem,Die to Iron Golem,death,rare,can only appear if hostile mobs are enabled,uncommon
+quest,quest.die_to_piglin_brute,Die to Piglin Brute,death,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.die_to_polar_bear,Die to Polar Bear,death,rare,Can only appear if hostile mobs are enabled,rare
+quest,quest.die_to_pufferfish,Die to pufferfish,death,rare,,rare
+quest,quest.die_to_tnt_minecart,Die to TNT Minecart,death,rare,,rare
+quest,quest.die_to_trident,Die to trident,death,rare,,rare
+quest,quest.die_to_witch,Die to Witch,death,rare,Can only appear if hostile mobs are enabled,rare
+quest,quest.die_by_bee_sting,Die by Bee Sting,death,uncommon,can only appear if hostile mobs are enabled,uncommon
+quest,quest.die_by_firework_rocket,Die by Firework Rocket,death,uncommon,,uncommon
+quest,quest.die_by_magic,Die by Magic,effect,epic,Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled,epic
+quest,quest.get_6_status_effects_at_once,Get 6 Status Effects at Once,effect,epic,,epic
+quest,quest.obtain_a_potion_of_healing,obtain a potion of healing,effect,epic,can only appear when hostilemobs are enabled,epic
+quest,quest.obtain_a_potion_of_invisibility,Obtain a potion of invisibility,effect,epic,can only appear when hostilemobs are enabled,legendary
+quest,quest.obtain_a_potion_of_leaping,obtain a potion of leaping,effect,epic,Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled,legendary
+quest,quest.obtain_a_potion_of_swiftness,Obtain a potion of swiftness,effect,epic,can only appear when hostilemobs are enabled,legendary
+quest,quest.obtain_a_potion_of_water_breathing,Obtain a potion of water breathing,effect,epic,can only appear if hostile mobs are enabled,legendary
+quest,quest.get_levitation,Get Levitation,effect,mythic,Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled,mythic
+quest,quest.obtain_a_lingering_potion,obtain a lingering potion,effect,mythic,Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled,mythic
+quest,quest.get_3_status_effects_at_once,Get 3 Status Effects at Once,effect,rare,Can only appear if effects are disabled only appear when effects mode is disabled,rare
+quest,quest.get_absorption,Get Absorption,effect,rare,can only appear if effects are disabled,rare
+quest,quest.get_bad_omen,Get Bad Omen,effect,rare,Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled,rare
+quest,quest.get_glowing,Get Glowing,effect,rare,Can only appear if effects are disabled can only appear when effects mode is disabled,rare
+quest,quest.get_jump_boost,Get Jump Boost,effect,rare,can only appear if effects are disabled,rare
+quest,quest.get_mining_fatigue,Get Mining Fatigue,effect,rare,Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled,rare
+quest,quest.get_nausea,Get Nausea,effect,rare,Can only appear if effects are disabled can only appear when effects mode is disabled,rare
+quest,quest.get_poisoned,Get Poisoned,effect,rare,can only appear if effects are disabled,rare
+quest,quest.get_weakness,Get Weakness,effect,rare,can only appear if effects are disabled,rare
+quest,quest.use_a_brewing_stand,Use a Brewing Stand,effect,rare,,rare
+quest,quest.remove_a_status_effect_with_a_milk_bucket,Remove a Status Effect with a Milk Bucket,effect,uncommon,,rare
+quest,quest.obtain_all_end_stone_varients,Obtain all end stone varients,end,mythic,Can only appear if hostile movs are enabled,mythic
+quest,quest.grow_20_trees,Grow 20 trees,farm,rare,,uncommon
+quest,quest.eat_apple,Eat Apple,food,common,,uncommon
+quest,quest.eat_carrot,Eat Carrot,food,common,,uncommon
+quest,quest.eat_dried_kelp,Eat Dried Kelp,food,common,,uncommon
+quest,quest.empty_hunger_bar,Empty Hunger Bar,food,common,can only appear if hunger is enabled,common
+quest,quest.fill_a_campfire_with_4_food_items,Fill a campfire with 4 food items,food,common,,uncommon
+quest,quest.eat_20_unique_foods,Eat 20 Unique Foods,food,epic,,epic
+quest,quest.eat_all_types_of_bowl_foods,Eat all types of bowl foods,food,epic,Can only appear if hunger is enabled,epic
+quest,quest.eat_enchanted_golden_apple,Eat Enchanted Golden Apple,food,epic,,epic
+quest,quest.eat_chorus_fruit,Eat Chorus Fruit,food,mythic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,mythic
+quest,quest.eat_10_unique_foods,Eat 10 Unique Foods,food,rare,Can only appear if hunger is enabled can only appear when hunger is enabled,rare
+quest,quest.eat_beetroot_soup,Eat beetroot soup,food,rare,Can only appear if hunger is enabled,rare
+quest,quest.eat_poisonous_potato,Eat Poisonous Potato,food,rare,can only appear if hunger is enabled,rare
+quest,quest.eat_pumpkin_pie,Eat Pumpkin Pie,food,rare,Can only appear if hunger is enabled can only appear when hunger is enabled,rare
+quest,quest.eat_rabbit_stew,Eat Rabbit Stew,food,rare,Can only appear if hunger is enabled can only appear when hunger is enabled,rare
+quest,quest.eat_suspicious_stew,Eat Suspicious Stew,food,rare,,rare
+quest,quest.obtain_all_pumpkin_types,Obtain All Pumpkin Types,food,rare,,rare
+quest,quest.eat_5_unique_foods,Eat 5 Unique Foods,food,uncommon,Can only appear if hunger is enabled can only appear when hunger is enabled,uncommon
+quest,quest.eat_a_glow_berry,Eat a glow berry,food,uncommon,Can only appear if hunger is enabled can only appear when hunger is enabled,uncommon
+quest,quest.eat_beetroot,Eat Beetroot,food,uncommon,,uncommon
+quest,quest.eat_cookie,Eat Cookie,food,uncommon,Can only appear if hunger is enabled can only appear when hunger is enabled,uncommon
+quest,quest.eat_spider_eye,Eat Spider Eye,food,uncommon,,uncommon
+quest,quest.obtain_64_brown_glass,Obtain 64 Brown Glass,glass,epic,,rare
+quest,quest.obtain_64_cyan_glass,Obtain 64 Cyan Glass,glass,epic,,rare
+quest,quest.obtain_64_green_glass,Obtain 64 Green Glass,glass,epic,,rare
+quest,quest.obtain_64_lime_glass,Obtain 64 Lime Glass,glass,epic,,rare
+quest,quest.obtain_64_black_glass,Obtain 64 Black Glass,glass,rare,,uncommon
+quest,quest.obtain_64_blue_glass,Obtain 64 Blue Glass,glass,rare,,uncommon
+quest,quest.obtain_64_gray_glass,Obtain 64 Gray Glass,glass,rare,,uncommon
+quest,quest.obtain_64_light_blue_glass,Obtain 64 Light Blue Glass,glass,rare,,uncommon
+quest,quest.obtain_64_light_gray_glass,Obtain 64 Light Gray Glass,glass,rare,,uncommon
+quest,quest.obtain_64_magenta_glass,Obtain 64 Magenta Glass,glass,rare,,uncommon
+quest,quest.obtain_64_orange_glass,Obtain 64 Orange Glass,glass,rare,,uncommon
+quest,quest.obtain_64_pink_glass,Obtain 64 Pink Glass,glass,rare,,uncommon
+quest,quest.obtain_64_purple_glass,Obtain 64 Purple Glass,glass,rare,,uncommon
+quest,quest.obtain_64_red_glass,Obtain 64 Red Glass,glass,rare,,uncommon
+quest,quest.obtain_64_white_glass,Obtain 64 White Glass,glass,rare,,uncommon
+quest,quest.obtain_64_yellow_glass,Obtain 64 Yellow Glass,glass,rare,,uncommon
+quest,quest.obtain_64_brown_glazed_terracotta,Obtain 64 Brown Glazed Terracotta,glazed terracotta,epic,,rare
+quest,quest.obtain_64_cyan_glazed_terracotta,Obtain 64 Cyan Glazed Terracotta,glazed terracotta,epic,,rare
+quest,quest.obtain_64_green_glazed_terracotta,Obtain 64 Green Glazed Terracotta,glazed terracotta,epic,,rare
+quest,quest.obtain_64_lime_glazed_terracotta,Obtain 64 Lime Glazed Terracotta,glazed terracotta,epic,,rare
+quest,quest.obtain_64_black_glazed_terracotta,Obtain 64 Black Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_blue_glazed_terracotta,Obtain 64 Blue Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_gray_glazed_terracotta,Obtain 64 Gray Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_light_blue_glazed_terracotta,Obtain 64 Light Blue Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_light_gray_glazed_terracotta,Obtain 64 Light Gray Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_magenta_glazed_terracotta,Obtain 64 Magenta Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_orange_glazed_terracotta,Obtain 64 Orange Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_pink_glazed_terracotta,Obtain 64 Pink Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_purple_glazed_terracotta,Obtain 64 Purple Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_red_glazed_terracotta,Obtain 64 Red Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_white_glazed_terracotta,Obtain 64 White Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.obtain_64_yellow_glazed_terracotta,Obtain 64 Yellow Glazed Terracotta,glazed terracotta,rare,,uncommon
+quest,quest.attach_a_lead_to_a_cow,Attach a lead to a cow,lead,common,,uncommon
+quest,quest.attach_a_boat_to_a_happy_ghast_using_a_lead,Attach a boat to a happy ghast using a lead,lead,epic,,
+quest,quest.attach_a_lead_to_8_unique_entities_at_once,Attach a lead to 8 unique entities at once,lead,epic,,epic
+quest,quest.attach_a_lead_to_a_strider,Attach a lead to a strider,lead,epic,,epic
+quest,quest.attach_a_lead_to_6_unique_entities_at_once,Attach a lead to 6 unique entities at once,lead,rare,,rare
+quest,quest.attach_a_lead_to_a_cherry_chest_boat,Attach a lead to a cherry chest boat,lead,rare,,rare
+quest,quest.attach_a_lead_to_a_fox,Attach a lead to a fox,lead,rare,,rare
+quest,quest.attach_a_lead_to_a_frog,Attach a lead to a frog,lead,rare,,rare
+quest,quest.attach_a_lead_to_an_iron_golem,Attach a lead to an iron golem,lead,rare,,rare
+quest,quest.attach_a_lead_to_4_unique_entities_at_once,Attach a lead to 4 unique entities at once,lead,uncommon,,uncommon
+quest,quest.attach_a_lead_to_a_dolphin,Attach a lead to a dolphin,lead,uncommon,,uncommon
+quest,quest.wear_black_colored_leather_boots,Wear Black Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_black_colored_leather_chestplate,Wear Black Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_black_colored_leather_helmet,Wear Black Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_black_colored_leather_leggings,Wear Black Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_blue_colored_leather_boots,Wear Blue Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_blue_colored_leather_chestplate,Wear Blue Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_blue_colored_leather_helmet,Wear Blue Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_blue_colored_leather_leggings,Wear Blue Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_gray_colored_leather_boots,Wear Gray Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_gray_colored_leather_chestplate,Wear Gray Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_gray_colored_leather_helmet,Wear Gray Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_gray_colored_leather_leggings,Wear Gray Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_leather_armor_set,Wear Leather Armor Set,leather,common,,uncommon
+quest,quest.wear_light_blue_colored_leather_boots,Wear Light Blue Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_light_blue_colored_leather_chestplate,Wear Light Blue Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_light_blue_colored_leather_helmet,Wear Light Blue Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_light_blue_colored_leather_leggings,Wear Light Blue Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_light_gray_colored_leather_boots,Wear Light Gray Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_light_gray_colored_leather_chestplate,Wear Light Gray Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_light_gray_colored_leather_helmet,Wear Light Gray Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_light_gray_colored_leather_leggings,Wear Light Gray Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_magenta_colored_leather_boots,Wear Magenta Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_magenta_colored_leather_chestplate,Wear Magenta Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_magenta_colored_leather_helmet,Wear Magenta Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_magenta_colored_leather_leggings,Wear Magenta Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_orange_colored_leather_boots,Wear Orange Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_orange_colored_leather_chestplate,Wear Orange Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_orange_colored_leather_helmet,Wear Orange Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_orange_colored_leather_leggings,Wear Orange Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_pink_colored_leather_boots,Wear Pink Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_pink_colored_leather_chestplate,Wear Pink Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_pink_colored_leather_helmet,Wear Pink Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_pink_colored_leather_leggings,Wear Pink Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_purple_colored_leather_boots,Wear Purple Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_purple_colored_leather_chestplate,Wear Purple Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_purple_colored_leather_helmet,Wear Purple Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_purple_colored_leather_leggings,Wear Purple Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_red_colored_leather_boots,Wear Red Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_red_colored_leather_chestplate,Wear Red Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_red_colored_leather_helmet,Wear Red Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_red_colored_leather_leggings,Wear Red Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_white_colored_leather_boots,Wear White Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_white_colored_leather_chestplate,Wear White Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_white_colored_leather_helmet,Wear White Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_white_colored_leather_leggings,Wear White Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_yellow_colored_leather_boots,Wear Yellow Colored Leather Boots,leather,common,,uncommon
+quest,quest.wear_yellow_colored_leather_chestplate,Wear Yellow Colored Leather Chestplate,leather,common,,uncommon
+quest,quest.wear_yellow_colored_leather_helmet,Wear Yellow Colored Leather Helmet,leather,common,,uncommon
+quest,quest.wear_yellow_colored_leather_leggings,Wear Yellow Colored Leather Leggings,leather,common,,uncommon
+quest,quest.wear_cyan_colored_leather_boots,Wear Cyan Colored Leather Boots,leather,rare,,rare
+quest,quest.wear_cyan_colored_leather_chestplate,Wear Cyan Colored Leather Chestplate,leather,rare,,rare
+quest,quest.wear_cyan_colored_leather_helmet,Wear Cyan Colored Leather Helmet,leather,rare,,rare
+quest,quest.wear_cyan_colored_leather_leggings,Wear Cyan Colored Leather Leggings,leather,rare,,rare
+quest,quest.wear_green_colored_leather_boots,Wear Green Colored Leather Boots,leather,rare,,rare
+quest,quest.wear_green_colored_leather_chestplate,Wear Green Colored Leather Chestplate,leather,rare,,rare
+quest,quest.wear_green_colored_leather_helmet,Wear Green Colored Leather Helmet,leather,rare,,rare
+quest,quest.wear_green_colored_leather_leggings,Wear Green Colored Leather Leggings,leather,rare,,rare
+quest,quest.wear_lime_colored_leather_boots,Wear Lime Colored Leather Boots,leather,rare,,rare
+quest,quest.wear_lime_colored_leather_chestplate,Wear Lime Colored Leather Chestplate,leather,rare,,rare
+quest,quest.wear_lime_colored_leather_helmet,Wear Lime Colored Leather Helmet,leather,rare,,rare
+quest,quest.wear_lime_colored_leather_leggings,Wear Lime Colored Leather Leggings,leather,rare,,rare
+quest,quest.wear_brown_colored_leather_boots,Wear Brown Colored Leather Boots,leather,uncommon,,rare
+quest,quest.wear_brown_colored_leather_chestplate,Wear Brown Colored Leather Chestplate,leather,uncommon,,rare
+quest,quest.wear_brown_colored_leather_helmet,Wear Brown Colored Leather Helmet,leather,uncommon,,rare
+quest,quest.wear_brown_colored_leather_leggings,Wear Brown Colored Leather Leggings,leather,uncommon,,rare
+quest,quest.full_set_of_stone_tools,Full Set of Stone Tools,mine,common,,uncommon
+quest,quest.full_set_of_wooden_tools,Full Set of Wooden Tools,mine,common,,uncommon
+quest,quest.mine_stone_using_your_fists,Mine stone using your fists,mine,common,,
+quest,quest.put_a_furnace_in_a_furnace,Put a furnace in a furnace,mine,common,,uncommon
+quest,quest.put_a_smoker_in_a_smoker,Put a smoker in a smoker,mine,common,,uncommon
+quest,quest.stand_on_a_block_of_coal,Stand on a block of coal,mine,common,,
+quest,quest.stand_on_a_block_of_copper,Stand on a block of copper,mine,common,,epic
+quest,quest.full_set_of_diamond_tools,Full Set of Diamond Tools,mine,epic,,rare
+quest,quest.mine_emerald_ore,Mine Emerald Ore,mine,epic,,
+quest,quest.obtain_all_nether_ores,Obtain All Nether Ores,mine,epic,,legendary
+quest,quest.place_an_end_crystal,Place an end crystal,mine,epic,,
+quest,quest.play_sound_from_a_note_block_whilst_playing_music_on_a_jukebox,Play sound from a note block whilst playing music on a jukebox,mine,epic,,
+quest,quest.trigger_a_sculk_sensor,Trigger a sculk sensor,mine,epic,,legendary
+quest,quest.wear_diamond_armor_set,Wear Diamond Armor Set,mine,epic,,epic
+quest,quest.collect_all_spears,Collect All Spears,mine,legendary,,legendary
+quest,quest.obtain_all_overworld_ore_blocks,Obtain All Overworld Ore Blocks,mine,legendary,,
+quest,quest.obtain_every_type_of_axe,Obtain Every Type of Axe,mine,legendary,,legendary
+quest,quest.obtain_every_type_of_hoe,Obtain Every Type of Hoe,mine,legendary,,legendary
+quest,quest.obtain_every_type_of_pickaxe,Obtain Every Type of Pickaxe,mine,legendary,,legendary
+quest,quest.obtain_every_type_of_shovel,Obtain Every Type of Shovel,mine,legendary,,legendary
+quest,quest.obtain_every_type_of_sword,Obtain Every Type of Sword,mine,legendary,,legendary
+quest,quest.full_set_of_gold_tools,Full Set of Gold Tools,mine,rare,,rare
+quest,quest.mine_mob_spawner,Mine Mob Spawner,mine,rare,,
+quest,quest.obtain_all_minecart_types,Obtain All Minecart Types,mine,rare,,rare
+quest,quest.obtain_all_overworld_ores,Obtain All Overworld Ores,mine,rare,,rare
+quest,quest.obtain_all_rail_types,Obtain All Rail Types,mine,rare,,rare
+quest,quest.obtain_every_type_of_raw_ore_block,Obtain Every Type of Raw Ore Block,mine,rare,,rare
+quest,quest.stand_on_a_block_of_emerald,Stand on a block of emerald,mine,rare,,
+quest,quest.stand_on_a_block_of_of_diamond,Stand on a block of of diamond,mine,rare,,mythic
+quest,quest.summon_iron_golem,Summon Iron Golem,mine,rare,,
+quest,quest.throw_a_diamond_pickaxe_into_lava,Throw a diamond pickaxe into lava,mine,rare,,uncommon
+quest,quest.use_a_crafter_to_craft_a_crafter,Use a crafter to craft a crafter,mine,rare,,
+quest,quest.use_an_enchanting_table,Use an Enchanting Table,mine,rare,,
+quest,quest.break_any_tool,Break any tool,mine,uncommon,,
+quest,quest.full_set_of_iron_tools,Full Set of Iron Tools,mine,uncommon,,uncommon
+quest,quest.mine_diamond_ore,Mine Diamond Ore,mine,uncommon,,
+quest,quest.mine_obsidian_using_an_iron_pickaxe,Mine obsidian using an iron pickaxe,mine,uncommon,,
+quest,quest.obtain_all_cobblestone_block_varients,Obtain all cobblestone block varients,mine,uncommon,,uncommon
+quest,quest.obtain_all_copper_tools,Obtain All Copper Tools,mine,uncommon,,uncommon
+quest,quest.obtain_all_furnace_variants,Obtain All Furnace Variants,mine,uncommon,,uncommon
+quest,quest.obtain_all_mossy_block_varients,Obtain all mossy block varients,mine,uncommon,,uncommon
+quest,quest.obtain_all_stone_brick_varients,Obtain all stone brick varients,mine,uncommon,,uncommon
+quest,quest.put_a_blast_furnace_in_a_blast_furnace,Put a blast furnace in a blast furnace,mine,uncommon,,rare
+quest,quest.stand_on_a_block_of_gold,Stand on a block of gold,mine,uncommon,,rare
+quest,quest.stand_on_a_block_of_iron,Stand on a block of iron,mine,uncommon,,
+quest,quest.stand_on_a_block_of_lapis_lazuli,Stand on a block of lapis lazuli,mine,uncommon,,mythic
+quest,quest.stand_on_a_block_of_redstone,Stand on a block of redstone,mine,uncommon,,mythic
+quest,quest.wear_copper_armor_set,Wear Copper Armor Set,mine,uncommon,,uncommon
+quest,quest.wear_four_unique_armor_pieces,Wear four unique armor pieces,mine,uncommon,,uncommon
+quest,quest.wear_gold_armor_set,Wear Gold Armor Set,mine,uncommon,,uncommon
+quest,quest.wear_iron_armor_set,Wear Iron Armor Set,mine,uncommon,,uncommon
+quest,quest.extinguish_a_campfire_with_a_shovel,Extinguish a campfire with a shovel,misc,common,,
+quest,quest.fill_a_composter,Fill a composter,misc,common,,uncommon
+quest,quest.flick_a_lever_20_times,Flick a lever 20 times,misc,common,,rare
+quest,quest.obtain_64_of_any_one_item_block,Obtain 64 of Any One Item/Block,misc,common,,common
+quest,quest.place_a_painting,Place a painting,misc,common,,
+quest,quest.push_a_button_20_times,Push a button 20 times,misc,common,,rare
+quest,quest.put_a_chest_in_a_chest,Put a chest in a chest,misc,common,,uncommon
+quest,quest.put_a_crafting_table_in_a_crafting_table,Put a crafting table in a crafting table,misc,common,,uncommon
+quest,quest.put_a_flower_in_a_pot,Put a flower in a pot,misc,common,,uncommon
+quest,quest.right_click_a_fletching_table,Right click a fletching table,misc,common,,uncommon
+quest,quest.trample_farmland,Trample farmland,misc,common,,uncommon
+quest,quest.use_a_stonecutter,Use a stonecutter,misc,common,,uncommon
+quest,quest.write_a_book,Write a Book,misc,common,,uncommon
+quest,quest.build_all_golems,Build all golems,misc,epic,,
+quest,quest.craft_75_unique_items,Craft 75 Unique Items,misc,epic,,epic
+quest,quest.do_star_trader_advancement,Do Star Trader Advancement,misc,epic,,
+quest,quest.get_25_advancements,Get 25 Advancements,misc,epic,,epic
+quest,quest.get_35_advancements,Get 35 Advancements,misc,epic,,legendary
+quest,quest.obtain_every_type_of_horse_armor,Obtain every type of horse armor,misc,epic,,legendary
+quest,quest.reach_level_30,Reach Level 30,misc,epic,,epic
+quest,quest.use_a_jukebox_to_play_a_music_disc,Use a Jukebox to play a Music Disc,misc,epic,,
+quest,quest.use_a_smithing_table,Use a Smithing Table,misc,epic,,epic
+quest,quest.wear_1_piece_of_chain_armor,Wear 1 Piece of Chain Armor,misc,epic,,rare
+quest,quest.obtain_all_banner_patterns,Obtain All Banner Patterns,misc,mythic,,
+quest,quest.craft_50_unique_items,Craft 50 Unique Items,misc,rare,,rare
+quest,quest.do_power_of_books_advancement,Do Power of Books Advancement,misc,rare,,
+quest,quest.fill_a_bundle_with_16_bundles,Fill a bundle with 16 bundles,misc,rare,,uncommon
+quest,quest.fill_a_shelf_with_shelves,Fill a shelf with shelves,misc,rare,,
+quest,quest.fill_an_armor_stand_with_armor,Fill an Armor Stand with Armor,misc,rare,,epic
+quest,quest.get_bullseye_advancement,"Get \""Bullseye\"" Advancement",misc,rare,,mythic
+quest,quest.get_this_boat_has_legs_advancement,"Get \""This Boat Has Legs\"" Advancement",misc,rare,,epic
+quest,quest.get_any_spyglass_advancement,Get any Spyglass Advancement,misc,rare,,epic
+quest,quest.have_your_shield_disabled,Have your shield disabled,misc,rare,,epic
+quest,quest.light_a_candle,Light a candle,misc,rare,,
+quest,quest.obtain_3_unique_banner_patterns,Obtain 3 unique banner patterns,misc,rare,,rare
+quest,quest.obtain_5_unique_pressure_plates,Obtain 5 unique pressure plates,misc,rare,,rare
+quest,quest.obtain_6_unique_brick_blocks,Obtain 6 unique brick blocks,misc,rare,,rare
+quest,quest.obtain_6_unique_buckets,Obtain 6 unique buckets,misc,rare,,legendary
+quest,quest.obtain_64_coarse_dirt,Obtain 64 coarse dirt,misc,rare,,epic
+quest,quest.obtain_64_glow_lichen,Obtain 64 glow lichen,misc,rare,,
+quest,quest.obtain_every_type_of_seed,Obtain Every Type of Seed,misc,rare,,
+quest,quest.obtain_every_type_of_torch,Obtain every type of torch,misc,rare,,uncommon
+quest,quest.obtain_the_mob_kabob_advancement,Obtain the mob kabob advancement,misc,rare,,uncommon
+quest,quest.say_gg_in_chat_when_this_is_the_last_remaining_slot,Say gg in chat when this is the last remaining slot,misc,rare,This can only be completed if it is the last available slot on the card,rare
+quest,quest.scrape_wax_off_a_copper_block,Scrape wax off a copper block,misc,rare,,epic
+quest,quest.shear_a_snow_golem,Shear a snow golem,misc,rare,,mythic
+quest,quest.shoot_a_firework_from_a_crossbow,Shoot a firework from a crossbow,misc,rare,,rare
+quest,quest.sleep_alone_in_the_overworld,Sleep Alone in the Overworld,misc,rare,Can only appear if daylight cycle setting is not set to day only can only appear if there are two teams and two players playing and can only appear when daylight cycle setting is not set to day only,uncommon
+quest,quest.toot_a_goat_horn,Toot a goat horn,misc,rare,,rare
+quest,quest.use_an_anvil,Use an Anvil,misc,rare,,mythic
+quest,quest.use_glow_ink_on_a_crimson_sign,Use glow ink on a crimson sign,misc,rare,,
+quest,quest.wax_a_copper_block,Wax a copper block,misc,rare,,
+quest,quest.construct_a_copper_golem,Construct a copper golem,misc,uncommon,,
+quest,quest.craft_25_unique_items,Craft 25 Unique Items,misc,uncommon,,uncommon
+quest,quest.decorate_a_shield_with_a_banner,Decorate a shield with a banner,misc,uncommon,,uncommon
+quest,quest.fill_a_chiseled_bookshelf_with_books,Fill a chiseled bookshelf with books,misc,uncommon,,
+quest,quest.fill_a_decorated_pot,Fill a decorated pot,misc,uncommon,,epic
+quest,quest.fill_inventory_with_unique_items,Fill Inventory with Unique Items,misc,uncommon,,rare
+quest,quest.get_15_advancements,Get 15 Advancements,misc,uncommon,,uncommon
+quest,quest.have_more_levels_than_the_opponent,Have More Levels than the opponent,misc,uncommon,"can only appear if more than one team is in play. In all modes, this quest is always given to the current leader and can be stolen at anytime should another team take the lead in this goal",uncommon
+quest,quest.obtain_64_firefly_bushes,Obtain 64 firefly bushes,misc,uncommon,,uncommon
+quest,quest.obtain_7_unique_workstations,Obtain 7 unique workstations,misc,uncommon,,rare
+quest,quest.place_a_book_and_quil_into_a_lectern,Place a book and quil into a lectern,misc,uncommon,,rare
+quest,quest.reach_level_15,Reach Level 15,misc,uncommon,,uncommon
+quest,quest.right_click_a_banner_with_a_map,Right click a banner with a map,misc,uncommon,,epic
+quest,quest.ring_a_bell,Ring a bell,misc,uncommon,,uncommon
+quest,quest.take_200_damage,Take 200 Damage,misc,uncommon,,uncommon
+quest,quest.trade_with_a_villager,Trade with a Villager,misc,uncommon,,uncommon
+quest,quest.use_a_cauldron_to_wash_something,Use a Cauldron to wash something,misc,uncommon,,rare
+quest,quest.use_a_crafter,Use a crafter,misc,uncommon,,uncommon
+quest,quest.use_a_grindstone,Use a grindstone,misc,uncommon,,uncommon
+quest,quest.use_a_loom_to_design_a_banner,Use a Loom to Design a Banner,misc,uncommon,,uncommon
+quest,quest.wear_full_uniquely_coloured_leather_armor,Wear full uniquely coloured leather armor,misc,uncommon,,uncommon
+quest,quest.kill_drowned,Kill Drowned,monster,common,Can only appear if hostile mobs are enabled,common
+quest,quest.kill_zombie,Kill Zombie,monster,common,Can only appear if hostile mobs are enabled,common
+quest,quest.kill_15_unique_hostile_mobs,Kill 15 Unique Hostile Mobs,monster,epic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,epic
+quest,quest.kill_all_golems,Kill all golems,monster,epic,,mythic
+quest,quest.kill_all_raid_mobs,Kill all raid mobs,monster,epic,,epic
+quest,quest.kill_breeze,Kill Breeze,monster,epic,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_cave_spider,Kill Cave Spider,monster,epic,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_elder_guardian,Kill Elder Guardian,monster,epic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,epic
+quest,quest.kill_endermite,Kill Endermite,monster,epic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,epic
+quest,quest.kill_evoker,Kill Evoker,monster,epic,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_ravager,Kill Ravager,monster,epic,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_vex,Kill Vex,monster,epic,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_zoglin,Kill Zoglin,monster,epic,can only appear when hostilemobs are enabled,epic
+quest,quest.throw_a_splash_potion_at_a_witch,Throw a splash potion at a witch,monster,legendary,Can only appear if hostole mobs are enabled,legendary
+quest,quest.kill_shulker,Kill Shulker,monster,mythic,Can only appear if hostile mobs are enabled,mythic
+quest,quest.kill_silverfish,Kill Silverfish,monster,mythic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,mythic
+quest,quest.kill_the_ender_dragon,Kill The Ender Dragon,monster,mythic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,mythic
+quest,quest.kill_wither_skeleton,Kill Wither Skeleton,monster,mythic,Can only appear if hostile mobs are enabled,
+quest,quest.distract_a_piglin_with_gold,Distract a Piglin with Gold,monster,rare,can only appear if hostile mobs are enabled,epic
+quest,quest.enrage_a_zombie_piglin,Enrage a Zombie Piglin,monster,rare,can only appear if hostile mobs are enabled,epic
+quest,quest.get_sniper_duel_advancement,"Get \""Sniper Duel\"" Advancement",monster,rare,can only appear if hostile mobs are enabled,uncommon
+quest,quest.kill_10_unique_hostile_mobs,Kill 10 Unique Hostile Mobs,monster,rare,can only appear when hostilemobs are enabled,rare
+quest,quest.kill_100_mobs,Kill 100 Mobs,monster,rare,,rare
+quest,quest.kill_20_arthropods,Kill 20 Arthropods,monster,rare,,rare
+quest,quest.kill_30_undead_mobs,Kill 30 Undead Mobs,monster,rare,can only appear when hostilemobs are enabled,rare
+quest,quest.kill_7_unique_hostile_mobs,Kill 7 Unique Hostile Mobs,monster,rare,can only appear when hostilemobs are enabled,rare
+quest,quest.kill_a_pillager_with_a_crossbow,Kill a pillager with a crossbow,monster,rare,,rare
+quest,quest.kill_a_snow_golem_in_the_nether,Kill a snow golem in the nether,monster,rare,,
+quest,quest.kill_blaze,Kill Blaze,monster,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_bogged,Kill Bogged,monster,rare,Can only appear if hostile mobs are enabled,rare
+quest,quest.kill_ghast,Kill Ghast,monster,rare,can only appear if hostile mobs are enabled,epic
+quest,quest.kill_guardian,Kill Guardian,monster,rare,can only appear when hostilemobs are enabled,rare
+quest,quest.kill_husk,Kill Husk,monster,rare,Can only appear if hostile mobs are enabled,rare
+quest,quest.kill_magma_cube,Kill Magma Cube,monster,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_piglin_brute,Kill Piglin Brute,monster,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.kill_pillager,Kill Pillager,monster,rare,Can only appear if hostile mobs are enabled,rare
+quest,quest.kill_slime,Kill Slime,monster,rare,Can only appear if hostile mobs are enabled,rare
+quest,quest.kill_snow_golem,Kill Snow Golem,monster,rare,,mythic
+quest,quest.kill_stray,Kill Stray,monster,rare,can only appear when hostilemobs are enabled,rare
+quest,quest.kill_witch,Kill Witch,monster,rare,can only appear when hostilemobs are enabled,rare
+quest,quest.kill_zombie_villager,Kill Zombie Villager,monster,rare,can only appear if hostile mobs are enabled,rare
+quest,quest.kill_zombified_piglin,Kill Zombified Piglin,monster,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.attach_a_fishing_rod_to_a_creeper,Attach a fishing rod to a creeper,monster,uncommon,Can only appear if hostole mobs are enabled,uncommon
+quest,quest.kill_a_bat,Kill a bat,monster,uncommon,,common
+quest,quest.kill_bee,Kill Bee,monster,uncommon,,common
+quest,quest.look_at_an_endarman_in_the_eyes_to_enrage_them,Look at an endarman in the eyes to enrage them,monster,uncommon,Can only appear if hostile mobs are enabled,uncommon
+quest,quest.obtain_64_arrows,Obtain 64 arrows,monster,uncommon,,rare
+quest,quest.fully_hydrate_a_dried_ghast,Hydrate a dried ghast,nether,epic,,
+quest,quest.obtain_all_nether_ore_blocks,Obtain All Nether Ore Blocks,nether,epic,,
+quest,quest.place_a_bee_nest_or_a_bee_hive_in_the_nether,Place a bee nest or a bee hive in the nether,nether,epic,,
+quest,quest.stand_on_a_block_of_netherite,Stand on a block of netherite,nether,legendary,,
+quest,quest.wear_1_piece_of_netherite_armor,Wear 1 Piece of Netherite Armor,nether,legendary,,legendary
+quest,quest.obtain_all_netherite_tools,Obtain All Netherite Tools,nether,mythic,,mythic
+quest,quest.crouch_on_soul_sand,Crouch on soul sand,nether,rare,,epic
+quest,quest.obtain_all_blackstone_block_varients,Obtain all blackstone block varients,nether,rare,,epic
+quest,quest.kill_black_sheep,Kill Black Sheep,sheep,common,,common
+quest,quest.kill_blue_sheep,Kill Blue Sheep,sheep,common,,common
+quest,quest.kill_gray_sheep,Kill Gray Sheep,sheep,common,,common
+quest,quest.kill_light_blue_sheep,Kill Light Blue Sheep,sheep,common,,common
+quest,quest.kill_light_gray_sheep,Kill Light Gray Sheep,sheep,common,,common
+quest,quest.kill_magenta_sheep,Kill Magenta Sheep,sheep,common,,common
+quest,quest.kill_orange_sheep,Kill Orange Sheep,sheep,common,,common
+quest,quest.kill_pink_sheep,Kill Pink Sheep,sheep,common,,common
+quest,quest.kill_purple_sheep,Kill Purple Sheep,sheep,common,,common
+quest,quest.kill_red_sheep,Kill Red Sheep,sheep,common,,common
+quest,quest.kill_white_sheep,Kill White Sheep,sheep,common,,common
+quest,quest.kill_yellow_sheep,Kill Yellow Sheep,sheep,common,,common
+quest,quest.kill_cyan_sheep,Kill Cyan Sheep,sheep,rare,,uncommon
+quest,quest.kill_green_sheep,Kill Green Sheep,sheep,rare,,uncommon
+quest,quest.kill_lime_sheep,Kill Lime Sheep,sheep,rare,,uncommon
+quest,quest.kill_brown_sheep,Kill Brown Sheep,sheep,uncommon,,uncommon
+quest,quest.put_a_decorated_pot_in_a_decorated_pot,Put a decorated pot in a decorated pot,shovel,common,,epic
+quest,quest.obtain_all_snow_varients,Obtain all snow varients,shovel,epic,,rare
+quest,quest.obtain_all_red_sandstone_block_varients,Obtain all red sandstone block varients,shovel,rare,,rare
+quest,quest.obtain_all_sandstone_block_varients,Obtain all sandstone block varients,shovel,uncommon,,uncommon
+quest,quest.look_at_10_unique_mobs_with_a_spyglass,Look at 10 unique mobs with a spyglass,spyglass,epic,,epic
+quest,quest.look_at_15_unique_mobs_with_a_spyglass,Look at 15 unique mobs with a spyglass,spyglass,epic,,epic
+quest,quest.look_at_a_guardian_with_a_spyglass,Look at a guardian with a spyglass,spyglass,epic,Can only appear if hostile mobs are enabled,legendary
+quest,quest.look_at_a_piglin_brute_with_a_spyglass,Look at a piglin brute with a spyglass,spyglass,epic,Can only appear if hostile mobs are enabled,legendary
+quest,quest.look_at_20_unique_mobs_with_a_spyglass,Look at 20 unique mobs with a spyglass,spyglass,legendary,,legendary
+quest,quest.look_at_5_unique_mobs_with_a_spyglass,Look at 5 unique mobs with a spyglass,spyglass,rare,,epic
+quest,quest.look_at_a_horse_with_a_spyglass,Look at a horse with a spyglass,spyglass,rare,,epic
+quest,quest.look_at_a_husk_with_a_spyglass,Look at a husk with a spyglass,spyglass,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.look_at_an_enderman_with_a_spyglass,Look at an enderman with a spyglass,spyglass,rare,Can only appear if hostile mobs are enabled,epic
+quest,quest.each_team_member_looks_at_a_different_member_of_their_team,Each team member looks at a different member of their team,team,common,Can only appear if there is more than 1 person on each in play team,common
+quest,quest.whole_team_boating_at_the_same_time,Whole team boating at the same time,team,common,Can only appear if there are at least 2 players on each in play team,uncommon
+quest,quest.whole_team_breeds_an_animal_at_the_same_time,Whole team breeds an animal at the same time,team,common,Can only appear if there is more than 1 person on each in play team,common
+quest,quest.whole_team_swims_at_the_same_time,Whole team swims at the same time,team,common,Can only appear if there are at least 2 players on each in play team,common
+quest,quest.whole_team_stands_on_the_same_happy_ghast,Whole team stands on the same happy ghast,team,epic,Can only appear if there is more than 1 person on each in play team,
+quest,quest.whole_team_wear_a_piece_of_trimmed_armor,Whole team wear a piece of trimmed armor,team,epic,Can only appear if there are at least 2 players on each in play team,epic
+quest,quest.whole_team_in_the_end,Whole team in the end,team,mythic,Can only appear if there are at least 2 players on each in play team,mythic
+quest,quest.give_a_red_tulip_to_a_teamate,Give a red tulip to a teamate,team,rare,Can only appear if there is more than 1 person on each in play team,rare
+quest,quest.whole_team_eats_cake_at_the_same_time,Whole team eats cake at the same time,team,rare,Can only appear if there are at least 2 players on each in play team,
+quest,quest.whole_team_has_a_status_effect_at_the_same_time,Whole team has a status effect at the same time,team,rare,Can only appear if there are at least 2 players on each in play team,rare
+quest,quest.whole_team_has_a_tamed_cat,Whole team has a tamed cat,team,rare,Can only appear if there is more than 1 person on each in play team,rare
+quest,quest.whole_team_have_consecutive_number_of_levels_to_each_other,Whole team have consecutive number of levels to each other,team,rare,Can only appear if there are at least 2 players on each in play team,common
+quest,quest.whole_team_rides_a_mob_at_the_same_time,Whole team rides a mob at the same time,team,rare,Can only appear if there are at least 2 players on each in play team,common
+quest,quest.whole_team_throws_an_enderpearl_at_the_same_time,Whole team throws an enderpearl at the same time,team,rare,Can only appear if there are at least 2 players on each in play team,rare
+quest,quest.whole_team_wear_a_piece_of_enchanted_armor,Whole team wear a piece of enchanted armor,team,rare,Can only appear if there are at least 2 players on each in play team,rare
+quest,quest.have_a_tamed_wolf_kill_another_players_tamed_wolf,Have a tamed wolf kill another players tamed wolf,team,uncommon,Can only appear if there is more than 1 person on each in play team,rare
+quest,quest.whole_team_dies_at_the_same_time,Whole team dies at the same time,team,uncommon,Can only appear if there are at least 2 players on each in play team,common
+quest,quest.whole_team_has_a_tamed_wolf,Whole team has a tamed wolf,team,uncommon,Can only appear if there is more than 1 person on each in play team,uncommon
+quest,quest.whole_team_in_nether,Whole team in nether,team,uncommon,Can only appear if there are at least 2 players on each in play team,epic
+quest,quest.whole_team_starving,Whole team starving,team,uncommon,Can only appear if there are at least 2 players on each in play team,uncommon
+quest,quest.whole_team_wears_a_carved_pumpkin_at_the_same_time,Whole team wears a carved pumpkin at the same time,team,uncommon,Can only appear if there are at least 2 players on each in play team,rare
+quest,quest.obtain_64_brown_terracotta,Obtain 64 Brown Terracotta,terracotta,epic,,rare
+quest,quest.obtain_64_cyan_terracotta,Obtain 64 Cyan Terracotta,terracotta,epic,,rare
+quest,quest.obtain_64_green_terracotta,Obtain 64 Green Terracotta,terracotta,epic,,rare
+quest,quest.obtain_64_lime_terracotta,Obtain 64 Lime Terracotta,terracotta,epic,,rare
+quest,quest.obtain_64_black_terracotta,Obtain 64 Black Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_blue_terracotta,Obtain 64 Blue Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_gray_terracotta,Obtain 64 Gray Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_light_blue_terracotta,Obtain 64 Light Blue Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_light_gray_terracotta,Obtain 64 Light Gray Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_magenta_terracotta,Obtain 64 Magenta Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_orange_terracotta,Obtain 64 Orange Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_pink_terracotta,Obtain 64 Pink Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_purple_terracotta,Obtain 64 Purple Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_red_terracotta,Obtain 64 Red Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_white_terracotta,Obtain 64 White Terracotta,terracotta,rare,,uncommon
+quest,quest.obtain_64_yellow_terracotta,Obtain 64 Yellow Terracotta,terracotta,rare,,uncommon
+quest,quest.boat_for_2km,Boat for 2km,travel,common,,uncommon
+quest,quest.enter_a_crawl_state,Enter a crawl state,travel,common,,uncommon
+quest,quest.jump_on_mud,Jump on mud,travel,common,,rare
+quest,quest.swim_for_500m,Swim for 500m,travel,common,,common
+quest,quest.apply_3_unique_armor_trims,Apply 3 Unique Armor Trims,travel,epic,,epic
+quest,quest.charge_a_respawn_anchor_to_max,Charge a Respawn Anchor to Max,travel,epic,,
+quest,quest.find_a_mushroom_biome,Find a Mushroom Biome,travel,epic,,epic
+quest,quest.find_an_ice_spike_biome,Find an Ice Spike Biome,travel,epic,,rare
+quest,quest.get_stuck_in_a_cobweb,Get stuck in a cobweb,travel,epic,,rare
+quest,quest.get_subspace_bubble_advancement,Get Subspace Bubble Advancement,travel,epic,,mythic
+quest,quest.obtain_3_unique_music_disks,Obtain 3 unique music disks,travel,epic,,epic
+quest,quest.obtain_8_log_variants,Obtain 8 Log Variants,travel,epic,,epic
+quest,quest.open_trial_vault,Open Trial Vault,travel,epic,,legendary
+quest,quest.ride_a_happy_ghast_for_200_meters,Ride a happy ghast for 200 meters,travel,epic,,
+quest,quest.start_a_raid,Start a Raid,travel,epic,,epic
+quest,quest.travel_to_nether_roof,Travel to Nether Roof,travel,epic,,legendary
+quest,quest.visit_20_unique_biomes,Visit 20 unique biomes,travel,epic,,epic
+quest,quest.visit_all_nether_biomes,Visit All Nether Biomes,travel,epic,,epic
+quest,quest.apply_5_unique_armor_trims,Apply 5 Unique Armor Trims,travel,legendary,,legendary
+quest,quest.obtain_all_log_types,Obtain All Log Types,travel,legendary,,legendary
+quest,quest.open_ominous_vault,Open Ominous Vault,travel,legendary,,mythic
+quest,quest.visit_all_cave_biomes,Visit all cave biomes,travel,legendary,,legendary
+quest,quest.apply_7_unique_armor_trims,Apply 7 Unique Armor Trims,travel,mythic,,mythic
+quest,quest.enter_end,Enter End,travel,mythic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,mythic
+quest,quest.find_a_stronghold,Find a Stronghold,travel,mythic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,mythic
+quest,quest.find_an_end_city,Find an End City,travel,mythic,Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled,mythic
+quest,quest.obtain_all_froglights,Obtain All Froglights,travel,mythic,,mythic
+quest,quest.obtain_all_nautilus_armor_types,Obtain all nautilus armor types,travel,mythic,,mythic
+quest,quest.apply_armor_trim,Apply Armor Trim,travel,rare,,rare
+quest,quest.decorate_a_pot_with_a_pottery_sherd,Decorate a pot with a pottery sherd,travel,rare,,
+quest,quest.do_caves_and_cliffs_advancement,Do Caves and Cliffs Advancement,travel,rare,,mythic
+quest,quest.find_a_badlands_biome,Find a Badlands Biome,travel,rare,,rare
+quest,quest.find_a_bastion,Find a Bastion,travel,rare,,epic
+quest,quest.find_a_fortress,Find a Fortress,travel,rare,,epic
+quest,quest.obtain_2_unique_armor_trims,Obtain 2 unique armor trims,travel,rare,,rare
+quest,quest.obtain_6_log_variants,Obtain 6 Log Variants,travel,rare,,rare
+quest,quest.obtain_all_mushrooms,Obtain All Mushrooms,travel,rare,,epic
+quest,quest.take_damage_from_15_unique_sources,Take damage from 15 unique sources,travel,rare,,rare
+quest,quest.visit_15_unique_biomes,Visit 15 unique biomes,travel,rare,,rare
+quest,quest.boat_on_ice,Boat on ice,travel,uncommon,,uncommon
+quest,quest.crouch_for_100m,Crouch for 100m,travel,uncommon,,common
+quest,quest.enter_nether,Enter Nether,travel,uncommon,,epic
+quest,quest.obtain_5_types_of_saplings,Obtain 5 Types of Saplings,travel,uncommon,,uncommon
+quest,quest.obtain_6_unique_flowers,Obtain 6 Unique Flowers,travel,uncommon,,uncommon
+quest,quest.reach_bedrock,Reach Bedrock,travel,uncommon,,epic
+quest,quest.reach_sky_limit,Reach Sky Limit,travel,uncommon,,mythic
+quest,quest.ride_a_minecart_for_25_meters,Ride a minecart for 25 meters,travel,uncommon,,
+quest,quest.ride_minecart,Ride Minecart,travel,uncommon,,
+quest,quest.sprint_1km,Sprint 1km,travel,uncommon,,common
+quest,quest.take_damage_from_12_unique_sources,Take damage from 12 unique sources,travel,uncommon,,uncommon
+quest,quest.take_damage_from_8_unique_sources,Take damage from 8 unique sources,travel,uncommon,,uncommon
+quest,quest.use_a_brush_on_suspicious_sand_gravel,Use a brush on suspicious sand/gravel,travel,uncommon,,
+quest,quest.use_a_ladder_to_climb_64_meters_in_hieght,Use a ladder to climb 64 meters in hieght,travel,uncommon,,rare
+quest,quest.visit_10_unique_biomes,Visit 10 unique biomes,travel,uncommon,,uncommon
+quest,quest.wear_a_carved_pumpkin_for_5_minutes,Wear a carved pumpkin for 5 minutes,travel,uncommon,,rare

@@ -1,0 +1,5260 @@
+{
+  "quests": [
+    {
+      "id": "quest.breed_chicken",
+      "name": "Breed Chicken",
+      "description": "breed chickens",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Chicken texture with small seed in corner"
+    },
+    {
+      "id": "quest.breed_cow",
+      "name": "Breed Cow",
+      "description": "breed cows",
+      "rarity": "common",
+      "category": "animal",
+      "extra": "",
+      "texture": "cow texture with small wheat in corner"
+    },
+    {
+      "id": "quest.breed_goat",
+      "name": "Breed Goat",
+      "description": "breed goats",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "goat texture with small wheat in corner"
+    },
+    {
+      "id": "quest.breed_pig",
+      "name": "Breed Pig",
+      "description": "breed pigs",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "pig texture with small potato in corner"
+    },
+    {
+      "id": "quest.breed_sheep",
+      "name": "Breed Sheep",
+      "description": "breed sheep",
+      "rarity": "common",
+      "category": "animal",
+      "extra": "",
+      "texture": "sheep texture with small wheat in corner"
+    },
+    {
+      "id": "quest.obtain_a_potion_of_water_breathing",
+      "name": "Obtain a potion of water breathing",
+      "description": "obtain a potion of water breathing",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "potion of water breathing"
+    },
+    {
+      "id": "quest.die_by_bee_sting",
+      "name": "Die by Bee Sting",
+      "description": "get killed by a bee",
+      "rarity": "uncommon",
+      "category": "death",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "bee texture with small skull in corner"
+    },
+    {
+      "id": "quest.die_by_berry_bush",
+      "name": "Die by Berry Bush",
+      "description": "get killed by berry bush",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "sweet berry with small skull in corner"
+    },
+    {
+      "id": "quest.die_by_cactus",
+      "name": "Die by Cactus",
+      "description": "get killed by cactus",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "cactus with small skull in corner"
+    },
+    {
+      "id": "quest.die_by_falling_off_vines",
+      "name": "Die by Falling Off Vines",
+      "description": "die by falling off vines",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "vine with small skull in corner"
+    },
+    {
+      "id": "quest.die_by_llama",
+      "name": "Die by Llama",
+      "description": "get killed by a llama",
+      "rarity": "epic",
+      "category": "death",
+      "extra": "",
+      "texture": "llama texture with small skull in corner"
+    },
+    {
+      "id": "quest.die_to_intentional_game_design",
+      "name": "Die to [Intentional Game Design]",
+      "description": "die to bed or respawn anchor explosion",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "bed with small skull in corner"
+    },
+    {
+      "id": "quest.die_to_iron_golem",
+      "name": "Die to Iron Golem",
+      "description": "get killed by an iron golem",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "iron golem texture with small skull in corner"
+    },
+    {
+      "id": "quest.die_to_tnt_minecart",
+      "name": "Die to TNT Minecart",
+      "description": "get killed by tnt minecart",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "tnt minecart with small skull in corner"
+    },
+    {
+      "id": "quest.distract_a_piglin_with_gold",
+      "name": "Distract a Piglin with Gold",
+      "description": "distract a piglin with gold",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "piglin head with small iron ingot in corner"
+    },
+    {
+      "id": "quest.eat_poisonous_potato",
+      "name": "Eat Poisonous Potato",
+      "description": "eat a poisonous potato",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "can only appear if hunger is enabled",
+      "texture": "poisonous potato with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.eat_suspicious_stew",
+      "name": "Eat Suspicious Stew",
+      "description": "eat a suspicious stew",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "",
+      "texture": "suspicious stew with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.empty_hunger_bar",
+      "name": "Empty Hunger Bar",
+      "description": "empty your hunger bar",
+      "rarity": "common",
+      "category": "food",
+      "extra": "can only appear if hunger is enabled",
+      "texture": "empty hunger bar texture"
+    },
+    {
+      "id": "quest.enrage_a_zombie_piglin",
+      "name": "Enrage a Zombie Piglin",
+      "description": "make a zombie piglin aggro towards you",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "zombie piglin head with small angry face texture in corner"
+    },
+    {
+      "id": "quest.fill_an_armor_stand_with_armor",
+      "name": "Fill an Armor Stand with Armor",
+      "description": "fill an armor stand completely with armor",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "armour stand texture with smal leather boots, pants, tunic, and cap cycling"
+    },
+    {
+      "id": "quest.full_set_of_gold_tools",
+      "name": "Full Set of Gold Tools",
+      "description": "obtain a full set of gold tools",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between gold shovel, hoe, sword, axe, pickaxe, sword"
+    },
+    {
+      "id": "quest.full_set_of_iron_tools",
+      "name": "Full Set of Iron Tools",
+      "description": "obtain a full set of iron tools",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between iron shovel, hoe, sword, axe, pickaxe, sword"
+    },
+    {
+      "id": "quest.full_set_of_stone_tools",
+      "name": "Full Set of Stone Tools",
+      "description": "obtain a full set of stone tools",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between stone shovel, hoe, sword, axe, pickaxe, sword"
+    },
+    {
+      "id": "quest.full_set_of_wooden_tools",
+      "name": "Full Set of Wooden Tools",
+      "description": "obtain a full set of wooden tools",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between wooden shovel, hoe, sword, axe, pickaxe, sword"
+    },
+    {
+      "id": "quest.obtain_all_copper_tools",
+      "name": "Obtain All Copper Tools",
+      "description": "obtain all copper tools",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between copper shovel, hoe, sword, axe, pickaxe, spear"
+    },
+    {
+      "id": "quest.collect_all_spears",
+      "name": "Collect All Spears",
+      "description": "collect all spears",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between all spears"
+    },
+    {
+      "id": "quest.get_15_advancements",
+      "name": "Get 15 Advancements",
+      "description": "get 15 advancements",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "advancement icon with number 15"
+    },
+    {
+      "id": "quest.get_sniper_duel_advancement",
+      "name": "Get \\\"Sniper Duel\\\" Advancement",
+      "description": "get the sniper duel advancement",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "advancement icon"
+    },
+    {
+      "id": "quest.get_absorption",
+      "name": "Get Absorption",
+      "description": "get the absorption effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "can only appear if effects are disabled",
+      "texture": "absorption effect heart texture"
+    },
+    {
+      "id": "quest.get_jump_boost",
+      "name": "Get Jump Boost",
+      "description": "get the jump boost effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "can only appear if effects are disabled",
+      "texture": "jump boost effect texture"
+    },
+    {
+      "id": "quest.get_poisoned",
+      "name": "Get Poisoned",
+      "description": "get the poison effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "can only appear if effects are disabled",
+      "texture": "poison effect texture"
+    },
+    {
+      "id": "quest.get_weakness",
+      "name": "Get Weakness",
+      "description": "get the weakness effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "can only appear if effects are disabled",
+      "texture": "weakness effect texture"
+    },
+    {
+      "id": "quest.kill_black_sheep",
+      "name": "Kill Black Sheep",
+      "description": "kill a black sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "black wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_blue_sheep",
+      "name": "Kill Blue Sheep",
+      "description": "kill_colored_sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "blue wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_brown_sheep",
+      "name": "Kill Brown Sheep",
+      "description": "kill_colored_sheep",
+      "rarity": "uncommon",
+      "category": "sheep",
+      "extra": "",
+      "texture": "brown wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_cyan_sheep",
+      "name": "Kill Cyan Sheep",
+      "description": "kill_colored_sheep",
+      "rarity": "rare",
+      "category": "sheep",
+      "extra": "",
+      "texture": "cyan wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_ghast",
+      "name": "Kill Ghast",
+      "description": "kill a ghast",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "ghast head texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_gray_sheep",
+      "name": "Kill Gray Sheep",
+      "description": "Kill a gray sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "gray wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_green_sheep",
+      "name": "Kill Green Sheep",
+      "description": "kill a green sheep",
+      "rarity": "rare",
+      "category": "sheep",
+      "extra": "",
+      "texture": "green wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_light_blue_sheep",
+      "name": "Kill Light Blue Sheep",
+      "description": "kill a light blue sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "light blue wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_light_gray_sheep",
+      "name": "Kill Light Gray Sheep",
+      "description": "kill a light gray sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "light gray wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_lime_sheep",
+      "name": "Kill Lime Sheep",
+      "description": "kill a lime sheep",
+      "rarity": "rare",
+      "category": "sheep",
+      "extra": "",
+      "texture": "lime wool with small with small sword in corner"
+    },
+    {
+      "id": "quest.kill_magenta_sheep",
+      "name": "Kill Magenta Sheep",
+      "description": "kill a magenta sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "magenta wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_orange_sheep",
+      "name": "Kill Orange Sheep",
+      "description": "kill a orange sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "orange wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_pink_sheep",
+      "name": "Kill Pink Sheep",
+      "description": "kill a pink sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "pink wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_purple_sheep",
+      "name": "Kill Purple Sheep",
+      "description": "kill a purple sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "purple wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_red_sheep",
+      "name": "Kill Red Sheep",
+      "description": "kill a red sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "red wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_snow_golem",
+      "name": "Kill Snow Golem",
+      "description": "kill a snow golem",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "",
+      "texture": "snow golem texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_white_sheep",
+      "name": "Kill White Sheep",
+      "description": "kill a white sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "white wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_yellow_sheep",
+      "name": "Kill Yellow Sheep",
+      "description": "kill a yellow sheep",
+      "rarity": "common",
+      "category": "sheep",
+      "extra": "",
+      "texture": "yellow wool with small sword in corner"
+    },
+    {
+      "id": "quest.kill_zombie_villager",
+      "name": "Kill Zombie Villager",
+      "description": "kill a zombie villager",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear if hostile mobs are enabled",
+      "texture": "zombie villager texture with small sword in corner"
+    },
+    {
+      "id": "quest.mine_turtle_egg",
+      "name": "Mine Turtle Egg",
+      "description": "mine a turtle egg",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "turtle egg with small pickaxe in corner"
+    },
+    {
+      "id": "quest.obtain_64_of_any_one_item_block",
+      "name": "Obtain 64 of Any One Item/Block",
+      "description": "obtain 64 of any one item/block",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "number 64"
+    },
+    {
+      "id": "quest.obtain_every_type_of_raw_ore_block",
+      "name": "Obtain Every Type of Raw Ore Block",
+      "description": "obtain every type of raw ore block",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between raw iron block, raw gold block, raw copper block"
+    },
+    {
+      "id": "quest.obtain_more_dried_kelp_blocks_than_the_opponent",
+      "name": "Obtain More Dried Kelp Blocks than the Opponent",
+      "description": "have more dried kelp blocks than any other team",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "can only appear if more than one team is in play. In all modes, this quest is always given to the current leader and can be stolen at anytime should another team take the lead in this goal",
+      "texture": "dried kelp block with small jump boost effect texture in corner"
+    },
+    {
+      "id": "quest.reach_bedrock",
+      "name": "Reach Bedrock",
+      "description": "Stand on bedrock",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "bedrock texture"
+    },
+    {
+      "id": "quest.reach_sky_limit",
+      "name": "Reach Sky Limit",
+      "description": "reach the sky limit",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "levitation effect texture with small jump boost effect texture in corner"
+    },
+    {
+      "id": "quest.remove_a_status_effect_with_a_milk_bucket",
+      "name": "Remove a Status Effect with a Milk Bucket",
+      "description": "remove a status effect by drinking milk",
+      "rarity": "uncommon",
+      "category": "effect",
+      "extra": "",
+      "texture": "milk with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.ride_minecart",
+      "name": "Ride Minecart",
+      "description": "ride a minecart",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "minecart with small saddle in corner"
+    },
+    {
+      "id": "quest.tame_a_cat",
+      "name": "Tame a Cat",
+      "description": "tame a cat",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "cat texture with small heart in corner"
+    },
+    {
+      "id": "quest.tame_a_horse",
+      "name": "Tame a Horse",
+      "description": "tame a horse",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "horse texture with small heart texture in corner"
+    },
+    {
+      "id": "quest.tame_a_parrot",
+      "name": "Tame a Parrot",
+      "description": "tame a parrot",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "parrot texture with small heart texture in corner"
+    },
+    {
+      "id": "quest.tame_a_wolf",
+      "name": "Tame a Wolf",
+      "description": "tame a wolf",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "wolf texture with small heart texture in corner"
+    },
+    {
+      "id": "quest.trade_with_a_villager",
+      "name": "Trade with a Villager",
+      "description": "trade with a villager",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "villager texture with small emerald in corner"
+    },
+    {
+      "id": "quest.use_a_brewing_stand",
+      "name": "Use a Brewing Stand",
+      "description": "use a brewing stand",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "",
+      "texture": "brewing stand with water bottle in corner"
+    },
+    {
+      "id": "quest.use_a_cauldron_to_wash_something",
+      "name": "Use a Cauldron to wash something",
+      "description": "use a cauldron to wash something",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "cauldron with small leather tunic in corner"
+    },
+    {
+      "id": "quest.fill_a_composter",
+      "name": "Fill a composter",
+      "description": "fill a composter fully until bonemeal pops out",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "composter texture with small bonemeal in corner"
+    },
+    {
+      "id": "quest.use_a_loom_to_design_a_banner",
+      "name": "Use a Loom to Design a Banner",
+      "description": "use a loom to design a banner",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "loom with small banner in corner"
+    },
+    {
+      "id": "quest.wear_black_colored_leather_boots",
+      "name": "Wear Black Colored Leather Boots",
+      "description": "Wear Black Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "black leather boots"
+    },
+    {
+      "id": "quest.wear_black_colored_leather_chestplate",
+      "name": "Wear Black Colored Leather Chestplate",
+      "description": "Wear Black Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "black leather chestplate"
+    },
+    {
+      "id": "quest.wear_black_colored_leather_helmet",
+      "name": "Wear Black Colored Leather Helmet",
+      "description": "Wear Black Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "black leather helmet"
+    },
+    {
+      "id": "quest.wear_black_colored_leather_leggings",
+      "name": "Wear Black Colored Leather Leggings",
+      "description": "Wear Black Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "black leather leggings"
+    },
+    {
+      "id": "quest.wear_blue_colored_leather_boots",
+      "name": "Wear Blue Colored Leather Boots",
+      "description": "Wear Blue Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "blue leather boots"
+    },
+    {
+      "id": "quest.wear_blue_colored_leather_chestplate",
+      "name": "Wear Blue Colored Leather Chestplate",
+      "description": "Wear Blue Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "blue leather chestplate"
+    },
+    {
+      "id": "quest.wear_blue_colored_leather_helmet",
+      "name": "Wear Blue Colored Leather Helmet",
+      "description": "Wear Blue Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "blue leather helmet"
+    },
+    {
+      "id": "quest.wear_blue_colored_leather_leggings",
+      "name": "Wear Blue Colored Leather Leggings",
+      "description": "Wear Blue Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "blue leather leggings"
+    },
+    {
+      "id": "quest.wear_brown_colored_leather_boots",
+      "name": "Wear Brown Colored Leather Boots",
+      "description": "Wear Brown Colored Leather Boots",
+      "rarity": "uncommon",
+      "category": "leather",
+      "extra": "",
+      "texture": "brown leather boots"
+    },
+    {
+      "id": "quest.wear_brown_colored_leather_chestplate",
+      "name": "Wear Brown Colored Leather Chestplate",
+      "description": "Wear Brown Colored Leather Chestplate",
+      "rarity": "uncommon",
+      "category": "leather",
+      "extra": "",
+      "texture": "brown leather chestplate"
+    },
+    {
+      "id": "quest.wear_brown_colored_leather_helmet",
+      "name": "Wear Brown Colored Leather Helmet",
+      "description": "Wear Brown Colored Leather Helmet",
+      "rarity": "uncommon",
+      "category": "leather",
+      "extra": "",
+      "texture": "brown leather helmet"
+    },
+    {
+      "id": "quest.wear_brown_colored_leather_leggings",
+      "name": "Wear Brown Colored Leather Leggings",
+      "description": "Wear Brown Colored Leather Leggings",
+      "rarity": "uncommon",
+      "category": "leather",
+      "extra": "",
+      "texture": "brown leather leggings"
+    },
+    {
+      "id": "quest.wear_cyan_colored_leather_boots",
+      "name": "Wear Cyan Colored Leather Boots",
+      "description": "Wear Cyan Colored Leather Boots",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "cyan leather boots"
+    },
+    {
+      "id": "quest.wear_cyan_colored_leather_chestplate",
+      "name": "Wear Cyan Colored Leather Chestplate",
+      "description": "Wear Cyan Colored Leather Chestplate",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "cyan leather chestplate"
+    },
+    {
+      "id": "quest.wear_cyan_colored_leather_helmet",
+      "name": "Wear Cyan Colored Leather Helmet",
+      "description": "Wear Cyan Colored Leather Helmet",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "cyan leather helmet"
+    },
+    {
+      "id": "quest.wear_cyan_colored_leather_leggings",
+      "name": "Wear Cyan Colored Leather Leggings",
+      "description": "Wear Cyan Colored Leather Leggings",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "cyan leather leggings"
+    },
+    {
+      "id": "quest.wear_gray_colored_leather_boots",
+      "name": "Wear Gray Colored Leather Boots",
+      "description": "Wear Gray Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "gray leather boots"
+    },
+    {
+      "id": "quest.wear_gray_colored_leather_chestplate",
+      "name": "Wear Gray Colored Leather Chestplate",
+      "description": "Wear Gray Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "gray leather chestplate"
+    },
+    {
+      "id": "quest.wear_gray_colored_leather_helmet",
+      "name": "Wear Gray Colored Leather Helmet",
+      "description": "Wear Gray Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "gray leather helmet"
+    },
+    {
+      "id": "quest.wear_gray_colored_leather_leggings",
+      "name": "Wear Gray Colored Leather Leggings",
+      "description": "Wear Gray Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "gray leather leggings"
+    },
+    {
+      "id": "quest.wear_green_colored_leather_boots",
+      "name": "Wear Green Colored Leather Boots",
+      "description": "Wear Green Colored Leather Boots",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "green leather boots"
+    },
+    {
+      "id": "quest.wear_green_colored_leather_chestplate",
+      "name": "Wear Green Colored Leather Chestplate",
+      "description": "Wear Green Colored Leather Chestplate",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "green leather chestplate"
+    },
+    {
+      "id": "quest.wear_green_colored_leather_helmet",
+      "name": "Wear Green Colored Leather Helmet",
+      "description": "Wear Green Colored Leather Helmet",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "green leather helmet"
+    },
+    {
+      "id": "quest.wear_green_colored_leather_leggings",
+      "name": "Wear Green Colored Leather Leggings",
+      "description": "Wear Green Colored Leather Leggings",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "green leather leggings"
+    },
+    {
+      "id": "quest.wear_iron_armor_set",
+      "name": "Wear Iron Armor Set",
+      "description": "Wear a full set of iron armor",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between iron boots, leggings, chestplate, helmet"
+    },
+    {
+      "id": "quest.wear_copper_armor_set",
+      "name": "Wear Copper Armor Set",
+      "description": "wear a full set of copper armor",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between copper boots, leggings, chestplate, helmet with small armor stand in corner"
+    },
+    {
+      "id": "quest.wear_leather_armor_set",
+      "name": "Wear Leather Armor Set",
+      "description": "Wear a full set of leather armor",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "cycle between leather boots, leggings, chestplate, helmet"
+    },
+    {
+      "id": "quest.wear_light_blue_colored_leather_boots",
+      "name": "Wear Light Blue Colored Leather Boots",
+      "description": "Wear Light Blue Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored boots boots"
+    },
+    {
+      "id": "quest.wear_light_blue_colored_leather_chestplate",
+      "name": "Wear Light Blue Colored Leather Chestplate",
+      "description": "Wear Light Blue Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored chestplate chestplate"
+    },
+    {
+      "id": "quest.wear_light_blue_colored_leather_helmet",
+      "name": "Wear Light Blue Colored Leather Helmet",
+      "description": "Wear Light Blue Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored helmet helmet"
+    },
+    {
+      "id": "quest.wear_light_blue_colored_leather_leggings",
+      "name": "Wear Light Blue Colored Leather Leggings",
+      "description": "Wear Light Blue Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored leggings leggings"
+    },
+    {
+      "id": "quest.wear_light_gray_colored_leather_boots",
+      "name": "Wear Light Gray Colored Leather Boots",
+      "description": "Wear Light Gray Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored boots boots"
+    },
+    {
+      "id": "quest.wear_light_gray_colored_leather_chestplate",
+      "name": "Wear Light Gray Colored Leather Chestplate",
+      "description": "Wear Light Gray Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored chestplate chestplate"
+    },
+    {
+      "id": "quest.wear_light_gray_colored_leather_helmet",
+      "name": "Wear Light Gray Colored Leather Helmet",
+      "description": "Wear Light Gray Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored helmet helmet"
+    },
+    {
+      "id": "quest.wear_light_gray_colored_leather_leggings",
+      "name": "Wear Light Gray Colored Leather Leggings",
+      "description": "Wear Light Gray Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "light colored leggings leggings"
+    },
+    {
+      "id": "quest.wear_lime_colored_leather_boots",
+      "name": "Wear Lime Colored Leather Boots",
+      "description": "Wear Lime Colored Leather Boots",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "lime leather boots"
+    },
+    {
+      "id": "quest.wear_lime_colored_leather_chestplate",
+      "name": "Wear Lime Colored Leather Chestplate",
+      "description": "Wear Lime Colored Leather Chestplate",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "lime leather chestplate"
+    },
+    {
+      "id": "quest.wear_lime_colored_leather_helmet",
+      "name": "Wear Lime Colored Leather Helmet",
+      "description": "Wear Lime Colored Leather Helmet",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "lime leather helmet"
+    },
+    {
+      "id": "quest.wear_lime_colored_leather_leggings",
+      "name": "Wear Lime Colored Leather Leggings",
+      "description": "Wear Lime Colored Leather Leggings",
+      "rarity": "rare",
+      "category": "leather",
+      "extra": "",
+      "texture": "lime leather leggings"
+    },
+    {
+      "id": "quest.wear_magenta_colored_leather_boots",
+      "name": "Wear Magenta Colored Leather Boots",
+      "description": "Wear Magenta Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "magenta leather boots"
+    },
+    {
+      "id": "quest.wear_magenta_colored_leather_chestplate",
+      "name": "Wear Magenta Colored Leather Chestplate",
+      "description": "Wear Magenta Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "magenta leather chestplate"
+    },
+    {
+      "id": "quest.wear_magenta_colored_leather_helmet",
+      "name": "Wear Magenta Colored Leather Helmet",
+      "description": "Wear Magenta Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "magenta leather helmet"
+    },
+    {
+      "id": "quest.wear_magenta_colored_leather_leggings",
+      "name": "Wear Magenta Colored Leather Leggings",
+      "description": "Wear Magenta Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "magenta leather leggings"
+    },
+    {
+      "id": "quest.wear_orange_colored_leather_boots",
+      "name": "Wear Orange Colored Leather Boots",
+      "description": "Wear Orange Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "orange leather boots"
+    },
+    {
+      "id": "quest.wear_orange_colored_leather_chestplate",
+      "name": "Wear Orange Colored Leather Chestplate",
+      "description": "Wear Orange Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "orange leather chestplate"
+    },
+    {
+      "id": "quest.wear_orange_colored_leather_helmet",
+      "name": "Wear Orange Colored Leather Helmet",
+      "description": "Wear Orange Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "orange leather helmet"
+    },
+    {
+      "id": "quest.wear_orange_colored_leather_leggings",
+      "name": "Wear Orange Colored Leather Leggings",
+      "description": "Wear Orange Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "orange leather leggings"
+    },
+    {
+      "id": "quest.wear_pink_colored_leather_boots",
+      "name": "Wear Pink Colored Leather Boots",
+      "description": "Wear Pink Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "pink leather boots"
+    },
+    {
+      "id": "quest.wear_pink_colored_leather_chestplate",
+      "name": "Wear Pink Colored Leather Chestplate",
+      "description": "Wear Pink Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "pink leather chestplate"
+    },
+    {
+      "id": "quest.wear_pink_colored_leather_helmet",
+      "name": "Wear Pink Colored Leather Helmet",
+      "description": "Wear Pink Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "pink leather helmet"
+    },
+    {
+      "id": "quest.wear_pink_colored_leather_leggings",
+      "name": "Wear Pink Colored Leather Leggings",
+      "description": "Wear Pink Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "pink leather leggings"
+    },
+    {
+      "id": "quest.wear_purple_colored_leather_boots",
+      "name": "Wear Purple Colored Leather Boots",
+      "description": "Wear Purple Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "purple leather boots"
+    },
+    {
+      "id": "quest.wear_purple_colored_leather_chestplate",
+      "name": "Wear Purple Colored Leather Chestplate",
+      "description": "Wear Purple Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "purple leather chestplate"
+    },
+    {
+      "id": "quest.wear_purple_colored_leather_helmet",
+      "name": "Wear Purple Colored Leather Helmet",
+      "description": "Wear Purple Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "purple leather helmet"
+    },
+    {
+      "id": "quest.wear_purple_colored_leather_leggings",
+      "name": "Wear Purple Colored Leather Leggings",
+      "description": "Wear Purple Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "purple leather leggings"
+    },
+    {
+      "id": "quest.wear_red_colored_leather_boots",
+      "name": "Wear Red Colored Leather Boots",
+      "description": "Wear Red Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "red leather boots"
+    },
+    {
+      "id": "quest.wear_red_colored_leather_chestplate",
+      "name": "Wear Red Colored Leather Chestplate",
+      "description": "Wear Red Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "red leather chestplate"
+    },
+    {
+      "id": "quest.wear_red_colored_leather_helmet",
+      "name": "Wear Red Colored Leather Helmet",
+      "description": "Wear Red Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "red leather helmet"
+    },
+    {
+      "id": "quest.wear_red_colored_leather_leggings",
+      "name": "Wear Red Colored Leather Leggings",
+      "description": "Wear Red Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "red leather leggings"
+    },
+    {
+      "id": "quest.wear_white_colored_leather_boots",
+      "name": "Wear White Colored Leather Boots",
+      "description": "Wear White Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "white leather boots"
+    },
+    {
+      "id": "quest.wear_white_colored_leather_chestplate",
+      "name": "Wear White Colored Leather Chestplate",
+      "description": "Wear White Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "white leather chestplate"
+    },
+    {
+      "id": "quest.wear_white_colored_leather_helmet",
+      "name": "Wear White Colored Leather Helmet",
+      "description": "Wear White Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "white leather helmet"
+    },
+    {
+      "id": "quest.wear_white_colored_leather_leggings",
+      "name": "Wear White Colored Leather Leggings",
+      "description": "Wear White Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "white leather leggings"
+    },
+    {
+      "id": "quest.wear_yellow_colored_leather_boots",
+      "name": "Wear Yellow Colored Leather Boots",
+      "description": "Wear Yellow Colored Leather Boots",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "yellow leather boots"
+    },
+    {
+      "id": "quest.wear_yellow_colored_leather_chestplate",
+      "name": "Wear Yellow Colored Leather Chestplate",
+      "description": "Wear Yellow Colored Leather Chestplate",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "yellow leather chestplate"
+    },
+    {
+      "id": "quest.wear_yellow_colored_leather_helmet",
+      "name": "Wear Yellow Colored Leather Helmet",
+      "description": "Wear Yellow Colored Leather Helmet",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "yellow leather helmet"
+    },
+    {
+      "id": "quest.wear_yellow_colored_leather_leggings",
+      "name": "Wear Yellow Colored Leather Leggings",
+      "description": "Wear Yellow Colored Leather Leggings",
+      "rarity": "common",
+      "category": "leather",
+      "extra": "",
+      "texture": "yellow leather leggings"
+    },
+    {
+      "id": "quest.write_a_book",
+      "name": "Write a Book",
+      "description": "Write a book and sign it",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "book and quil with small feather in corner"
+    },
+    {
+      "id": "quest.an_opponent_catches_on_fire",
+      "name": "An Opponent Catches on Fire",
+      "description": "an opponent catches fire",
+      "rarity": "rare",
+      "category": "compete",
+      "extra": "if an opposing team member catches fire then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who caught fire gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "fire texture with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_dies",
+      "name": "An Opponent Dies",
+      "description": "an opponent dies",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member dies then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who died gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "skull texture with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_dies_3_times",
+      "name": "An Opponent Dies 3 Times",
+      "description": "an opponent dies 3 times",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "if a single team dies 3 times then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who died 3 times gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "skull texture with number 3 and small barrier block in corner"
+    },
+    {
+      "id": "quest.hit_an_opponent_with_a_snowball",
+      "name": "Hit an opponent with a snowball",
+      "description": "hit an opponent with a snowball",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "",
+      "texture": "player head with small snowball in corner"
+    },
+    {
+      "id": "quest.an_opponent_jumps",
+      "name": "An Opponent Jumps",
+      "description": "an opponent jumps",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member jumps then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who jumps gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "jump boost texture with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_obtains_a_crafting_table",
+      "name": "An Opponent Obtains a Crafting Table",
+      "description": "an opponent obtains a crafting table",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member obtains a crafting table then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who obtains a crafting table gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "crafting table with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_obtains_obsidian",
+      "name": "An Opponent Obtains Obsidian",
+      "description": "an opponent obtains obsidian",
+      "rarity": "rare",
+      "category": "compete",
+      "extra": "if an opposing team member obtains a obsidian then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who obtains obsidian gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "obsidian with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_obtains_wheat_seeds",
+      "name": "An Opponent Obtains wheat Seeds",
+      "description": "an opponent obtains wheat seeds",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member obtains wheat seeds then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who obtains wheat seeds gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "wheat seed with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_takes_100_total_damage",
+      "name": "An Opponent Takes 100 Total Damage",
+      "description": "opponent takes 100 total damage",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member takes 100 total damage then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who takes 100 total damage gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "heart texture with number 100 and small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_takes_fall_damage",
+      "name": "An Opponent Takes Fall Damage",
+      "description": "an opponent takes fall damage",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member takes fall damage then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who takes fall damage gets this goal! Can only appear if more than 1 team is in play",
+      "texture": "levitation effect texture with small barrier block in corner"
+    },
+    {
+      "id": "quest.an_opponent_touches_water",
+      "name": "An Opponent Touches Water",
+      "description": "an opponent touches water",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "if an opposing team member touches water then all other teams get this goal, including on lockout style modes, ensure every other team but the first team who touches water gets this goal! Can only appear if more than 1 team is in play. Being in a boat should not count as touching water.",
+      "texture": "water texture with small barrier block in corner"
+    },
+    {
+      "id": "quest.breed_4_unique_animals",
+      "name": "Breed 4 Unique Animals",
+      "description": "breed 4 unique animals",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "cycle between chicken, pig, cow, cat, ocelott, wolf, horse, goat, sheep, parrot, hoglin, strider textures with number 4 and respective items they requore to breed also cycling in small in corner"
+    },
+    {
+      "id": "quest.breed_6_unique_animals",
+      "name": "Breed 6 Unique Animals",
+      "description": "breed 6 unique animals",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "cycle between chicken, pig, cow, cat, ocelott, wolf, horse, goat, sheep, parrot, hoglin, strider textures with number 6 and respective items they requore to breed also cycling in small in corner"
+    },
+    {
+      "id": "quest.breed_8_unique_animals",
+      "name": "Breed 8 Unique Animals",
+      "description": "breed 8 unique animals",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "cycle between chicken, pig, cow, cat, ocelott, wolf, horse, goat, sheep, parrot, hoglin, strider textures with number 8 and respective items they requore to breed also cycling in small in corner"
+    },
+    {
+      "id": "quest.breed_fox",
+      "name": "Breed Fox",
+      "description": "breed a fox",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "fox texture with small sweet berry in corner"
+    },
+    {
+      "id": "quest.breed_hoglin",
+      "name": "Breed Hoglin",
+      "description": "breed a hoglin",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "hoglin texture with crimson fungus in corner"
+    },
+    {
+      "id": "quest.breed_horse",
+      "name": "Breed Horse",
+      "description": "breed a horse",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "horse texture with small golden carrot in corner"
+    },
+    {
+      "id": "quest.breed_ocelot",
+      "name": "Breed Ocelot",
+      "description": "breed a ocelot",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "ocelot texture with small cod in corner"
+    },
+    {
+      "id": "quest.breed_rabbit",
+      "name": "Breed Rabbit",
+      "description": "breed a rabbit",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "rabbit texture with small carrot in corner"
+    },
+    {
+      "id": "quest.breed_strider",
+      "name": "Breed Strider",
+      "description": "breed a strider",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "strider texture with small warped fungus in corner"
+    },
+    {
+      "id": "quest.obtain_a_potion_of_healing",
+      "name": "obtain a potion of healing",
+      "description": "obtain a potion of healing",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "potion of healing"
+    },
+    {
+      "id": "quest.obtain_a_potion_of_invisibility",
+      "name": "Obtain a potion of invisibility",
+      "description": "obtain a potion of invisibility",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "potion of invisibility"
+    },
+    {
+      "id": "quest.obtain_a_potion_of_swiftness",
+      "name": "Obtain a potion of swiftness",
+      "description": "obtain a potion of swiftness",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "potion of swiftness"
+    },
+    {
+      "id": "quest.charge_a_respawn_anchor_to_max",
+      "name": "Charge a Respawn Anchor to Max",
+      "description": "charge a respawn anchor to max",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "respawn anchor with small glowstone block in corner"
+    },
+    {
+      "id": "quest.deal_400_damage",
+      "name": "Deal 400 Damage",
+      "description": "deal 400 damage",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "",
+      "texture": "heart texture with number 400 and small sword in corner"
+    },
+    {
+      "id": "quest.die_by_anvil",
+      "name": "Die by Anvil",
+      "description": "die to an anvil",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "anvil with small skull in corner"
+    },
+    {
+      "id": "quest.die_by_firework_rocket",
+      "name": "Die by Firework Rocket",
+      "description": "die to a firework rocket",
+      "rarity": "uncommon",
+      "category": "death",
+      "extra": "",
+      "texture": "firework with small skull in corner"
+    },
+    {
+      "id": "quest.die_to_falling_stalactite",
+      "name": "Die to Falling Stalactite",
+      "description": "die to a falling stalactite",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "pointed dripstone with small skull in corner"
+    },
+    {
+      "id": "quest.eat_10_unique_foods",
+      "name": "Eat 10 Unique Foods",
+      "description": "eat 10 unique foods",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled can only appear when hunger is enabled",
+      "texture": "hunger bar texture with number 10"
+    },
+    {
+      "id": "quest.eat_5_unique_foods",
+      "name": "Eat 5 Unique Foods",
+      "description": "eat 5 unique foods",
+      "rarity": "uncommon",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled can only appear when hunger is enabled",
+      "texture": "hunger bar texture with number 5"
+    },
+    {
+      "id": "quest.eat_a_glow_berry",
+      "name": "Eat a glow berry",
+      "description": "eat a glow berry",
+      "rarity": "uncommon",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled can only appear when hunger is enabled",
+      "texture": "glow berry with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.eat_cookie",
+      "name": "Eat Cookie",
+      "description": "eat a cookie",
+      "rarity": "uncommon",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled can only appear when hunger is enabled",
+      "texture": "cookie with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.eat_pumpkin_pie",
+      "name": "Eat Pumpkin Pie",
+      "description": "eat a pumpkin pie",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled can only appear when hunger is enabled",
+      "texture": "pumpkin pie with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.eat_rabbit_stew",
+      "name": "Eat Rabbit Stew",
+      "description": "eat a rabbit stew",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled can only appear when hunger is enabled",
+      "texture": "rabbit stew with small hunger bar in corner"
+    },
+    {
+      "id": "quest.enter_nether",
+      "name": "Enter Nether",
+      "description": "enter the nether",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "nether portal texture"
+    },
+    {
+      "id": "quest.fill_inventory_with_unique_items",
+      "name": "Fill Inventory with Unique Items",
+      "description": "fill your inventory with unique items",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "chest with infinite symbol"
+    },
+    {
+      "id": "quest.find_a_bastion",
+      "name": "Find a Bastion",
+      "description": "enter a bastion",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "blackstone with piglin head in corner"
+    },
+    {
+      "id": "quest.find_a_fortress",
+      "name": "Find a Fortress",
+      "description": "enter a nether fortress",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "nether bricks with small blaze texture in corner"
+    },
+    {
+      "id": "quest.full_set_of_diamond_tools",
+      "name": "Full Set of Diamond Tools",
+      "description": "obtain a full set of diamond tools",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between diamond shovel, hoe, pickaxe, axe, sword"
+    },
+    {
+      "id": "quest.obtain_all_netherite_tools",
+      "name": "Obtain All Netherite Tools",
+      "description": "obtain all netherite tools",
+      "rarity": "mythic",
+      "category": "nether",
+      "extra": "",
+      "texture": "cycle between netherite shovel, hoe, sword, axe, pickaxe, spear"
+    },
+    {
+      "id": "quest.get_25_advancements",
+      "name": "Get 25 Advancements",
+      "description": "get 25 advancements",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "advancement icon with number 25"
+    },
+    {
+      "id": "quest.get_3_status_effects_at_once",
+      "name": "Get 3 Status Effects at Once",
+      "description": "get 3 status effects at once",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled only appear when effects mode is disabled",
+      "texture": "cycle through effect textures with number 3"
+    },
+    {
+      "id": "quest.get_bullseye_advancement",
+      "name": "Get \\\"Bullseye\\\" Advancement",
+      "description": "get the bullseye advancement",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "advancement icon"
+    },
+    {
+      "id": "quest.get_this_boat_has_legs_advancement",
+      "name": "Get \\\"This Boat Has Legs\\\" Advancement",
+      "description": "get the this boat has legs advancement",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "strider texture with small saddle in corner"
+    },
+    {
+      "id": "quest.get_any_spyglass_advancement",
+      "name": "Get any Spyglass Advancement",
+      "description": "get any spyglass advancement",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "spyglass corner with cycling small parrot and ghast textures in corner"
+    },
+    {
+      "id": "quest.get_bad_omen",
+      "name": "Get Bad Omen",
+      "description": "get the bad omen effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled",
+      "texture": "bad omen effect texture"
+    },
+    {
+      "id": "quest.get_glowing",
+      "name": "Get Glowing",
+      "description": "get the glowing effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when effects mode is disabled",
+      "texture": "glowing effect texture"
+    },
+    {
+      "id": "quest.get_mining_fatigue",
+      "name": "Get Mining Fatigue",
+      "description": "get the mining fatigue effect",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled",
+      "texture": "mining fatique texture"
+    },
+    {
+      "id": "quest.get_nausea",
+      "name": "Get Nausea",
+      "description": "get_nausea",
+      "rarity": "rare",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when effects mode is disabled",
+      "texture": "nausea effect texture"
+    },
+    {
+      "id": "quest.kill_10_unique_hostile_mobs",
+      "name": "Kill 10 Unique Hostile Mobs",
+      "description": "kill 10 unique hostile mobs",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "cycle between all hostile mob textures with number 10 with small sword in corner"
+    },
+    {
+      "id": "quest.kill_100_mobs",
+      "name": "Kill 100 Mobs",
+      "description": "kill any 100 mobs",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "",
+      "texture": "cycle between many mob textures with number 100 with small sword in corner"
+    },
+    {
+      "id": "quest.kill_20_arthropods",
+      "name": "Kill 20 Arthropods",
+      "description": "kill 20 arthropods",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "",
+      "texture": "cycle between spider, cave spider, silverfish, endermite, and bee textures with number 20 with mini sword in corner"
+    },
+    {
+      "id": "quest.kill_30_undead_mobs",
+      "name": "Kill 30 Undead Mobs",
+      "description": "kill 30 undead mobs",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "cycle between zombie, skeleton, wither skeleton, zombie villager, drowned textures with number 30 with small sword in corner"
+    },
+    {
+      "id": "quest.kill_7_unique_hostile_mobs",
+      "name": "Kill 7 Unique Hostile Mobs",
+      "description": "kill 7 unique hostile mobs",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "cycle between many hostile mobs with number 7 with small sword in corner"
+    },
+    {
+      "id": "quest.kill_guardian",
+      "name": "Kill Guardian",
+      "description": "kill a guardian",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "guardian texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_stray",
+      "name": "Kill Stray",
+      "description": "kill a stray",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "stray texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_an_opponent",
+      "name": "Kill an opponent",
+      "description": "kill a player on an opposing team",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "Can only appear if rtp is disabled Can only appear if pvp is enabled can only appear when both rtp is disabled and pvp is enabled",
+      "texture": "player head with small sword in corner"
+    },
+    {
+      "id": "quest.kill_witch",
+      "name": "Kill Witch",
+      "description": "kill a witch",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "witch texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_zoglin",
+      "name": "Kill Zoglin",
+      "description": "kill a zoglin",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "can only appear when hostilemobs are enabled",
+      "texture": "zoglin texture with mini sword in corner"
+    },
+    {
+      "id": "quest.mine_diamond_ore",
+      "name": "Mine Diamond Ore",
+      "description": "mine diamond ore",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "diamond ore and diamond deepslate ore with mini pickaxe in corner"
+    },
+    {
+      "id": "quest.mine_mob_spawner",
+      "name": "Mine Mob Spawner",
+      "description": "mine a mob spawner",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "mob spawner with mini pickaxe in corner"
+    },
+    {
+      "id": "quest.obtain_5_types_of_saplings",
+      "name": "Obtain 5 Types of Saplings",
+      "description": "obtain 5 types of saplings",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle through all sapling types with number 5"
+    },
+    {
+      "id": "quest.obtain_6_unique_flowers",
+      "name": "Obtain 6 Unique Flowers",
+      "description": "obtain 6 unique flowers",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle through all flower types with number 6"
+    },
+    {
+      "id": "quest.obtain_64_black_concrete",
+      "name": "Obtain 64 Black Concrete",
+      "description": "Obtain 64 Black Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "black concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_black_wool",
+      "name": "Obtain 64 Black Wool",
+      "description": "Obtain 64 Black Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "black wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_blue_concrete",
+      "name": "Obtain 64 Blue Concrete",
+      "description": "Obtain 64 Blue Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "blue concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_blue_wool",
+      "name": "Obtain 64 Blue Wool",
+      "description": "Obtain 64 Blue Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "blue wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_brown_concrete",
+      "name": "Obtain 64 Brown Concrete",
+      "description": "Obtain 64 Brown Concrete",
+      "rarity": "rare",
+      "category": "64",
+      "extra": "",
+      "texture": "brown concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_brown_wool",
+      "name": "Obtain 64 Brown Wool",
+      "description": "Obtain 64 Brown Wool",
+      "rarity": "rare",
+      "category": "64",
+      "extra": "",
+      "texture": "brown wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_cyan_concrete",
+      "name": "Obtain 64 Cyan Concrete",
+      "description": "Obtain 64 Cyan Concrete",
+      "rarity": "epic",
+      "category": "64",
+      "extra": "",
+      "texture": "cyan concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_cyan_wool",
+      "name": "Obtain 64 Cyan Wool",
+      "description": "Obtain 64 Cyan Wool",
+      "rarity": "epic",
+      "category": "64",
+      "extra": "",
+      "texture": "cyan wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_gray_concrete",
+      "name": "Obtain 64 Gray Concrete",
+      "description": "Obtain 64 Gray Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "gray concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_gray_wool",
+      "name": "Obtain 64 Gray Wool",
+      "description": "Obtain 64 Gray Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "gray wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_green_concrete",
+      "name": "Obtain 64 Green Concrete",
+      "description": "Obtain 64 Green Concrete",
+      "rarity": "epic",
+      "category": "64",
+      "extra": "",
+      "texture": "green concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_green_wool",
+      "name": "Obtain 64 Green Wool",
+      "description": "Obtain 64 Green Wool",
+      "rarity": "epic",
+      "category": "64",
+      "extra": "",
+      "texture": "green wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_blue_concrete",
+      "name": "Obtain 64 Light Blue Concrete",
+      "description": "Obtain 64 Light Blue Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "light blue concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_blue_wool",
+      "name": "Obtain 64 Light Blue Wool",
+      "description": "Obtain 64 Light Blue Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "light blue wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_gray_concrete",
+      "name": "Obtain 64 Light Gray Concrete",
+      "description": "Obtain 64 Light Gray Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "light gray concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_gray_wool",
+      "name": "Obtain 64 Light Gray Wool",
+      "description": "Obtain 64 Light Gray Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "light gray wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_lime_concrete",
+      "name": "Obtain 64 Lime Concrete",
+      "description": "Obtain 64 Lime Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "lime concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_lime_wool",
+      "name": "Obtain 64 Lime Wool",
+      "description": "Obtain 64 Lime Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "lime wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_magenta_concrete",
+      "name": "Obtain 64 Magenta Concrete",
+      "description": "Obtain 64 Magenta Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "magenta concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_magenta_wool",
+      "name": "Obtain 64 Magenta Wool",
+      "description": "Obtain 64 Magenta Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "magenta wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_orange_concrete",
+      "name": "Obtain 64 Orange Concrete",
+      "description": "Obtain 64 Orange Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "orange concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_orange_wool",
+      "name": "Obtain 64 Orange Wool",
+      "description": "Obtain 64 Orange Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "orange wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_pink_concrete",
+      "name": "Obtain 64 Pink Concrete",
+      "description": "Obtain 64 Pink Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "pink concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_pink_wool",
+      "name": "Obtain 64 Pink Wool",
+      "description": "Obtain 64 Pink Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "pink wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_purple_concrete",
+      "name": "Obtain 64 Purple Concrete",
+      "description": "Obtain 64 Purple Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "purple concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_purple_wool",
+      "name": "Obtain 64 Purple Wool",
+      "description": "Obtain 64 Purple Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "purple wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_red_concrete",
+      "name": "Obtain 64 Red Concrete",
+      "description": "Obtain 64 Red Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "red concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_red_wool",
+      "name": "Obtain 64 Red Wool",
+      "description": "Obtain 64 Red Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "red wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_white_concrete",
+      "name": "Obtain 64 White Concrete",
+      "description": "Obtain 64 White Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "white concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_white_wool",
+      "name": "Obtain 64 White Wool",
+      "description": "Obtain 64 White Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "white wool with number 64"
+    },
+    {
+      "id": "quest.obtain_64_yellow_concrete",
+      "name": "Obtain 64 Yellow Concrete",
+      "description": "Obtain 64 Yellow Concrete",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "yellow concrete with number 64"
+    },
+    {
+      "id": "quest.obtain_64_yellow_wool",
+      "name": "Obtain 64 Yellow Wool",
+      "description": "Obtain 64 Yellow Wool",
+      "rarity": "uncommon",
+      "category": "64",
+      "extra": "",
+      "texture": "yellow wool with number 64"
+    },
+    {
+      "id": "quest.obtain_every_type_of_horse_armor",
+      "name": "Obtain every type of horse armor",
+      "description": "obtain every type of horse armor",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between leather, gold, and diamond horse armor"
+    },
+    {
+      "id": "quest.obtain_every_type_of_seed",
+      "name": "Obtain Every Type of Seed",
+      "description": "obtain every type of seed",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between every type of seed"
+    },
+    {
+      "id": "quest.obtain_more_hoppers_than_the_opponent",
+      "name": "Obtain More Hoppers than the opponent",
+      "description": "have more hoppers than the opponent",
+      "rarity": "rare",
+      "category": "compete",
+      "extra": "can only appear if more than one team is in play. In all modes, this quest is always given to the current leader and can be stolen at anytime should another team take the lead in this goal",
+      "texture": ""
+    },
+    {
+      "id": "quest.reach_level_15",
+      "name": "Reach Level 15",
+      "description": "reach level 15",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "exp bar texture with number 15"
+    },
+    {
+      "id": "quest.ride_horse_with_a_saddle",
+      "name": "Ride Horse with a Saddle",
+      "description": "ride a horse with a saddle",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "horse texture with small saddle in corner"
+    },
+    {
+      "id": "quest.ride_pig_with_a_carrot_on_a_stick",
+      "name": "Ride Pig with a Carrot on a Stick",
+      "description": "ride a pig with a carrot on a stick",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "pig texture with small carrot on a stick in corner"
+    },
+    {
+      "id": "quest.spawn_a_chicken_with_an_egg",
+      "name": "Spawn a Chicken with an Egg",
+      "description": "spawn a chicken by throwing an egg",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "chicken texture with small egg in corner"
+    },
+    {
+      "id": "quest.sprint_1km",
+      "name": "Sprint 1km",
+      "description": "sprint 1km",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "swiftness effect texture with 1km"
+    },
+    {
+      "id": "quest.take_200_damage",
+      "name": "Take 200 Damage",
+      "description": "take 200 damage",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "heart texture with 200 with small player head in corner"
+    },
+    {
+      "id": "quest.use_a_jukebox_to_play_a_music_disc",
+      "name": "Use a Jukebox to play a Music Disc",
+      "description": "use a jukebox to play a music disc",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "jukebox with mini music disc in corner"
+    },
+    {
+      "id": "quest.use_an_anvil",
+      "name": "Use an Anvil",
+      "description": "use an anvil",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "anvil with mini nametag in corner"
+    },
+    {
+      "id": "quest.use_an_enchanting_table",
+      "name": "Use an Enchanting Table",
+      "description": "use an enchantment table to enchant something",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "enchantment table with mini enchantment bottle in corner"
+    },
+    {
+      "id": "quest.use_glow_ink_on_a_crimson_sign",
+      "name": "Use glow ink on a crimson sign",
+      "description": "use glow ink on a crimson sign",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "crimson sign with small glow ink sac in corner"
+    },
+    {
+      "id": "quest.visit_all_nether_biomes",
+      "name": "Visit All Nether Biomes",
+      "description": "visit all of the nether biomes",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between crimson log, warped log, soul soil, netherack, and basalt with mini leather boots in corner"
+    },
+    {
+      "id": "quest.wear_a_carved_pumpkin_for_5_minutes",
+      "name": "Wear a carved pumpkin for 5 minutes",
+      "description": "wear a carved pumpkin",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "carved pumpkin with player head in corner"
+    },
+    {
+      "id": "quest.wear_gold_armor_set",
+      "name": "Wear Gold Armor Set",
+      "description": "wear a full set of gold armor",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between gold boots, leggings, chestplate, and helmet"
+    },
+    {
+      "id": "quest.obtain_a_potion_of_leaping",
+      "name": "obtain a potion of leaping",
+      "description": "obtain a potion of leaping",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled",
+      "texture": "potion of leaping"
+    },
+    {
+      "id": "quest.obtain_a_lingering_potion",
+      "name": "obtain a lingering potion",
+      "description": "obtain a lingering potion",
+      "rarity": "mythic",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled",
+      "texture": "lingering potion of regeneration"
+    },
+    {
+      "id": "quest.die_by_magic",
+      "name": "Die by Magic",
+      "description": "die by magic",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled",
+      "texture": "potion of harming with small skull in corner"
+    },
+    {
+      "id": "quest.eat_20_unique_foods",
+      "name": "Eat 20 Unique Foods",
+      "description": "eat 20 unique foods",
+      "rarity": "epic",
+      "category": "food",
+      "extra": "",
+      "texture": "hunger bar texture with number 20"
+    },
+    {
+      "id": "quest.eat_chorus_fruit",
+      "name": "Eat Chorus Fruit",
+      "description": "eat a chorus fruit",
+      "rarity": "mythic",
+      "category": "food",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "chorus fruit with small hunger bar texture in corner"
+    },
+    {
+      "id": "quest.enter_end",
+      "name": "Enter End",
+      "description": "enter the end",
+      "rarity": "mythic",
+      "category": "travel",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "end portal frame"
+    },
+    {
+      "id": "quest.find_a_badlands_biome",
+      "name": "Find a Badlands Biome",
+      "description": "find a badlands biome",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "terracotta with small leather boots in corner"
+    },
+    {
+      "id": "quest.find_a_mushroom_biome",
+      "name": "Find a Mushroom Biome",
+      "description": "find a mushroom biome",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "mycelium block with small leather boots in corner"
+    },
+    {
+      "id": "quest.find_a_stronghold",
+      "name": "Find a Stronghold",
+      "description": "enter the stronghold",
+      "rarity": "mythic",
+      "category": "travel",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "stone brick with small leather boots in corner"
+    },
+    {
+      "id": "quest.find_an_end_city",
+      "name": "Find an End City",
+      "description": "find an end city",
+      "rarity": "mythic",
+      "category": "travel",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "purpur block with small leather boots in corner"
+    },
+    {
+      "id": "quest.find_an_ice_spike_biome",
+      "name": "Find an Ice Spike Biome",
+      "description": "find an ice spike biome",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "ice with small leather boots in corner"
+    },
+    {
+      "id": "quest.get_35_advancements",
+      "name": "Get 35 Advancements",
+      "description": "get 35 advancements",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "advancement icon with number 35"
+    },
+    {
+      "id": "quest.get_6_status_effects_at_once",
+      "name": "Get 6 Status Effects at Once",
+      "description": "get 6 status effects at once",
+      "rarity": "epic",
+      "category": "effect",
+      "extra": "",
+      "texture": "cycle between effect textures with number 6"
+    },
+    {
+      "id": "quest.get_levitation",
+      "name": "Get Levitation",
+      "description": "get levitation",
+      "rarity": "mythic",
+      "category": "effect",
+      "extra": "Can only appear if effects are disabled can only appear when both hostilemobs are enabled and effects mode disabled",
+      "texture": "levitation effect"
+    },
+    {
+      "id": "quest.have_more_levels_than_the_opponent",
+      "name": "Have More Levels than the opponent",
+      "description": "have more levels than the opponent",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "can only appear if more than one team is in play. In all modes, this quest is always given to the current leader and can be stolen at anytime should another team take the lead in this goal",
+      "texture": "experience bar texture with small jump boost effect texture in corner"
+    },
+    {
+      "id": "quest.kill_15_unique_hostile_mobs",
+      "name": "Kill 15 Unique Hostile Mobs",
+      "description": "kill 15 unique hostile mobs",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "cycle through many hostile mob textures with the number 15 with small sword in corner"
+    },
+    {
+      "id": "quest.kill_elder_guardian",
+      "name": "Kill Elder Guardian",
+      "description": "kill an elder guardian",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "elder guardian texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_endermite",
+      "name": "Kill Endermite",
+      "description": "kill an endermite",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "endermite texture with small sword in corner"
+    },
+    {
+      "id": "quest.kill_silverfish",
+      "name": "Kill Silverfish",
+      "description": "kill a silverfish",
+      "rarity": "mythic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "silverfish with mini sword in corner"
+    },
+    {
+      "id": "quest.kill_the_ender_dragon",
+      "name": "Kill The Ender Dragon",
+      "description": "kill the ender dragon",
+      "rarity": "mythic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled can only appear when hostile mobs are enabled",
+      "texture": "enderdragon texture with small sword in corner"
+    },
+    {
+      "id": "quest.mine_emerald_ore",
+      "name": "Mine Emerald Ore",
+      "description": "mine an emerald ore",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between emerald ore and emerald deepslate ore with small pickaxe in corner"
+    },
+    {
+      "id": "quest.obtain_every_type_of_axe",
+      "name": "Obtain Every Type of Axe",
+      "description": "obtain every type of axe",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between all axes"
+    },
+    {
+      "id": "quest.obtain_every_type_of_hoe",
+      "name": "Obtain Every Type of Hoe",
+      "description": "Obtain Every Type of Hoe",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between all hoes"
+    },
+    {
+      "id": "quest.obtain_every_type_of_pickaxe",
+      "name": "Obtain Every Type of Pickaxe",
+      "description": "Obtain Every Type of Pickaxe",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between all pickaxes"
+    },
+    {
+      "id": "quest.obtain_every_type_of_shovel",
+      "name": "Obtain Every Type of Shovel",
+      "description": "Obtain Every Type of Shovel",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between all shovels"
+    },
+    {
+      "id": "quest.obtain_every_type_of_sword",
+      "name": "Obtain Every Type of Sword",
+      "description": "Obtain Every Type of Sword",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": ""
+    },
+    {
+      "id": "quest.reach_level_30",
+      "name": "Reach Level 30",
+      "description": "reach level 30",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "experience bar texture with number 30"
+    },
+    {
+      "id": "quest.sleep_alone_in_the_overworld",
+      "name": "Sleep Alone in the Overworld",
+      "description": "Sleep Alone in the Overworld",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "Can only appear if daylight cycle setting is not set to day only can only appear if there are two teams and two players playing and can only appear when daylight cycle setting is not set to day only",
+      "texture": "bed with zzz"
+    },
+    {
+      "id": "quest.use_a_smithing_table",
+      "name": "Use a Smithing Table",
+      "description": "use a smithing table",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "smithing table with small hammer texture in corner"
+    },
+    {
+      "id": "quest.wear_1_piece_of_chain_armor",
+      "name": "Wear 1 Piece of Chain Armor",
+      "description": "Wear 1 Piece of Chain Armor",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between chain boots, leggings, chestplate, and helmet with small armor stand in corner"
+    },
+    {
+      "id": "quest.wear_1_piece_of_netherite_armor",
+      "name": "Wear 1 Piece of Netherite Armor",
+      "description": "Wear 1 Piece of Netherite Armor",
+      "rarity": "legendary",
+      "category": "nether",
+      "extra": "",
+      "texture": "cycle between netherite boots, leggings, chestplate, and helmet with small armor stand in corner"
+    },
+    {
+      "id": "quest.wear_diamond_armor_set",
+      "name": "Wear Diamond Armor Set",
+      "description": "wear full diamond armor",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "cycle between diamond boots, leggings, chestplate, and helmet with small armor stand in corner"
+    },
+    {
+      "id": "quest.apply_3_unique_armor_trims",
+      "name": "Apply 3 Unique Armor Trims",
+      "description": "Player applies 3 unique armor trims to any armor",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Smithing table with cycling mini armor trim types in corner and number 3"
+    },
+    {
+      "id": "quest.apply_5_unique_armor_trims",
+      "name": "Apply 5 Unique Armor Trims",
+      "description": "Player applies 5 unique armor trims to any armor",
+      "rarity": "legendary",
+      "category": "travel",
+      "extra": "",
+      "texture": "Smithing table with cycling mini armor trim types in corner and number 5"
+    },
+    {
+      "id": "quest.apply_7_unique_armor_trims",
+      "name": "Apply 7 Unique Armor Trims",
+      "description": "Player applies 7 unique armor trims to any armor",
+      "rarity": "mythic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Smithing table with cycling mini armor trim types in corner and number 7"
+    },
+    {
+      "id": "quest.apply_armor_trim",
+      "name": "Apply Armor Trim",
+      "description": "Player applies an armor trim to any armor",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "Cycle between armor types (showing with armor trims added to them) with cycling mini armor trim types in corner"
+    },
+    {
+      "id": "quest.breed_armadillo",
+      "name": "Breed Armadillo",
+      "description": "Player breeds armadillos",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Armadillo mob with mini spider eye in corner"
+    },
+    {
+      "id": "quest.breed_mooshroom",
+      "name": "Breed Mooshroom",
+      "description": "Player breeds mooshrooms",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "Mooshroom mob with mini wheat in corner"
+    },
+    {
+      "id": "quest.breed_panda",
+      "name": "Breed Panda",
+      "description": "Player breeds pandas",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Panda mob with mini bamboo in corner"
+    },
+    {
+      "id": "quest.breed_turtle",
+      "name": "Breed Turtle",
+      "description": "Player breeds turtles",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "Turtle mob with mini sea grass in corner"
+    },
+    {
+      "id": "quest.breed_wolf",
+      "name": "Breed Wolf",
+      "description": "Player breeds wolf",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "Wolf mob with mini raw beef in corner"
+    },
+    {
+      "id": "quest.craft_25_unique_items",
+      "name": "Craft 25 Unique Items",
+      "description": "Player crafts 25 unique items",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "Crafting table with number 25"
+    },
+    {
+      "id": "quest.craft_50_unique_items",
+      "name": "Craft 50 Unique Items",
+      "description": "Player crafts 50 unique items",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "Crafting table with number 50"
+    },
+    {
+      "id": "quest.craft_75_unique_items",
+      "name": "Craft 75 Unique Items",
+      "description": "Player crafts 75 unique items",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "Crafting table with number 75"
+    },
+    {
+      "id": "quest.die_to_creaking",
+      "name": "Die to Creaking",
+      "description": "Player dies to a creaking",
+      "rarity": "epic",
+      "category": "death",
+      "extra": "Can only appear if hostile mobs are enabled Can only appear if daylight cycle setting is not set to day only Can only appear if both daylight cycle and hostile mobs are enabled.",
+      "texture": "Creaking mob with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_to_piglin_brute",
+      "name": "Die to Piglin Brute",
+      "description": "Player dies to a piglin brute",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "piglin brute mob with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_to_polar_bear",
+      "name": "Die to Polar Bear",
+      "description": "Player dies to a polar bear",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "polar bear mob with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_to_warden",
+      "name": "Die to warden",
+      "description": "A player dies to a warden",
+      "rarity": "epic",
+      "category": "death",
+      "extra": "",
+      "texture": "warden mob with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_to_witch",
+      "name": "Die to Witch",
+      "description": "Player dies to a witch",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "witch mob with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.do_caves_and_cliffs_advancement",
+      "name": "Do Caves and Cliffs Advancement",
+      "description": "Player completes the caves and cliffs advancement",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "Bedrock with mini levitation effect icon in corner"
+    },
+    {
+      "id": "quest.do_power_of_books_advancement",
+      "name": "Do Power of Books Advancement",
+      "description": "Player completes power of books advancement",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "Chiseled bookshelf with mini redstone comparator in corner"
+    },
+    {
+      "id": "quest.do_star_trader_advancement",
+      "name": "Do Star Trader Advancement",
+      "description": "Player completes star trader advancement",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "Villager mob with mini levitation effect icon in corner"
+    },
+    {
+      "id": "quest.eat_apple",
+      "name": "Eat Apple",
+      "description": "Player eats an apple",
+      "rarity": "common",
+      "category": "food",
+      "extra": "",
+      "texture": "Apple with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.eat_beetroot",
+      "name": "Eat Beetroot",
+      "description": "Player eats a beetroot",
+      "rarity": "uncommon",
+      "category": "food",
+      "extra": "",
+      "texture": "Beetroot with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.eat_carrot",
+      "name": "Eat Carrot",
+      "description": "Player eats a carrot",
+      "rarity": "common",
+      "category": "food",
+      "extra": "",
+      "texture": "Carrot with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.eat_dried_kelp",
+      "name": "Eat Dried Kelp",
+      "description": "Player eats dried kelp",
+      "rarity": "common",
+      "category": "food",
+      "extra": "",
+      "texture": "Dried kelp with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.eat_enchanted_golden_apple",
+      "name": "Eat Enchanted Golden Apple",
+      "description": "Player eats an enchanted golden apple",
+      "rarity": "epic",
+      "category": "food",
+      "extra": "",
+      "texture": "Enchanted golden apple with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.eat_spider_eye",
+      "name": "Eat Spider Eye",
+      "description": "Player eats a spider eye",
+      "rarity": "uncommon",
+      "category": "food",
+      "extra": "",
+      "texture": "Spider eye with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.get_subspace_bubble_advancement",
+      "name": "Get Subspace Bubble Advancement",
+      "description": "Player gets the subspace bubble advancement",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Nether portal swirl texture with mini boots in corner and number 875"
+    },
+    {
+      "id": "quest.have_more_unique_crafts_than_the_opponents",
+      "name": "Have more unique crafts than the opponents",
+      "description": "Player has more unique crafts than any other team",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "Can only appear in lockout or rarity modes. Always achievable, goal completion gets stolen and given to leading team with most unique crafts",
+      "texture": "Crafting table with mini jump boost effect icon in corner"
+    },
+    {
+      "id": "quest.kill_bee",
+      "name": "Kill Bee",
+      "description": "Player kills a bee",
+      "rarity": "uncommon",
+      "category": "monster",
+      "extra": "",
+      "texture": "Bee mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_blaze",
+      "name": "Kill Blaze",
+      "description": "Player kills a blaze",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Blaze mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_bogged",
+      "name": "Kill Bogged",
+      "description": "Player kills a bogged",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Bogged mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_breeze",
+      "name": "Kill Breeze",
+      "description": "Player kills a breeze",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Breeze mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_cave_spider",
+      "name": "Kill Cave Spider",
+      "description": "a player kills a cave spider",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Spider mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_drowned",
+      "name": "Kill Drowned",
+      "description": "A player kills a drowned",
+      "rarity": "common",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Drowned mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_evoker",
+      "name": "Kill Evoker",
+      "description": "A player kills an evoker",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Evoker mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_husk",
+      "name": "Kill Husk",
+      "description": "A player kills a husk",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Husk mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_magma_cube",
+      "name": "Kill Magma Cube",
+      "description": "A player kills a magma cube",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Magma cube mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_piglin_brute",
+      "name": "Kill Piglin Brute",
+      "description": "A player kills a piglin brute",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "piglin brute mob with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.kill_pillager",
+      "name": "Kill Pillager",
+      "description": "A player kills a pillager",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Pillager mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_ravager",
+      "name": "Kill Ravager",
+      "description": "A player kills a ravanger",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Ravanger mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_shulker",
+      "name": "Kill Shulker",
+      "description": "A player kills a shulker",
+      "rarity": "mythic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Shulker mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_slime",
+      "name": "Kill Slime",
+      "description": "A player kills a slime",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Slime mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_vex",
+      "name": "Kill Vex",
+      "description": "A player kills a vex",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Vex mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_wither_skeleton",
+      "name": "Kill Wither Skeleton",
+      "description": "A player kills a wither skeleton",
+      "rarity": "mythic",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Wither skeleton mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_zombie",
+      "name": "Kill Zombie",
+      "description": "A player kills a zombie",
+      "rarity": "common",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Zombie mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_zombified_piglin",
+      "name": "Kill Zombified Piglin",
+      "description": "A player kills a zombified piglin",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "Zombified piglin mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.obtain_6_log_variants",
+      "name": "Obtain 6 Log Variants",
+      "description": "A player obtains 6 unique log variants",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "Cycle between all log variants with number 6"
+    },
+    {
+      "id": "quest.obtain_8_log_variants",
+      "name": "Obtain 8 Log Variants",
+      "description": "A player obtains 8 unique log variants",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Cycle between all log variants with number 8"
+    },
+    {
+      "id": "quest.obtain_all_banner_patterns",
+      "name": "Obtain All Banner Patterns",
+      "description": "A player obtains all banner patterns",
+      "rarity": "mythic",
+      "category": "misc",
+      "extra": "",
+      "texture": "Cycle between all banner pattern types"
+    },
+    {
+      "id": "quest.obtain_all_froglights",
+      "name": "Obtain All Froglights",
+      "description": "A player obtains all froglight types",
+      "rarity": "mythic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Cycle between all froglight types"
+    },
+    {
+      "id": "quest.obtain_all_furnace_variants",
+      "name": "Obtain All Furnace Variants",
+      "description": "A player obtains all furnace variants",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between furnace, blast furnace, and smoker"
+    },
+    {
+      "id": "quest.obtain_all_log_types",
+      "name": "Obtain All Log Types",
+      "description": "A player obtains all log types",
+      "rarity": "legendary",
+      "category": "travel",
+      "extra": "",
+      "texture": "Cycle between all log types"
+    },
+    {
+      "id": "quest.obtain_all_minecart_types",
+      "name": "Obtain All Minecart Types",
+      "description": "A player obtains all minecart types",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between all minecart types"
+    },
+    {
+      "id": "quest.obtain_all_mushrooms",
+      "name": "Obtain All Mushrooms",
+      "description": "A player obtains all mushroom types",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "Cycle between all mushroom types"
+    },
+    {
+      "id": "quest.obtain_all_nether_ore_blocks",
+      "name": "Obtain All Nether Ore Blocks",
+      "description": "A player obtains nether gold ore, nether quartz ore, and ancient debris",
+      "rarity": "epic",
+      "category": "nether",
+      "extra": "",
+      "texture": "Cycle between nether gold ore, quartz ore, and ancient debris"
+    },
+    {
+      "id": "quest.obtain_all_nether_ores",
+      "name": "Obtain All Nether Ores",
+      "description": "Aplayer obtains gold nugget, nether quartz, and netherite scrap",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between gold nugget, nether quartz, and netherite scrap"
+    },
+    {
+      "id": "quest.obtain_all_overworld_ore_blocks",
+      "name": "Obtain All Overworld Ore Blocks",
+      "description": "A player obtains coal, copper, lapis, iron, redstone, gold, diamond, and emerald ores (regular and deepslate variants)",
+      "rarity": "legendary",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between coal ore, deepslate coal ore, iron ore, deepslate iron ore, lapis ore, deepslate lapis ore, copper ore, deepslate copper ore, gold ore, deepslate gold ore, redstone ore, deepslate redstone ore, diamond ore, deepslate diamond ore, emerald ore, and deepslate emerald ore"
+    },
+    {
+      "id": "quest.obtain_all_overworld_ores",
+      "name": "Obtain All Overworld Ores",
+      "description": "A player obtains coal, copper ingot, lapis, iron ingot, redstone dust, gold ingot, diamond, and emerald",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between coal, copper ingot, lapis, iron ingot, redstone dust, diamond, gold ingot, emerald"
+    },
+    {
+      "id": "quest.obtain_all_pumpkin_types",
+      "name": "Obtain All Pumpkin Types",
+      "description": "A player obtains all pumpkin types",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "",
+      "texture": "Cycle between pumpkin, carved pumpkin, and jack o lantern"
+    },
+    {
+      "id": "quest.obtain_all_rail_types",
+      "name": "Obtain All Rail Types",
+      "description": "A player obtains all rail types",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between all rail types"
+    },
+    {
+      "id": "quest.obtain_all_wool_blocks",
+      "name": "Obtain All Wool Blocks",
+      "description": "A player obtains all wool block colours",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between all wool colours"
+    },
+    {
+      "id": "quest.open_ominous_vault",
+      "name": "Open Ominous Vault",
+      "description": "A player opens an ominous vault",
+      "rarity": "legendary",
+      "category": "travel",
+      "extra": "",
+      "texture": "Ominous vault with mini ominous key in corner"
+    },
+    {
+      "id": "quest.open_trial_vault",
+      "name": "Open Trial Vault",
+      "description": "A player opens a trial vault",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Trial vault"
+    },
+    {
+      "id": "quest.opponent_obtains_advancement",
+      "name": "Opponent Obtains Advancement",
+      "description": "An opponent obtains an advancement",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "Can only appear in lockout or rarity modes.",
+      "texture": "advancement icon with mini barrier block in corner"
+    },
+    {
+      "id": "quest.opponent_stands_on_netherrack",
+      "name": "Opponent Stands on Netherrack",
+      "description": "An opponent stands on netherack",
+      "rarity": "uncommon",
+      "category": "compete",
+      "extra": "Can only appear in lockout or rarity modes.",
+      "texture": "Netherack block with mini leather boots in corner with mini barrier over the mini boots in corner"
+    },
+    {
+      "id": "quest.opponent_stands_on_stone",
+      "name": "Opponent Stands on Stone",
+      "description": "An opponent stands on stone",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "Can only appear in lockout or rarity modes.",
+      "texture": "Stone block with mini leather boots in corner with mini barrier block over the mini leather boots"
+    },
+    {
+      "id": "quest.opponent_wears_armor",
+      "name": "Opponent Wears Armor",
+      "description": "An opponent wears armor",
+      "rarity": "common",
+      "category": "compete",
+      "extra": "Can only appear in lockout or rarity modes.",
+      "texture": "Cycle between armour types with mini armour stand in corner with mini barrier block over the mini armour stand"
+    },
+    {
+      "id": "quest.repair_wolf_armor",
+      "name": "Repair Wolf Armor",
+      "description": "A player repairs wolf armour",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Wolf armour with mini armadillo scute in corner"
+    },
+    {
+      "id": "quest.start_a_raid",
+      "name": "Start a Raid",
+      "description": "A player starts a raid",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Villager mob with mini bad omen effect icon in corner"
+    },
+    {
+      "id": "quest.summon_iron_golem",
+      "name": "Summon Iron Golem",
+      "description": "A player summons an iron golem",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Iron block with mini carved pumpkin in corner"
+    },
+    {
+      "id": "quest.tame_donkey",
+      "name": "Tame Donkey",
+      "description": "A player tames a donkey",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "Donkey mob with mini heart icon in corner"
+    },
+    {
+      "id": "quest.tame_every_cat_variant",
+      "name": "Tame Every Cat Variant",
+      "description": "A player tames every cat variant",
+      "rarity": "legendary",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between every cat variant mob with mini raw salmon in corner"
+    },
+    {
+      "id": "quest.tame_llama",
+      "name": "Tame Llama",
+      "description": "A player tames a llama",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Llama mob with mini heart icon in corner"
+    },
+    {
+      "id": "quest.tame_mule",
+      "name": "Tame Mule",
+      "description": "A player tames a mule",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "Mule mob with mini cycling golden carrot, golden apple in corner"
+    },
+    {
+      "id": "quest.travel_to_nether_roof",
+      "name": "Travel to Nether Roof",
+      "description": "A player stands on the nether roof",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "Netherack block with mini bedrock in corner"
+    },
+    {
+      "id": "quest.whole_team_eats_cake_at_the_same_time",
+      "name": "Whole team eats cake at the same time",
+      "description": "Have everyone on your team eat cake at the same time (within 10s of eachother)",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Cake with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_dies_at_the_same_time",
+      "name": "Whole team dies at the same time",
+      "description": "Have everyone on your team die at the same time (within 10s of eachother)",
+      "rarity": "uncommon",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Skeleton skull with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_starving",
+      "name": "Whole team starving",
+      "description": "Have everyone on your team in a starving state",
+      "rarity": "uncommon",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Empty hunger bar icon with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_have_consecutive_number_of_levels_to_each_other",
+      "name": "Whole team have consecutive number of levels to each other",
+      "description": "Have everyone on your team have a consecutive number of levels from one another (e.g., 1,2,3,4,5)",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "EXP bottle with number 123 and two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_wear_a_piece_of_enchanted_armor",
+      "name": "Whole team wear a piece of enchanted armor",
+      "description": "Have everyone on your team wear a piece of enchanted armor at the same time",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "enchanted diamond chestplate with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_wear_a_piece_of_trimmed_armor",
+      "name": "Whole team wear a piece of trimmed armor",
+      "description": "Have everyone on your team wear a piece of trimmed armor at the same time",
+      "rarity": "epic",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "cycle between armor trim types with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_in_nether",
+      "name": "Whole team in nether",
+      "description": "Have everyone on your team be in the nether at the same time",
+      "rarity": "uncommon",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Nether portal swirl texture with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_in_the_end",
+      "name": "Whole team in the end",
+      "description": "Have everyone on your team be in the end at the same time",
+      "rarity": "mythic",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "End portal frame with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_has_a_status_effect_at_the_same_time",
+      "name": "Whole team has a status effect at the same time",
+      "description": "Have everyone on your team have a status effect at the same time",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Cycle through status effect icon types with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_swims_at_the_same_time",
+      "name": "Whole team swims at the same time",
+      "description": "Have everyone on your team swimming at the same time",
+      "rarity": "common",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Water source block texture with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_boating_at_the_same_time",
+      "name": "Whole team boating at the same time",
+      "description": "Have everyone on your team in a boat at the same time",
+      "rarity": "common",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Oak boat with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_rides_a_mob_at_the_same_time",
+      "name": "Whole team rides a mob at the same time",
+      "description": "Have everyone on your team riding a mob at the same time",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "saddle with two mini player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_throws_an_enderpearl_at_the_same_time",
+      "name": "Whole team throws an enderpearl at the same time",
+      "description": "Have everyone on your team throw an enderpearl at the same time (within 10s of eachother)",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "ender pearl with two mini player heads in corner"
+    },
+    {
+      "id": "quest.collect_all_chicken_egg_types",
+      "name": "Collect all chicken egg types",
+      "description": "collect all chicken egg types (normal, blue, brown)",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "cycle between egg, blue egg, brown egg"
+    },
+    {
+      "id": "quest.collect_all_egg_types",
+      "name": "Collect all egg types",
+      "description": "collect normal, blue, and brown chicken eggs, plus turtle, sniffer, and dragon eggs",
+      "rarity": "mythic",
+      "category": "animal",
+      "extra": "",
+      "texture": "cycle between egg, blue egg, brown egg, turtle egg, sniffer egg, dragon egg"
+    },
+    {
+      "id": "quest.tame_all_wolf_types",
+      "name": "Tame all wolf types",
+      "description": "A player tames all wolf variants",
+      "rarity": "legendary",
+      "category": "animal",
+      "extra": "",
+      "texture": "cycle between all wolf variants with mini bone in corner"
+    },
+    {
+      "id": "quest.breed_all_chicken_variants",
+      "name": "Breed all chicken variants",
+      "description": "A player breeds all chicken variants",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between all chicken variant mobs with mini wheat seeds in corner"
+    },
+    {
+      "id": "quest.breed_all_cow_variants",
+      "name": "Breed all cow variants",
+      "description": "A player breeds all cow variants",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between all cow variant mob with mini wheat in corner"
+    },
+    {
+      "id": "quest.breed_all_pig_variants",
+      "name": "Breed all pig variants",
+      "description": "A player breeds all pig variants",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between all pig variant mob with mini potato in corner"
+    },
+    {
+      "id": "quest.trample_farmland",
+      "name": "Trample farmland",
+      "description": "A player tramples farmland",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "Farmland with mini swiftness effect icon in corner"
+    },
+    {
+      "id": "quest.whole_team_wears_a_carved_pumpkin_at_the_same_time",
+      "name": "Whole team wears a carved pumpkin at the same time",
+      "description": "Have everyone on your team wear a carved pumpkin on your head at the same time",
+      "rarity": "uncommon",
+      "category": "team",
+      "extra": "Can only appear if there are at least 2 players on each in play team",
+      "texture": "Carved pumpkin with two mini player heads in corner"
+    },
+    {
+      "id": "quest.kill_a_baby_mob",
+      "name": "Kill a baby mob",
+      "description": "A player kills a baby mob",
+      "rarity": "common",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between baby mobs with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_5_baby_mobs",
+      "name": "Kill 5 baby mobs",
+      "description": "A player kills 5 baby mobs",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between baby mobs with number 5 and mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_20_baby_mobs",
+      "name": "Kill 20 baby mobs",
+      "description": "A player kills 20 baby mobs",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between baby mobs with number 20 and mini iron sword in corner"
+    },
+    {
+      "id": "quest.have_your_shield_disabled",
+      "name": "Have your shield disabled",
+      "description": "A player has their shield disabled",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "Shield with mini iron axe in corner"
+    },
+    {
+      "id": "quest.shoot_a_firework_from_a_crossbow",
+      "name": "Shoot a firework from a crossbow",
+      "description": "A player shoots a firework from a crossbow",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "crossbow with mini firework in corner"
+    },
+    {
+      "id": "quest.use_a_brush_on_suspicious_sand_gravel",
+      "name": "Use a brush on suspicious sand/gravel",
+      "description": "A player uses a brush on suspicious sand/gravel",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between suspicious sand and suspicious gravel with mini brush in corner"
+    },
+    {
+      "id": "quest.break_any_tool",
+      "name": "Break any tool",
+      "description": "A player breaks a tool",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between tools that are all on 1 durability"
+    },
+    {
+      "id": "quest.wear_full_uniquely_coloured_leather_armor",
+      "name": "Wear full uniquely coloured leather armor",
+      "description": "A player wears full uniquely coloured armor",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "Cycle between blue leather cap, white leather tunic, yellow leather pants, and purple leather boots"
+    },
+    {
+      "id": "quest.wear_four_unique_armor_pieces",
+      "name": "Wear four unique armor pieces",
+      "description": "A player wears four unique armor pieces",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between netherite helmet, leather tunic, iron leggings, and gold boots"
+    },
+    {
+      "id": "quest.break_any_piece_of_armor",
+      "name": "Break any piece of armor",
+      "description": "A player breaks a piece of armor",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between armor types/pieces at 1 durability"
+    },
+    {
+      "id": "quest.equip_wolf_armor_on_a_wolf",
+      "name": "Equip wolf armor on a wolf",
+      "description": "A player equips a wolf with wolf armor",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "Wolf mob with mini wolf armor in corner"
+    },
+    {
+      "id": "quest.tame_a_nautilus",
+      "name": "Tame a nautilus",
+      "description": "A player tames a nautilus (pufferfish)",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "Nautilus mob with mini heart icon in corner"
+    },
+    {
+      "id": "quest.visit_10_unique_biomes",
+      "name": "Visit 10 unique biomes",
+      "description": "A player visits 10 unique biomes",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between water texture, grass block, red sand, sand, coarse dirt, snow block, mycelium, netherrack, soul sand, crimson nylium, warped nylium with number 10 and mini leather boots in corner"
+    },
+    {
+      "id": "quest.visit_15_unique_biomes",
+      "name": "Visit 15 unique biomes",
+      "description": "A player visits 15 unique biomes",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between water texture, grass block, red sand, sand, coarse dirt, snow block, mycelium, netherrack, soul sand, crimson nylium, warped nylium with number 15 and mini leather boots in corner"
+    },
+    {
+      "id": "quest.visit_20_unique_biomes",
+      "name": "Visit 20 unique biomes",
+      "description": "A player visits 20 unique biomes",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between water texture, grass block, red sand, sand, coarse dirt, snow block, mycelium, netherrack, soul sand, crimson nylium, warped nylium with number 20 and mini leather boots in corner"
+    },
+    {
+      "id": "quest.visit_all_cave_biomes",
+      "name": "Visit all cave biomes",
+      "description": "A player visits a lush cave, dristone cave, and deep dark biomes",
+      "rarity": "legendary",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between big dripleaf, dripstone block, sculk sensor with mini leather boots in corner"
+    },
+    {
+      "id": "quest.breed_camels",
+      "name": "Breed camels",
+      "description": "A player breeds camels",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Camel mob with mini cactus in corner"
+    },
+    {
+      "id": "quest.breed_frogs",
+      "name": "Breed frogs",
+      "description": "A player breeds frogs",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "Can only appear if daylight cycle setting is not set to day only Can only appear if daylight cycle is enabled",
+      "texture": "frog mob with mini slimeball in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_4_unique_entities_at_once",
+      "name": "Attach a lead to 4 unique entities at once",
+      "description": "A player attaches a lead to 4 unique entities at once",
+      "rarity": "uncommon",
+      "category": "lead",
+      "extra": "",
+      "texture": "Lead with number 4"
+    },
+    {
+      "id": "quest.attach_a_lead_to_6_unique_entities_at_once",
+      "name": "Attach a lead to 6 unique entities at once",
+      "description": "A player attaches a lead to 6 unique entities at once",
+      "rarity": "rare",
+      "category": "lead",
+      "extra": "",
+      "texture": "Lead with number 6"
+    },
+    {
+      "id": "quest.attach_a_lead_to_8_unique_entities_at_once",
+      "name": "Attach a lead to 8 unique entities at once",
+      "description": "A player attaches a lead to 8 unique entities at once",
+      "rarity": "epic",
+      "category": "lead",
+      "extra": "",
+      "texture": "Lead with number 8"
+    },
+    {
+      "id": "quest.attach_a_lead_to_a_cherry_chest_boat",
+      "name": "Attach a lead to a cherry chest boat",
+      "description": "attach a lead to a cherry chest boat",
+      "rarity": "rare",
+      "category": "lead",
+      "extra": "",
+      "texture": "Cherry chest boat with mini lead in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_a_cow",
+      "name": "Attach a lead to a cow",
+      "description": "A player attaches a lead to a cow",
+      "rarity": "common",
+      "category": "lead",
+      "extra": "",
+      "texture": "cow mob with mini lead in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_a_dolphin",
+      "name": "Attach a lead to a dolphin",
+      "description": "A player attaches a lead to a dolphin",
+      "rarity": "uncommon",
+      "category": "lead",
+      "extra": "",
+      "texture": "dolphin mob with mini lead in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_a_fox",
+      "name": "Attach a lead to a fox",
+      "description": "A player attaches a lead to a fox",
+      "rarity": "rare",
+      "category": "lead",
+      "extra": "",
+      "texture": "fox mob with mini lead in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_a_frog",
+      "name": "Attach a lead to a frog",
+      "description": "A player attaches a lead to a frog",
+      "rarity": "rare",
+      "category": "lead",
+      "extra": "",
+      "texture": "frog mob with mini lead in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_an_iron_golem",
+      "name": "Attach a lead to an iron golem",
+      "description": "A player attaches a lead to an iron golem",
+      "rarity": "rare",
+      "category": "lead",
+      "extra": "",
+      "texture": "iron golem mob with mini lead in corner"
+    },
+    {
+      "id": "quest.attach_a_lead_to_a_strider",
+      "name": "Attach a lead to a strider",
+      "description": "A player attaches a lead to a strider",
+      "rarity": "epic",
+      "category": "lead",
+      "extra": "",
+      "texture": "strider mob with mini lead in corner"
+    },
+    {
+      "id": "quest.kill_all_golems",
+      "name": "Kill all golems",
+      "description": "A player kills an iron golem, copper golem, and a snow golem",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "",
+      "texture": "cycle between snow block, copper block, and iron block"
+    },
+    {
+      "id": "quest.build_all_golems",
+      "name": "Build all golems",
+      "description": "A player builds an iron golem, copper golem, and a snow golem",
+      "rarity": "epic",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between snow block, copper block, and iron block"
+    },
+    {
+      "id": "quest.look_at_5_unique_mobs_with_a_spyglass",
+      "name": "Look at 5 unique mobs with a spyglass",
+      "description": "A player looks at 5 unique mobs with a spyglass",
+      "rarity": "rare",
+      "category": "spyglass",
+      "extra": "",
+      "texture": "cycle between many mobs with mini spyglass in corner and number 5"
+    },
+    {
+      "id": "quest.look_at_10_unique_mobs_with_a_spyglass",
+      "name": "Look at 10 unique mobs with a spyglass",
+      "description": "A player looks at 10 unique mobs with a spyglass",
+      "rarity": "epic",
+      "category": "spyglass",
+      "extra": "",
+      "texture": "cycle between many mobs with mini spyglass in corner and number 10"
+    },
+    {
+      "id": "quest.look_at_15_unique_mobs_with_a_spyglass",
+      "name": "Look at 15 unique mobs with a spyglass",
+      "description": "A player looks at 15 unique mobs with a spyglass",
+      "rarity": "epic",
+      "category": "spyglass",
+      "extra": "",
+      "texture": "cycle between many mobs with mini spyglass in corner and number 15"
+    },
+    {
+      "id": "quest.look_at_20_unique_mobs_with_a_spyglass",
+      "name": "Look at 20 unique mobs with a spyglass",
+      "description": "A player looks at 20 unique mobs with a spyglass",
+      "rarity": "legendary",
+      "category": "spyglass",
+      "extra": "",
+      "texture": "cycle between many mobs with mini spyglass in corner and number 20"
+    },
+    {
+      "id": "quest.look_at_an_enderman_with_a_spyglass",
+      "name": "Look at an enderman with a spyglass",
+      "description": "A player looks at an enderman with a spyglass",
+      "rarity": "rare",
+      "category": "spyglass",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "enderman mob with mini spyglass in corner"
+    },
+    {
+      "id": "quest.look_at_a_guardian_with_a_spyglass",
+      "name": "Look at a guardian with a spyglass",
+      "description": "A player looks at a guardian with a spyglass",
+      "rarity": "epic",
+      "category": "spyglass",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "guardian mob with mini spyglass in corner"
+    },
+    {
+      "id": "quest.look_at_a_horse_with_a_spyglass",
+      "name": "Look at a horse with a spyglass",
+      "description": "A player looks at a horse with a spyglass",
+      "rarity": "rare",
+      "category": "spyglass",
+      "extra": "",
+      "texture": "horse mob with mini spyglass in corner"
+    },
+    {
+      "id": "quest.look_at_a_husk_with_a_spyglass",
+      "name": "Look at a husk with a spyglass",
+      "description": "A player looks at a husk with a spyglass",
+      "rarity": "rare",
+      "category": "spyglass",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "husk mob with mini spyglass in corner"
+    },
+    {
+      "id": "quest.look_at_a_piglin_brute_with_a_spyglass",
+      "name": "Look at a piglin brute with a spyglass",
+      "description": "A player looks at a piglin brute with a spyglass",
+      "rarity": "epic",
+      "category": "spyglass",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "piglin brute mob with mini spyglass in corner"
+    },
+    {
+      "id": "quest.eat_all_types_of_bowl_foods",
+      "name": "Eat all types of bowl foods",
+      "description": "A player eats a beetroot soup, rabbit stew, suspicious stew, and mushroom stew",
+      "rarity": "epic",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled",
+      "texture": "cycle between beetroot soup, rabbit stew, suspicious stew, and mushroom stew with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.eat_beetroot_soup",
+      "name": "Eat beetroot soup",
+      "description": "A player eats beetroot soup",
+      "rarity": "rare",
+      "category": "food",
+      "extra": "Can only appear if hunger is enabled",
+      "texture": "beetroot soup with mini hunger bar icon in corner"
+    },
+    {
+      "id": "quest.die_by_drowning",
+      "name": "Die by drowning",
+      "description": "A player dies by drowning",
+      "rarity": "common",
+      "category": "death",
+      "extra": "",
+      "texture": "water source block with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_by_freezing",
+      "name": "Die by freezing",
+      "description": "A player dies by freezing",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "powdered snow bucket with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_to_pufferfish",
+      "name": "Die to pufferfish",
+      "description": "A player dies to a pufferfish",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "pufferfish with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.die_to_trident",
+      "name": "Die to trident",
+      "description": "A player dies to a trident",
+      "rarity": "rare",
+      "category": "death",
+      "extra": "",
+      "texture": "trident with mini skeleton skull in corner"
+    },
+    {
+      "id": "quest.kill_all_raid_mobs",
+      "name": "Kill all raid mobs",
+      "description": "A player kills a pillager, vindicator, evoker, vex, witch, and a ravager",
+      "rarity": "epic",
+      "category": "monster",
+      "extra": "",
+      "texture": "cycle between pillager, vindicator, evoker, vex, witch, ravager with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_a_bat",
+      "name": "Kill a bat",
+      "description": "A player kills a bat",
+      "rarity": "uncommon",
+      "category": "monster",
+      "extra": "",
+      "texture": "bat mob with mini iron sword in corner"
+    },
+    {
+      "id": "quest.kill_a_pillager_with_a_crossbow",
+      "name": "Kill a pillager with a crossbow",
+      "description": "A player kills a pillager with a crossbow",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "",
+      "texture": "pillager mob with mini crossbow in corner"
+    },
+    {
+      "id": "quest.kill_a_snow_golem_in_the_nether",
+      "name": "Kill a snow golem in the nether",
+      "description": "A player kills a snow golem in the nether",
+      "rarity": "rare",
+      "category": "monster",
+      "extra": "",
+      "texture": "snow golem mob standing on netherack with mini iron sword in corner"
+    },
+    {
+      "id": "quest.use_a_crafter",
+      "name": "Use a crafter",
+      "description": "A player uses a crafter to craft something",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "crafter with mini crafting table in corner"
+    },
+    {
+      "id": "quest.opponent_is_hit_by_a_windcharge",
+      "name": "Opponent is hit by a windcharge",
+      "description": "An opponent is hit by a windcharge",
+      "rarity": "epic",
+      "category": "compete",
+      "extra": "Can only appear in lockout or rarity modes.",
+      "texture": "wind charge with mini player head in corner"
+    },
+    {
+      "id": "quest.use_a_grindstone",
+      "name": "Use a grindstone",
+      "description": "A player uses a grindstone",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "grindstone with mini enchanted book in corner"
+    },
+    {
+      "id": "quest.use_a_stonecutter",
+      "name": "Use a stonecutter",
+      "description": "A player uses a stonecutter",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "Stonecutter with mini chiseled stone brick in corner"
+    },
+    {
+      "id": "quest.fill_a_bundle_with_16_bundles",
+      "name": "Fill a bundle with 16 bundles",
+      "description": "A player fills a bundle with 16 bundles inside",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "bundle with mini bundle in corner"
+    },
+    {
+      "id": "quest.fill_a_campfire_with_4_food_items",
+      "name": "Fill a campfire with 4 food items",
+      "description": "A player fills a campfire with 4 food items",
+      "rarity": "common",
+      "category": "food",
+      "extra": "",
+      "texture": "cycle between campfire and soul campfire with mini beef, porkchop, chicken, mutton, cod, salmon, rabbit cycling in corner"
+    },
+    {
+      "id": "quest.fill_a_chiseled_bookshelf_with_books",
+      "name": "Fill a chiseled bookshelf with books",
+      "description": "A player fills a chiseled bookshelf with books",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "chiseled bookshelf with mini book in corner"
+    },
+    {
+      "id": "quest.fill_a_decorated_pot",
+      "name": "Fill a decorated pot",
+      "description": "A player fills a decorated pot",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "decorated pot with mini chest in corner"
+    },
+    {
+      "id": "quest.fill_a_shelf_with_shelves",
+      "name": "Fill a shelf with shelves",
+      "description": "A player fills a shelf with shelves",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "oak shelf with mini oak shelf in corner"
+    },
+    {
+      "id": "quest.obtain_2_unique_armor_trims",
+      "name": "Obtain 2 unique armor trims",
+      "description": "A player obtains 2 unique armor trims",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between armor trim types with number 2"
+    },
+    {
+      "id": "quest.obtain_3_unique_banner_patterns",
+      "name": "Obtain 3 unique banner patterns",
+      "description": "A player obtains 3 unique banner patterns",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between banner pattern types with number 3"
+    },
+    {
+      "id": "quest.obtain_3_unique_music_disks",
+      "name": "Obtain 3 unique music disks",
+      "description": "A player obtains 3 unique music discs",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between music disk types with number 3"
+    },
+    {
+      "id": "quest.obtain_5_unique_pressure_plates",
+      "name": "Obtain 5 unique pressure plates",
+      "description": "A player obtains 5 unique pressure plates",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between pressure plate types with number 5"
+    },
+    {
+      "id": "quest.obtain_6_unique_brick_blocks",
+      "name": "Obtain 6 unique brick blocks",
+      "description": "A player obtains 6 unique brick blocks",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between brick types with number 6"
+    },
+    {
+      "id": "quest.obtain_6_unique_buckets",
+      "name": "Obtain 6 unique buckets",
+      "description": "A player obtains 6 unique buckets",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between bucket types with number 6"
+    },
+    {
+      "id": "quest.obtain_7_unique_workstations",
+      "name": "Obtain 7 unique workstations",
+      "description": "A player obtains 7 unique workstations",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between workstation types with number 7"
+    },
+    {
+      "id": "quest.obtain_64_arrows",
+      "name": "Obtain 64 arrows",
+      "description": "A player obtains 64 arrows",
+      "rarity": "uncommon",
+      "category": "monster",
+      "extra": "",
+      "texture": "arrow with number 64"
+    },
+    {
+      "id": "quest.obtain_64_coarse_dirt",
+      "name": "Obtain 64 coarse dirt",
+      "description": "A player obtains 64 coarse dirt",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "coarse dirt with number 64"
+    },
+    {
+      "id": "quest.obtain_64_firefly_bushes",
+      "name": "Obtain 64 firefly bushes",
+      "description": "A player obtains 64 firefly bushes",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "firefly bush with number 64"
+    },
+    {
+      "id": "quest.obtain_64_glow_lichen",
+      "name": "Obtain 64 glow lichen",
+      "description": "A player obtains 64 glow lichen",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "glow lichen with number 64"
+    },
+    {
+      "id": "quest.obtain_every_type_of_torch",
+      "name": "Obtain every type of torch",
+      "description": "A player obtains a torch, soul torch, copper torch, and a redstone torch",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between torch, soul torch, copper torch, and redstone torch"
+    },
+    {
+      "id": "quest.obtain_all_nautilus_armor_types",
+      "name": "Obtain all nautilus armor types",
+      "description": "A player obtains copper, iron, golden, diamond, and netherite nautilus armor",
+      "rarity": "mythic",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between copper nautilus armor, iron nautilus armor, golden nautilus armor, diamond nautilus armor, netherite nautilus armor"
+    },
+    {
+      "id": "quest.obtain_the_mob_kabob_advancement",
+      "name": "Obtain the mob kabob advancement",
+      "description": "A player obtains the mob kabob advancement",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between all spears with number 5 and mini iron sword in corner"
+    },
+    {
+      "id": "quest.scrape_wax_off_a_copper_block",
+      "name": "Scrape wax off a copper block",
+      "description": "A player scrapes wax off a copper block",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "copper block with mini iron axe in corner"
+    },
+    {
+      "id": "quest.wax_a_copper_block",
+      "name": "Wax a copper block",
+      "description": "A player applies wax to a copper block",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "copper block with mini honeycomb in corner"
+    },
+    {
+      "id": "quest.crouch_for_100m",
+      "name": "Crouch for 100m",
+      "description": "A player crouches for 100m",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "slowness effect icon with 100m"
+    },
+    {
+      "id": "quest.swim_for_500m",
+      "name": "Swim for 500m",
+      "description": "A player swims for 500m",
+      "rarity": "common",
+      "category": "travel",
+      "extra": "",
+      "texture": "water source block with 500m"
+    },
+    {
+      "id": "quest.boat_for_2km",
+      "name": "Boat for 2km",
+      "description": "A player boats for 2km",
+      "rarity": "common",
+      "category": "travel",
+      "extra": "",
+      "texture": "oak boat with 2km"
+    },
+    {
+      "id": "quest.construct_a_copper_golem",
+      "name": "Construct a copper golem",
+      "description": "A player summons a copper golem",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "copper block with mini carved pumpkin in corner"
+    },
+    {
+      "id": "quest.decorate_a_shield_with_a_banner",
+      "name": "Decorate a shield with a banner",
+      "description": "A player decorates a shield with a banner",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "shield with mini white banner in corner"
+    },
+    {
+      "id": "quest.look_at_an_endarman_in_the_eyes_to_enrage_them",
+      "name": "Look at an endarman in the eyes to enrage them",
+      "description": "A player enrages an enderman by looking at its eyes",
+      "rarity": "uncommon",
+      "category": "monster",
+      "extra": "Can only appear if hostile mobs are enabled",
+      "texture": "enderman mob with mini eye of ender in corner"
+    },
+    {
+      "id": "quest.extinguish_a_campfire_with_a_shovel",
+      "name": "Extinguish a campfire with a shovel",
+      "description": "A player extinguishes a campfire with a shovel",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "campfire with mini wooden shovel in corner"
+    },
+    {
+      "id": "quest.light_a_candle",
+      "name": "Light a candle",
+      "description": "A player lights a candle",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "white candle with mini flint and steel in corner"
+    },
+    {
+      "id": "quest.place_an_end_crystal",
+      "name": "Place an end crystal",
+      "description": "A player places an end crystal",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "End crystal with mini obsidian in corner"
+    },
+    {
+      "id": "quest.place_a_painting",
+      "name": "Place a painting",
+      "description": "A player places a painting",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "painting with mini stone brick wall in corner"
+    },
+    {
+      "id": "quest.put_a_flower_in_a_pot",
+      "name": "Put a flower in a pot",
+      "description": "A player puts a flower in a pot",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "flower pot with mini poppy in corner"
+    },
+    {
+      "id": "quest.right_click_a_banner_with_a_map",
+      "name": "Right click a banner with a map",
+      "description": "A player right clicks a banner with a map",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "white banner with mini map in corner"
+    },
+    {
+      "id": "quest.take_damage_from_8_unique_sources",
+      "name": "Take damage from 8 unique sources",
+      "description": "A player takes damage from 8 unique sources",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "heart icon with number 8 and mini wither effect icon in corner"
+    },
+    {
+      "id": "quest.take_damage_from_12_unique_sources",
+      "name": "Take damage from 12 unique sources",
+      "description": "A player takes damage from 12 unique sources",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "heart icon with number 12 and mini wither effect icon in corner"
+    },
+    {
+      "id": "quest.take_damage_from_15_unique_sources",
+      "name": "Take damage from 15 unique sources",
+      "description": "A player takes damage from 15 unique sources",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "heart icon with number 15 and mini wither effect icon in corner"
+    },
+    {
+      "id": "quest.toot_a_goat_horn",
+      "name": "Toot a goat horn",
+      "description": "A player toots a goat horn",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "goat horn with mini player head in corner"
+    },
+    {
+      "id": "quest.breed_nautilus",
+      "name": "Breed nautilus",
+      "description": "A player breeds nautilus (pufferfish)",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "nautilus mob with mini pufferfish in corner"
+    },
+    {
+      "id": "quest.obtain_64_black_glass",
+      "name": "Obtain 64 Black Glass",
+      "description": "obtain 64 black glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "black stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_blue_glass",
+      "name": "Obtain 64 Blue Glass",
+      "description": "obtain 64 blue glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "blue stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_brown_glass",
+      "name": "Obtain 64 Brown Glass",
+      "description": "obtain 64 brown glass",
+      "rarity": "epic",
+      "category": "glass",
+      "extra": "",
+      "texture": "brown stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_cyan_glass",
+      "name": "Obtain 64 Cyan Glass",
+      "description": "obtain 64 cyan glass",
+      "rarity": "epic",
+      "category": "glass",
+      "extra": "",
+      "texture": "cyan stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_gray_glass",
+      "name": "Obtain 64 Gray Glass",
+      "description": "obtain 64 gray glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "gray stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_green_glass",
+      "name": "Obtain 64 Green Glass",
+      "description": "obtain 64 green glass",
+      "rarity": "epic",
+      "category": "glass",
+      "extra": "",
+      "texture": "green stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_blue_glass",
+      "name": "Obtain 64 Light Blue Glass",
+      "description": "obtain 64 light blue glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "light blue stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_gray_glass",
+      "name": "Obtain 64 Light Gray Glass",
+      "description": "obtain 64 light gray glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "light gray stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_lime_glass",
+      "name": "Obtain 64 Lime Glass",
+      "description": "obtain 64 lime glass",
+      "rarity": "epic",
+      "category": "glass",
+      "extra": "",
+      "texture": "lime stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_magenta_glass",
+      "name": "Obtain 64 Magenta Glass",
+      "description": "obtain 64 magenta glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "magenta stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_orange_glass",
+      "name": "Obtain 64 Orange Glass",
+      "description": "obtain 64 orange glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "orange stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_pink_glass",
+      "name": "Obtain 64 Pink Glass",
+      "description": "obtain 64 pink glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "pink stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_purple_glass",
+      "name": "Obtain 64 Purple Glass",
+      "description": "obtain 64 purple glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "purple stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_red_glass",
+      "name": "Obtain 64 Red Glass",
+      "description": "obtain 64 red glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "red stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_white_glass",
+      "name": "Obtain 64 White Glass",
+      "description": "obtain 64 white glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "white stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_yellow_glass",
+      "name": "Obtain 64 Yellow Glass",
+      "description": "obtain 64 yellow glass",
+      "rarity": "rare",
+      "category": "glass",
+      "extra": "",
+      "texture": "yellow stained glass with number 64"
+    },
+    {
+      "id": "quest.obtain_64_black_terracotta",
+      "name": "Obtain 64 Black Terracotta",
+      "description": "obtain 64 black terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "black terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_blue_terracotta",
+      "name": "Obtain 64 Blue Terracotta",
+      "description": "obtain 64 blue terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "blue terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_brown_terracotta",
+      "name": "Obtain 64 Brown Terracotta",
+      "description": "obtain 64 brown terracotta",
+      "rarity": "epic",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "brown terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_cyan_terracotta",
+      "name": "Obtain 64 Cyan Terracotta",
+      "description": "obtain 64 cyan terracotta",
+      "rarity": "epic",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "cyan terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_gray_terracotta",
+      "name": "Obtain 64 Gray Terracotta",
+      "description": "obtain 64 gray terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "gray terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_green_terracotta",
+      "name": "Obtain 64 Green Terracotta",
+      "description": "obtain 64 green terracotta",
+      "rarity": "epic",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "green terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_blue_terracotta",
+      "name": "Obtain 64 Light Blue Terracotta",
+      "description": "obtain 64 light blue terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "light blue terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_gray_terracotta",
+      "name": "Obtain 64 Light Gray Terracotta",
+      "description": "obtain 64 light gray terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "light gray terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_lime_terracotta",
+      "name": "Obtain 64 Lime Terracotta",
+      "description": "obtain 64 lime terracotta",
+      "rarity": "epic",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "lime terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_magenta_terracotta",
+      "name": "Obtain 64 Magenta Terracotta",
+      "description": "obtain 64 magenta terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "magenta terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_orange_terracotta",
+      "name": "Obtain 64 Orange Terracotta",
+      "description": "obtain 64 orange terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "orange terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_pink_terracotta",
+      "name": "Obtain 64 Pink Terracotta",
+      "description": "obtain 64 pink terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "pink terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_purple_terracotta",
+      "name": "Obtain 64 Purple Terracotta",
+      "description": "obtain 64 purple terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "purple terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_red_terracotta",
+      "name": "Obtain 64 Red Terracotta",
+      "description": "obtain 64 red terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "red terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_white_terracotta",
+      "name": "Obtain 64 White Terracotta",
+      "description": "obtain 64 white terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "white terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_yellow_terracotta",
+      "name": "Obtain 64 Yellow Terracotta",
+      "description": "obtain 64 yellow terracotta",
+      "rarity": "rare",
+      "category": "terracotta",
+      "extra": "",
+      "texture": "yellow terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_black_glazed_terracotta",
+      "name": "Obtain 64 Black Glazed Terracotta",
+      "description": "obtain 64 black glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "black glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_blue_glazed_terracotta",
+      "name": "Obtain 64 Blue Glazed Terracotta",
+      "description": "obtain 64 blue glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "blue glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_brown_glazed_terracotta",
+      "name": "Obtain 64 Brown Glazed Terracotta",
+      "description": "obtain 64 brown glazed terracotta",
+      "rarity": "epic",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "brown glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_cyan_glazed_terracotta",
+      "name": "Obtain 64 Cyan Glazed Terracotta",
+      "description": "obtain 64 cyan glazed terracotta",
+      "rarity": "epic",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "cyan glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_gray_glazed_terracotta",
+      "name": "Obtain 64 Gray Glazed Terracotta",
+      "description": "obtain 64 gray glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "gray glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_green_glazed_terracotta",
+      "name": "Obtain 64 Green Glazed Terracotta",
+      "description": "obtain 64 green glazed terracotta",
+      "rarity": "epic",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "green glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_blue_glazed_terracotta",
+      "name": "Obtain 64 Light Blue Glazed Terracotta",
+      "description": "obtain 64 light blue glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "light blue glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_light_gray_glazed_terracotta",
+      "name": "Obtain 64 Light Gray Glazed Terracotta",
+      "description": "obtain 64 light gray glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "light gray glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_lime_glazed_terracotta",
+      "name": "Obtain 64 Lime Glazed Terracotta",
+      "description": "obtain 64 lime glazed terracotta",
+      "rarity": "epic",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "lime glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_magenta_glazed_terracotta",
+      "name": "Obtain 64 Magenta Glazed Terracotta",
+      "description": "obtain 64 magenta glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "magenta glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_orange_glazed_terracotta",
+      "name": "Obtain 64 Orange Glazed Terracotta",
+      "description": "obtain 64 orange glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "orange glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_pink_glazed_terracotta",
+      "name": "Obtain 64 Pink Glazed Terracotta",
+      "description": "obtain 64 pink glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "pink glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_purple_glazed_terracotta",
+      "name": "Obtain 64 Purple Glazed Terracotta",
+      "description": "obtain 64 purple glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "purple glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_red_glazed_terracotta",
+      "name": "Obtain 64 Red Glazed Terracotta",
+      "description": "obtain 64 red glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "red glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_white_glazed_terracotta",
+      "name": "Obtain 64 White Glazed Terracotta",
+      "description": "obtain 64 white glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "white glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.obtain_64_yellow_glazed_terracotta",
+      "name": "Obtain 64 Yellow Glazed Terracotta",
+      "description": "obtain 64 yellow glazed terracotta",
+      "rarity": "rare",
+      "category": "glazed terracotta",
+      "extra": "",
+      "texture": "yellow glazed terracotta with number 64"
+    },
+    {
+      "id": "quest.ride_a_pig_whilst_being_on_top_of_a_happy_ghast",
+      "name": "Ride a pig whilst being on top of a happy ghast",
+      "description": "A player rides a pig whilst that mob is standing on a happy ghast",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "happy ghast mob texture with mini pig texture and mini saddle in corner"
+    },
+    {
+      "id": "quest.whole_team_stands_on_the_same_happy_ghast",
+      "name": "Whole team stands on the same happy ghast",
+      "description": "Have everyone on your team stand on the same happy ghast at the same time",
+      "rarity": "epic",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "happy ghast mob texture with two mini player heads in corner"
+    },
+    {
+      "id": "quest.fully_hydrate_a_dried_ghast",
+      "name": "Hydrate a dried ghast",
+      "description": "A player gets the \"Stay Hydrated!\" advancement",
+      "rarity": "epic",
+      "category": "nether",
+      "extra": "",
+      "texture": "dried ghast with mini bucket of water in corner"
+    },
+    {
+      "id": "quest.attach_a_boat_to_a_happy_ghast_using_a_lead",
+      "name": "Attach a boat to a happy ghast using a lead",
+      "description": "Properly attach a boat to a happy ghast by shift right clicking a lead onto both",
+      "rarity": "epic",
+      "category": "lead",
+      "extra": "",
+      "texture": "happy ghast mob texture with mini oak boat in corner"
+    },
+    {
+      "id": "quest.have_a_tamed_wolf_kill_another_players_tamed_wolf",
+      "name": "Have a tamed wolf kill another players tamed wolf",
+      "description": "A players tamed wolf kills a different players tamed wolf",
+      "rarity": "uncommon",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "wolf mob texture with mini wolf mob texture and skeleton skull in corner"
+    },
+    {
+      "id": "quest.dye_the_collar_of_a_tamed_wolf",
+      "name": "Dye the collar of a tamed wolf",
+      "description": "Right click on a tamed wolf with a dye",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "wolf mob texture with mini cycling between dyes in corner"
+    },
+    {
+      "id": "quest.have_a_tamed_wolf_kill_3_unique_mobs",
+      "name": "Have a tamed wolf kill 3 unique mobs",
+      "description": "A players tamed wolf kills 3 unique mobs",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "Wolf mob texture with mini cycling between different mob textures in corner with number 3"
+    },
+    {
+      "id": "quest.have_a_tamed_wolf_kill_5_unique_mobs",
+      "name": "Have a tamed wolf kill 5 unique mobs",
+      "description": "A players tamed wolf kills 5 unique mobs",
+      "rarity": "uncommon",
+      "category": "animal",
+      "extra": "",
+      "texture": "Wolf mob texture with mini cycling between different mob textures in corner with number 5"
+    },
+    {
+      "id": "quest.have_a_tamed_wolf_kill_8_unique_mobs",
+      "name": "Have a tamed wolf kill 8 unique mobs",
+      "description": "A players tamed wolf kills 8 unique mobs",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Wolf mob texture with mini cycling between different mob textures in corner with number 8"
+    },
+    {
+      "id": "quest.have_10_live_tamed_mobs",
+      "name": "Have 10 live tamed mobs",
+      "description": "A player has 10 tamed mobs (all alive)",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "Cycle between tamable mob textures with their corresponding mini required to tame food in corner with number 10"
+    },
+    {
+      "id": "quest.whole_team_breeds_an_animal_at_the_same_time",
+      "name": "Whole team breeds an animal at the same time",
+      "description": "Have everyone on your team breed an animal at the same time (within 5 seconds of eachother)",
+      "rarity": "common",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "Cycle between breedable animal mob textures with mini heart and two player heads in corner"
+    },
+    {
+      "id": "quest.ride_a_happy_ghast_for_200_meters",
+      "name": "Ride a happy ghast for 200 meters",
+      "description": "Travel 200 meters whilst riding a happy ghast",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "happy ghast mob texture with mini harness in corner and number 200m"
+    },
+    {
+      "id": "quest.shear_a_snow_golem",
+      "name": "Shear a snow golem",
+      "description": "Right click on a snow golem with shears to shear it",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "",
+      "texture": "snow golem texture with mini sheers in corner"
+    },
+    {
+      "id": "quest.give_a_name_to_a_tamed_wolf",
+      "name": "Give a name to a tamed wolf",
+      "description": "Right click on a tamed wolf with a custom named nametag",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "wolf mob texture with mini name tag in corner"
+    },
+    {
+      "id": "quest.give_a_name_to_a_tamed_cat",
+      "name": "Give a name to a tamed cat",
+      "description": "Right click on a tamed cat with a custom named nametag",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "cat mob texture with mini name tag in corner"
+    },
+    {
+      "id": "quest.kill_a_mob_using_a_spear_whilst_riding_an_armored_horse",
+      "name": "Kill a mob using a spear whilst riding an armored horse",
+      "description": "A player kills a mob using a spear whilst riding horse that is wearing horse armor",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "horse wearing horse armor texture with mini cycling spear types in corner"
+    },
+    {
+      "id": "quest.throw_a_diamond_pickaxe_into_lava",
+      "name": "Throw a diamond pickaxe into lava",
+      "description": "A player throws a diamond pickaxe into lava",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "diamond pickaxe with mini bucket of lava in corner"
+    },
+    {
+      "id": "quest.obtain_all_cobblestone_block_varients",
+      "name": "Obtain all cobblestone block varients",
+      "description": "A player obtains cobblestone, cobblestone stairs, cobblestone slab, cobblestone wall. mossy cobblestone, mossy cobblestone stairs, mossy cobblestone slab, and mossy cobblestone wall",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.obtain_all_stone_brick_varients",
+      "name": "Obtain all stone brick varients",
+      "description": "A player obtains stone bricks, cracked stone bricks, stone brick stairs, stone brick slabs, stone brick wall, chiseled tone bricks, mossy stone bricks, mossy stone brick stairs, mossy stone brick slabs, and mossy stone brick wall",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.obtain_all_sandstone_block_varients",
+      "name": "Obtain all sandstone block varients",
+      "description": "A player obtains sandstone sandstone stairs, sandstone slab, sandstone wall, chiseled sandstone, smooth sandstone, smooth sandstone stairs, smooth sandstone slab, cut sandstone, and cut sandstone slab",
+      "rarity": "uncommon",
+      "category": "shovel",
+      "extra": "",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.obtain_all_red_sandstone_block_varients",
+      "name": "Obtain all red sandstone block varients",
+      "description": "A player obtains red sandstone, red sandstone stairs, red sandstone slab, red sandstone wall, chiseled red sandstone, smooth red sandstone, smooth red sandstone, smooth red sandstone slab, cut red sandstone, and cut red sandstone slab",
+      "rarity": "rare",
+      "category": "shovel",
+      "extra": "",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.obtain_all_mossy_block_varients",
+      "name": "Obtain all mossy block varients",
+      "description": "A player obtains mossy cobblestone, mossy cobblestone stairs, mossy cobblestone slab, mossy cobblestone wall, mossy stone bricks, mossy stone brick stairs, mossy stone brick slab, and mossy stone brick wall",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.obtain_all_blackstone_block_varients",
+      "name": "Obtain all blackstone block varients",
+      "description": "A player obtains blackstone, gilded blackstone, blackstone stairs, blackstone slab, blackstone wall, chiseled polished blackstone, polished blackstone, polished blackstone, polished blackstone slab, polished blackstone wall, polished blackstone pressure plate, polished blackstone button, polished blackstone bricks, cracked polished blackstone bricks, polished blackstone brick stairs, polished blackstone brick slab, and polished blackstone brick wall",
+      "rarity": "rare",
+      "category": "nether",
+      "extra": "",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.obtain_all_end_stone_varients",
+      "name": "Obtain all end stone varients",
+      "description": "A player obtains end stone, end stone bricks, end stone brick stairs, end stone brick slab, and end stone brick wall",
+      "rarity": "mythic",
+      "category": "end",
+      "extra": "Can only appear if hostile movs are enabled",
+      "texture": "Cycle between all the blocks on the wind condition list"
+    },
+    {
+      "id": "quest.ring_a_bell",
+      "name": "Ring a bell",
+      "description": "A player right clicks on a bell",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "bell with the word \"click\""
+    },
+    {
+      "id": "quest.whole_team_has_a_tamed_wolf",
+      "name": "Whole team has a tamed wolf",
+      "description": "Every player on the team has a living tamed wolf",
+      "rarity": "uncommon",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "wolf mob texture with two player heads in corner"
+    },
+    {
+      "id": "quest.whole_team_has_a_tamed_cat",
+      "name": "Whole team has a tamed cat",
+      "description": "Every player on the team has a living tamed cat",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "cat mob texture with two player heads in corner"
+    },
+    {
+      "id": "quest.ride_a_minecart_for_25_meters",
+      "name": "Ride a minecart for 25 meters",
+      "description": "A player travels in a minecart for 25 meters",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "minecart with mini rail in corner and number 25m"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_copper",
+      "name": "Stand on a block of copper",
+      "description": "A player stands on a block of copper",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of copper with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_iron",
+      "name": "Stand on a block of iron",
+      "description": "A player stands on a block of iron",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of iron with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_lapis_lazuli",
+      "name": "Stand on a block of lapis lazuli",
+      "description": "A player stands on a block of lapis lazuli",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of lapis lazuli with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_gold",
+      "name": "Stand on a block of gold",
+      "description": "A player stands on a block of gold",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of gold with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_redstone",
+      "name": "Stand on a block of redstone",
+      "description": "A player stands on a block of redstone",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of redstone with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_of_diamond",
+      "name": "Stand on a block of of diamond",
+      "description": "A player stands on a block of diamond",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of diamond with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_netherite",
+      "name": "Stand on a block of netherite",
+      "description": "A player stands on a block of netherite",
+      "rarity": "legendary",
+      "category": "nether",
+      "extra": "",
+      "texture": "Block of netherite with mini leather boots in corner"
+    },
+    {
+      "id": "quest.get_stuck_in_a_cobweb",
+      "name": "Get stuck in a cobweb",
+      "description": "A player walks into a cobweb",
+      "rarity": "epic",
+      "category": "travel",
+      "extra": "",
+      "texture": "cobweb with mini slowness effect texture in corner"
+    },
+    {
+      "id": "quest.trigger_a_sculk_sensor",
+      "name": "Trigger a sculk sensor",
+      "description": "A player triggers a sculk sensor",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "sculk sensor with mini leather boots in corner"
+    },
+    {
+      "id": "quest.grow_20_trees",
+      "name": "Grow 20 trees",
+      "description": "A player grows 20 trees from saplings",
+      "rarity": "rare",
+      "category": "farm",
+      "extra": "",
+      "texture": "cycle between all sapling types with mini bonemeal in corner and number 20"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_coal",
+      "name": "Stand on a block of coal",
+      "description": "A player stands on a block of coal",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of coal with mini leather boots in corner"
+    },
+    {
+      "id": "quest.stand_on_a_block_of_emerald",
+      "name": "Stand on a block of emerald",
+      "description": "A player stands on a block of emerald",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Block of emerald with mini leather boots in corner"
+    },
+    {
+      "id": "quest.push_a_button_20_times",
+      "name": "Push a button 20 times",
+      "description": "A player pushes a button 20 times",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "cycle between all button types with the word \"click\" and the number 20"
+    },
+    {
+      "id": "quest.flick_a_lever_20_times",
+      "name": "Flick a lever 20 times",
+      "description": "A player flicks a lever 20 times",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "lever with the word \"click\" and the number 20"
+    },
+    {
+      "id": "quest.decorate_a_pot_with_a_pottery_sherd",
+      "name": "Decorate a pot with a pottery sherd",
+      "description": "A player crafts a decorated pot using at least 1 pottery sherd",
+      "rarity": "rare",
+      "category": "travel",
+      "extra": "",
+      "texture": "decorated pot with cycling between all mini pottery sherd types in corner"
+    },
+    {
+      "id": "quest.place_a_bee_nest_or_a_bee_hive_in_the_nether",
+      "name": "Place a bee nest or a bee hive in the nether",
+      "description": "A player places either a bee nest or a bee hive in the nether",
+      "rarity": "epic",
+      "category": "nether",
+      "extra": "",
+      "texture": "cycle between bee nest and bee hive with mini nether portal swirl texture in corner"
+    },
+    {
+      "id": "quest.right_click_a_fletching_table",
+      "name": "Right click a fletching table",
+      "description": "A player right clicks on a fletching table (I wonder if it has a use?)",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "fletching table with the word \"click\""
+    },
+    {
+      "id": "quest.play_sound_from_a_note_block_whilst_playing_music_on_a_jukebox",
+      "name": "Play sound from a note block whilst playing music on a jukebox",
+      "description": "A player right clicks on a note block whilst music is playing from a jukebox near them",
+      "rarity": "epic",
+      "category": "mine",
+      "extra": "",
+      "texture": "noteblock with mini jukebox in corner"
+    },
+    {
+      "id": "quest.each_team_member_looks_at_a_different_member_of_their_team",
+      "name": "Each team member looks at a different member of their team",
+      "description": "Each team member looks at a different member of their team (no one should be looking at the same player)",
+      "rarity": "common",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "eye of ender with two mini player heads in corner"
+    },
+    {
+      "id": "quest.boat_on_ice",
+      "name": "Boat on ice",
+      "description": "A player is in a boat that is on ice",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "cycle between all boat types with mini ice in corner"
+    },
+    {
+      "id": "quest.crouch_on_soul_sand",
+      "name": "Crouch on soul sand",
+      "description": "A player crouches whilst standing on soul sand",
+      "rarity": "rare",
+      "category": "nether",
+      "extra": "",
+      "texture": "soul sand with mini slowness effect texture in corner"
+    },
+    {
+      "id": "quest.use_a_ladder_to_climb_64_meters_in_hieght",
+      "name": "Use a ladder to climb 64 meters in hieght",
+      "description": "A player climbs 64 meters in hieght using ladders",
+      "rarity": "uncommon",
+      "category": "travel",
+      "extra": "",
+      "texture": "ladder with mini jump boost effect texture in corner and number 64m"
+    },
+    {
+      "id": "quest.use_a_crafter_to_craft_a_crafter",
+      "name": "Use a crafter to craft a crafter",
+      "description": "A player uses a crafter to craft a crafter",
+      "rarity": "rare",
+      "category": "mine",
+      "extra": "",
+      "texture": "Crafter with mini crafter in corner"
+    },
+    {
+      "id": "quest.put_a_crafting_table_in_a_crafting_table",
+      "name": "Put a crafting table in a crafting table",
+      "description": "A player puts a crafting table in a crafting table",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "crafting table with mini crafting table in corner"
+    },
+    {
+      "id": "quest.put_a_furnace_in_a_furnace",
+      "name": "Put a furnace in a furnace",
+      "description": "A player puts a furnace in a furnace",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "furnace with mini furnace in corner"
+    },
+    {
+      "id": "quest.put_a_blast_furnace_in_a_blast_furnace",
+      "name": "Put a blast furnace in a blast furnace",
+      "description": "A player puts a blast furnace in a blast furnace",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "blast furnace with mini blast furnace in corner"
+    },
+    {
+      "id": "quest.put_a_smoker_in_a_smoker",
+      "name": "Put a smoker in a smoker",
+      "description": "A player puts a smoker in a smoker",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "smoker with mini smoker in corner"
+    },
+    {
+      "id": "quest.put_a_decorated_pot_in_a_decorated_pot",
+      "name": "Put a decorated pot in a decorated pot",
+      "description": "A player puts a decorated pot in a decorated pot",
+      "rarity": "common",
+      "category": "shovel",
+      "extra": "",
+      "texture": "decorated pot with mini decorated pot in corner"
+    },
+    {
+      "id": "quest.put_a_chest_in_a_chest",
+      "name": "Put a chest in a chest",
+      "description": "A player puts a chest in a chest",
+      "rarity": "common",
+      "category": "misc",
+      "extra": "",
+      "texture": "chest with mini chest in corner"
+    },
+    {
+      "id": "quest.throw_a_bucket_of_axolotl_into_lava",
+      "name": "Throw a bucket of axolotl into lava",
+      "description": "A player throws a bucket of axolotl into lava",
+      "rarity": "rare",
+      "category": "animal",
+      "extra": "",
+      "texture": "bucket of axolotl with mini bucket of lava in corner"
+    },
+    {
+      "id": "quest.throw_a_splash_potion_at_a_witch",
+      "name": "Throw a splash potion at a witch",
+      "description": "A player throws a splash potion at a witch",
+      "rarity": "legendary",
+      "category": "monster",
+      "extra": "Can only appear if hostole mobs are enabled",
+      "texture": "witch mob texture with mini splash potion in corner"
+    },
+    {
+      "id": "quest.mine_obsidian_using_an_iron_pickaxe",
+      "name": "Mine obsidian using an iron pickaxe",
+      "description": "A player mines obsidian using an iron pickaxe",
+      "rarity": "uncommon",
+      "category": "mine",
+      "extra": "",
+      "texture": "obsidian with mini iron pickaxe in corner"
+    },
+    {
+      "id": "quest.mine_stone_using_your_fists",
+      "name": "Mine stone using your fists",
+      "description": "A player mines stone using their fists",
+      "rarity": "common",
+      "category": "mine",
+      "extra": "",
+      "texture": "stone with word \"punch\""
+    },
+    {
+      "id": "quest.attach_a_fishing_rod_to_a_creeper",
+      "name": "Attach a fishing rod to a creeper",
+      "description": "A player attaches a fishing rod line to a creeper",
+      "rarity": "uncommon",
+      "category": "monster",
+      "extra": "Can only appear if hostole mobs are enabled",
+      "texture": "creeper mob texture with mini fishing rod in corner"
+    },
+    {
+      "id": "quest.jump_on_mud",
+      "name": "Jump on mud",
+      "description": "A player jumps whilst standing on mud",
+      "rarity": "common",
+      "category": "travel",
+      "extra": "",
+      "texture": "mud with mini jump boost effect texture in corner"
+    },
+    {
+      "id": "quest.give_a_red_tulip_to_a_teamate",
+      "name": "Give a red tulip to a teamate",
+      "description": "Throw a red tulip and have a teamate pick it up",
+      "rarity": "rare",
+      "category": "team",
+      "extra": "Can only appear if there is more than 1 person on each in play team",
+      "texture": "red tulip with two mini player heads in corner"
+    },
+    {
+      "id": "quest.say_gg_in_chat_when_this_is_the_last_remaining_slot",
+      "name": "Say gg in chat when this is the last remaining slot",
+      "description": "A player says gg in the global chat when this is the last remaining slot on the board",
+      "rarity": "rare",
+      "category": "misc",
+      "extra": "This can only be completed if it is the last available slot on the card",
+      "texture": "the word \"gg\""
+    },
+    {
+      "id": "quest.obtain_all_snow_varients",
+      "name": "Obtain all snow varients",
+      "description": "A player obtains snow block, snow, powder snow bucket, and snowball",
+      "rarity": "epic",
+      "category": "shovel",
+      "extra": "",
+      "texture": "cycle between snow block, snow, powder snow bucket, and snowball"
+    },
+    {
+      "id": "quest.place_a_book_and_quil_into_a_lectern",
+      "name": "Place a book and quil into a lectern",
+      "description": "A player places a book and quil into a lectern",
+      "rarity": "uncommon",
+      "category": "misc",
+      "extra": "",
+      "texture": "lectern with mini book and quil in corner"
+    },
+    {
+      "id": "quest.enter_a_crawl_state",
+      "name": "Enter a crawl state",
+      "description": "A player enters a crawl state",
+      "rarity": "common",
+      "category": "travel",
+      "extra": "",
+      "texture": "oak trapdoor with mini player head in corner"
+    },
+    {
+      "id": "quest.give_a_diamond_sword_to_an_allay",
+      "name": "Give a diamond sword to an allay",
+      "description": "A player gives a diamond sword to an allay",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "allay mob texture with mini iron sword in corner"
+    },
+    {
+      "id": "quest.have_an_allay_give_you_an_item",
+      "name": "Have an allay give you an item",
+      "description": "A player gets the \"You've Got a Friend in Me\" advancement",
+      "rarity": "epic",
+      "category": "animal",
+      "extra": "",
+      "texture": "allay mob texture with mini chest in corner"
+    }
+  ]
+}
