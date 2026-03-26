@@ -27,7 +27,7 @@ jobs:
           test -n "$WEEKLY_PUBLISH_URL"
           test -n "$WEEKLY_API_KEY"
 
-            - name: Generate weekly payload
+                  - name: Generate weekly payload
         run: |
           chmod +x ./gradlew
           ./gradlew -q runWeeklyChallengeExport > weekly-export.log
